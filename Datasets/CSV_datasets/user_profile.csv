@@ -1,0 +1,2001 @@
+User_ID,Gender,Age_Group,Region,Subscription_Type,Subscription_Start_Date,Subscription_End_Date,Device_Type,Engagement_Level
+U0001,Female,50+,West,Free Trial,27/02/2024,24/07/2024,Smart TV,High
+U0002,Female,50+,East,Basic,09/03/2023,12/11/2023,Mobile,Medium
+U0003,Female,26-35,East,Free Trial,03/02/2025,19/06/2025,Tablet,High
+U0004,Male,36-50,Central,Free Trial,18/09/2022,05/09/2023,Laptop,Medium
+U0005,Female,50+,Central,Premium,29/07/2022,13/03/2023,Mobile,Low
+U0006,Male,26-35,North,Free Trial,17/12/2024,31/03/2025,Laptop,High
+U0007,Male,50+,East,Basic,25/09/2023,08/08/2024,Mobile,Medium
+U0008,Male,36-50,West,Basic,14/10/2025,15/02/2026,Tablet,High
+U0009,Male,18-25,East,Basic,17/03/2023,02/02/2024,Mobile,Low
+U0010,Male,26-35,East,Basic,17/01/2025,08/09/2025,Mobile,Medium
+U0011,Female,50+,South,Basic,24/08/2023,19/12/2023,Laptop,High
+U0012,Male,36-50,North,Premium,18/09/2023,19/06/2024,Smart TV,High
+U0013,Male,18-25,South,Premium,13/08/2025,05/12/2025,Smart TV,Medium
+U0014,Other,18-25,South,Premium,07/08/2023,08/01/2024,Smart TV,High
+U0015,Male,36-50,East,Basic,09/08/2024,20/03/2025,Tablet,Low
+U0016,Other,36-50,North,Basic,16/02/2023,12/07/2023,Tablet,Low
+U0017,Male,50+,East,Free Trial,04/10/2025,27/09/2026,Mobile,Medium
+U0018,Male,36-50,West,Premium,28/09/2025,23/05/2026,Smart TV,Low
+U0019,Male,26-35,Central,Basic,13/12/2024,03/06/2025,Mobile,Medium
+U0020,Male,50+,Central,Basic,15/07/2023,09/12/2023,Tablet,Medium
+U0021,Female,50+,North,Free Trial,10/04/2023,08/03/2024,Laptop,High
+U0022,Other,50+,Central,Free Trial,11/07/2024,27/10/2024,Laptop,High
+U0023,Male,50+,North,Basic,13/10/2022,28/02/2023,Smart TV,High
+U0024,Other,18-25,West,Premium,06/10/2022,07/09/2023,Tablet,Low
+U0025,Male,50+,South,Free Trial,27/08/2025,30/05/2026,Tablet,Low
+U0026,Other,36-50,North,Premium,07/02/2022,30/11/2022,Mobile,Low
+U0027,Female,36-50,North,Free Trial,05/07/2024,23/05/2025,Tablet,High
+U0028,Female,36-50,East,Basic,14/03/2025,10/08/2025,Mobile,Medium
+U0029,Other,36-50,South,Premium,15/12/2022,09/05/2023,Smart TV,High
+U0030,Male,18-25,South,Basic,02/08/2023,16/05/2024,Smart TV,Medium
+U0031,Male,36-50,Central,Premium,26/09/2025,15/09/2026,Tablet,Low
+U0032,Female,50+,West,Free Trial,12/03/2025,17/11/2025,Laptop,Medium
+U0033,Female,26-35,West,Premium,02/03/2024,18/11/2024,Tablet,Medium
+U0034,Other,50+,North,Premium,19/07/2023,18/12/2023,Mobile,Medium
+U0035,Male,18-25,South,Free Trial,14/05/2025,11/09/2025,Laptop,Medium
+U0036,Male,26-35,Central,Basic,08/11/2024,02/10/2025,Tablet,Low
+U0037,Other,50+,West,Premium,22/10/2025,23/09/2026,Smart TV,High
+U0038,Male,36-50,East,Basic,28/02/2025,10/09/2025,Mobile,High
+U0039,Male,26-35,South,Premium,20/09/2024,28/12/2024,Tablet,Medium
+U0040,Other,50+,East,Basic,02/01/2022,09/12/2022,Laptop,High
+U0041,Male,26-35,West,Premium,11/12/2025,20/07/2026,Laptop,High
+U0042,Female,36-50,North,Premium,10/08/2024,14/03/2025,Mobile,Medium
+U0043,Male,50+,East,Premium,03/06/2023,18/05/2024,Laptop,Medium
+U0044,Female,36-50,West,Premium,08/02/2025,28/11/2025,Mobile,High
+U0045,Male,36-50,East,Premium,31/01/2022,05/07/2022,Tablet,Low
+U0046,Female,50+,East,Premium,24/10/2023,18/03/2024,Mobile,Low
+U0047,Male,26-35,West,Free Trial,26/12/2023,12/09/2024,Mobile,Low
+U0048,Male,50+,South,Basic,04/07/2022,31/12/2022,Smart TV,High
+U0049,Other,18-25,South,Premium,08/05/2025,06/02/2026,Laptop,High
+U0050,Female,18-25,West,Basic,24/11/2022,21/10/2023,Laptop,High
+U0051,Male,36-50,West,Free Trial,07/02/2024,25/10/2024,Smart TV,Medium
+U0052,Female,50+,East,Free Trial,23/12/2022,29/04/2023,Smart TV,Low
+U0053,Male,50+,South,Free Trial,28/04/2024,29/11/2024,Laptop,Low
+U0054,Male,26-35,West,Premium,17/04/2024,04/12/2024,Mobile,Medium
+U0055,Other,18-25,North,Free Trial,23/04/2023,06/11/2023,Laptop,Low
+U0056,Other,18-25,North,Premium,09/09/2022,22/04/2023,Tablet,Low
+U0057,Male,50+,Central,Basic,16/03/2024,11/10/2024,Laptop,High
+U0058,Female,18-25,East,Basic,03/03/2025,27/07/2025,Smart TV,High
+U0059,Male,36-50,North,Basic,07/01/2022,08/04/2022,Smart TV,Medium
+U0060,Other,50+,North,Free Trial,15/04/2023,11/09/2023,Tablet,Low
+U0061,Male,50+,Central,Basic,20/03/2023,08/08/2023,Mobile,Low
+U0062,Female,26-35,West,Free Trial,07/04/2023,02/01/2024,Smart TV,High
+U0063,Female,50+,Central,Premium,09/10/2025,08/08/2026,Smart TV,High
+U0064,Other,18-25,North,Premium,23/10/2022,12/05/2023,Laptop,High
+U0065,Other,18-25,East,Basic,07/09/2024,08/12/2024,Laptop,High
+U0066,Male,26-35,Central,Basic,05/10/2023,22/03/2024,Mobile,Low
+U0067,Female,50+,North,Premium,05/07/2022,19/12/2022,Mobile,High
+U0068,Other,36-50,North,Free Trial,20/07/2024,04/06/2025,Tablet,Low
+U0069,Female,26-35,Central,Premium,22/11/2022,22/05/2023,Laptop,Low
+U0070,Other,26-35,West,Free Trial,23/07/2025,18/05/2026,Tablet,Low
+U0071,Other,18-25,Central,Basic,04/07/2023,22/05/2024,Tablet,Low
+U0072,Female,26-35,North,Basic,17/02/2022,01/02/2023,Mobile,Low
+U0073,Male,36-50,West,Basic,07/06/2023,26/05/2024,Tablet,High
+U0074,Female,18-25,Central,Premium,25/08/2024,13/04/2025,Mobile,High
+U0075,Female,50+,Central,Free Trial,06/04/2025,04/02/2026,Laptop,Low
+U0076,Other,26-35,West,Premium,21/08/2024,04/08/2025,Mobile,High
+U0077,Male,36-50,North,Basic,25/08/2022,21/05/2023,Mobile,Low
+U0078,Male,18-25,South,Basic,16/01/2025,23/05/2025,Smart TV,Medium
+U0079,Female,26-35,Central,Premium,16/03/2023,15/07/2023,Smart TV,Medium
+U0080,Male,50+,South,Free Trial,07/11/2025,21/05/2026,Smart TV,Medium
+U0081,Male,50+,East,Premium,26/12/2024,14/12/2025,Laptop,Medium
+U0082,Other,26-35,South,Free Trial,05/06/2023,10/12/2023,Smart TV,Medium
+U0083,Male,18-25,Central,Free Trial,21/03/2023,06/10/2023,Smart TV,Low
+U0084,Male,50+,East,Free Trial,02/10/2022,05/04/2023,Mobile,Low
+U0085,Other,18-25,West,Basic,29/09/2023,12/07/2024,Laptop,Medium
+U0086,Female,18-25,Central,Premium,24/01/2022,15/09/2022,Laptop,Medium
+U0087,Female,18-25,Central,Basic,11/07/2022,21/05/2023,Mobile,Low
+U0088,Female,50+,West,Basic,13/05/2023,28/12/2023,Tablet,Low
+U0089,Other,26-35,Central,Free Trial,09/02/2025,08/01/2026,Tablet,Low
+U0090,Other,26-35,South,Free Trial,05/01/2023,24/07/2023,Laptop,High
+U0091,Male,50+,West,Premium,12/04/2022,01/10/2022,Tablet,Low
+U0092,Other,26-35,East,Free Trial,05/03/2023,28/11/2023,Smart TV,Low
+U0093,Male,26-35,North,Free Trial,09/09/2022,05/03/2023,Mobile,High
+U0094,Male,26-35,Central,Free Trial,30/08/2025,27/07/2026,Tablet,Low
+U0095,Female,50+,Central,Free Trial,06/12/2025,17/06/2026,Mobile,Low
+U0096,Female,18-25,North,Premium,15/03/2022,26/12/2022,Mobile,Low
+U0097,Female,36-50,Central,Premium,04/11/2024,21/08/2025,Tablet,High
+U0098,Female,36-50,West,Basic,03/09/2023,16/12/2023,Tablet,High
+U0099,Male,36-50,Central,Free Trial,29/02/2024,14/07/2024,Smart TV,High
+U0100,Female,18-25,South,Free Trial,08/10/2024,30/03/2025,Tablet,Low
+U0101,Female,18-25,East,Basic,13/01/2022,13/08/2022,Smart TV,Medium
+U0102,Other,36-50,Central,Free Trial,16/11/2022,15/06/2023,Mobile,Low
+U0103,Other,26-35,North,Free Trial,07/04/2025,25/07/2025,Smart TV,High
+U0104,Female,50+,West,Free Trial,11/01/2024,04/06/2024,Tablet,Medium
+U0105,Female,50+,Central,Premium,18/09/2022,05/07/2023,Mobile,Medium
+U0106,Other,18-25,Central,Basic,18/11/2025,01/03/2026,Laptop,Medium
+U0107,Male,50+,North,Free Trial,15/01/2024,08/11/2024,Mobile,Low
+U0108,Female,18-25,North,Premium,11/01/2025,22/05/2025,Smart TV,Low
+U0109,Other,50+,West,Basic,10/01/2025,18/04/2025,Smart TV,Medium
+U0110,Other,50+,South,Premium,16/07/2024,30/05/2025,Smart TV,Medium
+U0111,Male,36-50,South,Basic,24/12/2025,27/08/2026,Smart TV,High
+U0112,Female,18-25,South,Premium,16/07/2024,03/05/2025,Mobile,Medium
+U0113,Other,50+,South,Premium,28/11/2025,11/03/2026,Tablet,Medium
+U0114,Male,36-50,Central,Basic,15/01/2023,17/04/2023,Tablet,High
+U0115,Other,18-25,East,Free Trial,23/02/2022,12/01/2023,Mobile,Low
+U0116,Male,36-50,Central,Basic,27/01/2025,11/05/2025,Smart TV,Medium
+U0117,Other,26-35,East,Free Trial,06/11/2024,14/03/2025,Smart TV,High
+U0118,Male,50+,South,Premium,18/09/2022,24/01/2023,Tablet,Medium
+U0119,Other,26-35,South,Premium,18/05/2023,17/10/2023,Tablet,Low
+U0120,Male,26-35,East,Premium,25/10/2025,02/07/2026,Mobile,Medium
+U0121,Male,36-50,East,Free Trial,24/11/2023,24/09/2024,Tablet,High
+U0122,Female,26-35,West,Free Trial,23/07/2022,29/04/2023,Smart TV,High
+U0123,Male,36-50,North,Basic,05/08/2022,14/11/2022,Mobile,Low
+U0124,Male,26-35,South,Premium,13/10/2023,11/03/2024,Smart TV,Medium
+U0125,Other,36-50,North,Free Trial,11/12/2023,08/11/2024,Mobile,Low
+U0126,Male,50+,East,Free Trial,06/10/2022,14/07/2023,Laptop,Medium
+U0127,Other,36-50,Central,Free Trial,20/03/2022,29/07/2022,Laptop,Low
+U0128,Male,36-50,Central,Free Trial,23/09/2023,03/04/2024,Laptop,Medium
+U0129,Female,36-50,West,Premium,03/04/2023,26/08/2023,Mobile,High
+U0130,Female,26-35,Central,Free Trial,08/04/2022,23/01/2023,Mobile,Low
+U0131,Other,26-35,West,Premium,30/06/2023,19/05/2024,Smart TV,Low
+U0132,Male,36-50,Central,Premium,11/03/2023,17/07/2023,Smart TV,Low
+U0133,Male,18-25,West,Premium,26/08/2024,20/02/2025,Mobile,High
+U0134,Other,26-35,East,Premium,13/01/2023,11/01/2024,Smart TV,Low
+U0135,Male,18-25,South,Basic,19/10/2023,08/10/2024,Tablet,Medium
+U0136,Male,36-50,West,Basic,13/01/2022,26/07/2022,Smart TV,Medium
+U0137,Other,26-35,East,Basic,24/03/2023,15/12/2023,Mobile,High
+U0138,Female,18-25,South,Premium,20/09/2024,28/05/2025,Tablet,Low
+U0139,Other,26-35,North,Basic,26/11/2024,05/10/2025,Mobile,Medium
+U0140,Female,50+,North,Free Trial,24/06/2025,31/05/2026,Mobile,High
+U0141,Male,36-50,North,Basic,03/05/2022,05/11/2022,Laptop,Low
+U0142,Female,18-25,East,Basic,26/04/2022,05/01/2023,Tablet,Medium
+U0143,Male,18-25,East,Basic,11/04/2024,15/01/2025,Smart TV,Low
+U0144,Other,36-50,East,Free Trial,07/07/2022,20/02/2023,Tablet,Low
+U0145,Female,18-25,South,Free Trial,23/12/2023,12/10/2024,Laptop,High
+U0146,Male,26-35,North,Basic,04/01/2022,11/12/2022,Mobile,Medium
+U0147,Female,36-50,North,Premium,19/01/2022,17/12/2022,Smart TV,High
+U0148,Male,18-25,East,Premium,08/06/2024,24/10/2024,Tablet,Medium
+U0149,Female,26-35,Central,Premium,25/08/2024,30/06/2025,Smart TV,High
+U0150,Male,36-50,South,Premium,14/07/2022,17/01/2023,Mobile,Low
+U0151,Other,18-25,East,Basic,02/02/2024,24/09/2024,Smart TV,High
+U0152,Other,18-25,West,Basic,03/10/2022,03/02/2023,Tablet,Low
+U0153,Other,50+,North,Free Trial,01/03/2023,19/10/2023,Tablet,High
+U0154,Male,36-50,East,Free Trial,18/09/2023,18/05/2024,Laptop,Medium
+U0155,Male,18-25,West,Free Trial,21/12/2023,11/05/2024,Smart TV,High
+U0156,Other,18-25,North,Premium,19/02/2023,06/07/2023,Tablet,Low
+U0157,Female,36-50,Central,Free Trial,10/02/2023,18/08/2023,Tablet,Low
+U0158,Other,36-50,East,Free Trial,04/10/2024,02/03/2025,Mobile,Low
+U0159,Male,26-35,North,Premium,17/05/2025,03/11/2025,Mobile,Medium
+U0160,Male,36-50,North,Basic,28/12/2023,31/07/2024,Smart TV,Low
+U0161,Other,18-25,South,Premium,14/04/2024,09/10/2024,Mobile,Low
+U0162,Male,50+,West,Premium,17/06/2025,13/02/2026,Smart TV,High
+U0163,Female,50+,South,Basic,28/04/2024,04/01/2025,Mobile,High
+U0164,Other,18-25,Central,Basic,13/07/2022,14/04/2023,Mobile,Medium
+U0165,Male,50+,West,Free Trial,07/02/2023,02/01/2024,Tablet,High
+U0166,Male,18-25,South,Basic,02/11/2024,03/06/2025,Laptop,Medium
+U0167,Other,36-50,Central,Basic,05/08/2022,15/04/2023,Tablet,Medium
+U0168,Male,50+,West,Basic,15/04/2022,11/12/2022,Laptop,High
+U0169,Other,36-50,North,Basic,08/08/2022,24/01/2023,Laptop,Low
+U0170,Other,18-25,East,Premium,25/07/2023,28/11/2023,Laptop,Medium
+U0171,Female,18-25,North,Basic,22/10/2025,09/08/2026,Tablet,Low
+U0172,Other,26-35,West,Premium,27/05/2025,26/08/2025,Mobile,High
+U0173,Other,50+,West,Basic,28/05/2022,28/03/2023,Laptop,Medium
+U0174,Other,36-50,Central,Free Trial,07/04/2025,29/11/2025,Smart TV,Medium
+U0175,Other,50+,Central,Basic,01/07/2025,29/12/2025,Mobile,High
+U0176,Other,36-50,West,Free Trial,13/09/2023,24/08/2024,Smart TV,High
+U0177,Other,18-25,West,Premium,17/02/2025,17/12/2025,Mobile,Low
+U0178,Female,36-50,Central,Basic,15/07/2024,25/10/2024,Laptop,Low
+U0179,Male,26-35,South,Free Trial,23/09/2023,19/09/2024,Tablet,High
+U0180,Male,50+,North,Premium,01/09/2025,31/12/2025,Mobile,High
+U0181,Female,18-25,South,Basic,05/05/2022,21/01/2023,Laptop,High
+U0182,Female,36-50,East,Basic,23/12/2023,14/10/2024,Tablet,Medium
+U0183,Female,26-35,West,Basic,05/02/2022,20/06/2022,Smart TV,Low
+U0184,Male,50+,East,Basic,06/03/2023,31/08/2023,Laptop,High
+U0185,Female,36-50,East,Basic,24/01/2023,05/12/2023,Smart TV,Low
+U0186,Male,50+,North,Premium,11/09/2023,17/06/2024,Laptop,Low
+U0187,Male,50+,Central,Basic,21/10/2022,12/08/2023,Mobile,Low
+U0188,Other,50+,North,Basic,02/07/2025,06/11/2025,Mobile,Medium
+U0189,Female,18-25,East,Basic,17/04/2023,04/11/2023,Tablet,High
+U0190,Male,18-25,Central,Premium,02/02/2022,01/01/2023,Laptop,High
+U0191,Male,26-35,North,Basic,12/06/2024,13/12/2024,Tablet,Medium
+U0192,Male,36-50,West,Basic,28/12/2024,25/10/2025,Tablet,Low
+U0193,Other,18-25,West,Free Trial,30/12/2024,26/06/2025,Smart TV,Low
+U0194,Female,26-35,South,Free Trial,27/06/2025,12/06/2026,Smart TV,Low
+U0195,Male,36-50,South,Basic,01/08/2025,29/03/2026,Laptop,Low
+U0196,Other,36-50,East,Basic,25/07/2024,23/05/2025,Smart TV,Low
+U0197,Male,26-35,North,Premium,13/03/2022,09/11/2022,Tablet,High
+U0198,Female,18-25,East,Free Trial,22/04/2022,11/01/2023,Tablet,Low
+U0199,Male,18-25,West,Free Trial,03/08/2025,16/03/2026,Mobile,High
+U0200,Other,36-50,North,Premium,18/07/2023,11/11/2023,Mobile,High
+U0201,Other,36-50,West,Basic,18/08/2025,15/12/2025,Smart TV,Low
+U0202,Other,18-25,North,Free Trial,29/10/2022,26/09/2023,Mobile,Low
+U0203,Female,18-25,North,Premium,08/08/2025,14/01/2026,Laptop,Low
+U0204,Other,36-50,East,Premium,30/10/2024,21/07/2025,Tablet,Low
+U0205,Other,26-35,Central,Premium,23/01/2024,30/10/2024,Mobile,Low
+U0206,Female,50+,Central,Basic,26/10/2022,03/10/2023,Tablet,Medium
+U0207,Other,26-35,North,Premium,29/01/2022,19/05/2022,Mobile,Low
+U0208,Male,36-50,West,Free Trial,28/01/2024,11/09/2024,Laptop,Medium
+U0209,Other,36-50,North,Basic,06/12/2022,19/10/2023,Laptop,Low
+U0210,Male,36-50,Central,Free Trial,16/07/2022,09/04/2023,Mobile,Low
+U0211,Female,26-35,South,Premium,25/09/2023,08/07/2024,Smart TV,Medium
+U0212,Female,50+,North,Premium,18/01/2025,30/12/2025,Laptop,High
+U0213,Male,18-25,West,Free Trial,14/04/2023,15/10/2023,Smart TV,Low
+U0214,Female,18-25,East,Free Trial,04/10/2023,22/07/2024,Smart TV,Low
+U0215,Female,26-35,South,Free Trial,20/05/2024,05/03/2025,Mobile,Medium
+U0216,Other,18-25,North,Premium,30/01/2022,08/08/2022,Laptop,High
+U0217,Male,26-35,West,Basic,07/02/2023,24/11/2023,Tablet,Medium
+U0218,Other,50+,West,Free Trial,08/12/2025,11/09/2026,Mobile,High
+U0219,Female,18-25,West,Premium,22/04/2024,20/01/2025,Tablet,Medium
+U0220,Male,36-50,West,Basic,11/05/2024,23/02/2025,Tablet,Medium
+U0221,Male,26-35,West,Free Trial,29/03/2023,21/03/2024,Smart TV,Medium
+U0222,Other,18-25,West,Premium,29/08/2024,13/02/2025,Smart TV,Low
+U0223,Other,50+,West,Basic,28/11/2024,28/07/2025,Mobile,Low
+U0224,Female,50+,North,Free Trial,11/08/2023,04/06/2024,Laptop,Low
+U0225,Female,18-25,North,Premium,13/05/2024,31/10/2024,Smart TV,Low
+U0226,Male,50+,East,Free Trial,09/04/2025,26/02/2026,Laptop,Low
+U0227,Other,50+,West,Free Trial,28/05/2024,17/03/2025,Laptop,Medium
+U0228,Female,36-50,Central,Premium,04/06/2024,12/03/2025,Tablet,Medium
+U0229,Other,50+,East,Premium,22/10/2025,26/02/2026,Mobile,Medium
+U0230,Other,50+,Central,Premium,14/11/2025,04/11/2026,Mobile,Medium
+U0231,Male,26-35,East,Premium,25/03/2022,16/07/2022,Laptop,Medium
+U0232,Other,18-25,West,Basic,24/12/2024,24/05/2025,Mobile,Medium
+U0233,Female,18-25,East,Basic,26/01/2022,28/10/2022,Tablet,Low
+U0234,Male,26-35,West,Free Trial,08/03/2022,04/10/2022,Smart TV,Medium
+U0235,Other,50+,East,Premium,02/10/2023,05/03/2024,Mobile,High
+U0236,Female,50+,West,Premium,17/11/2025,09/06/2026,Smart TV,Low
+U0237,Female,26-35,East,Basic,20/05/2023,17/03/2024,Tablet,Medium
+U0238,Female,36-50,East,Basic,25/04/2023,11/01/2024,Smart TV,High
+U0239,Male,26-35,East,Free Trial,01/11/2023,06/06/2024,Tablet,Medium
+U0240,Male,36-50,West,Premium,27/04/2025,13/08/2025,Mobile,Low
+U0241,Other,36-50,Central,Premium,30/08/2023,21/05/2024,Laptop,Low
+U0242,Male,50+,West,Premium,21/05/2023,20/09/2023,Mobile,High
+U0243,Other,36-50,South,Premium,24/08/2022,13/05/2023,Smart TV,Medium
+U0244,Female,36-50,South,Basic,19/05/2025,09/02/2026,Laptop,Low
+U0245,Other,50+,Central,Free Trial,19/02/2025,11/01/2026,Mobile,High
+U0246,Other,50+,North,Free Trial,19/12/2024,27/09/2025,Mobile,High
+U0247,Other,18-25,West,Premium,30/08/2024,16/03/2025,Tablet,Medium
+U0248,Male,50+,East,Free Trial,26/08/2022,17/06/2023,Mobile,High
+U0249,Female,26-35,North,Premium,17/03/2025,12/02/2026,Smart TV,High
+U0250,Female,50+,Central,Basic,23/03/2024,20/09/2024,Laptop,Medium
+U0251,Female,50+,North,Premium,31/12/2023,20/05/2024,Mobile,Low
+U0252,Other,26-35,South,Free Trial,03/05/2022,28/03/2023,Mobile,Low
+U0253,Female,26-35,East,Free Trial,16/06/2025,19/11/2025,Tablet,High
+U0254,Other,36-50,South,Premium,17/09/2023,12/09/2024,Tablet,Medium
+U0255,Other,26-35,Central,Premium,19/07/2025,15/06/2026,Tablet,High
+U0256,Male,50+,East,Premium,21/07/2025,02/11/2025,Tablet,Low
+U0257,Other,18-25,North,Basic,05/10/2024,18/06/2025,Laptop,Medium
+U0258,Male,36-50,South,Free Trial,24/11/2025,02/03/2026,Smart TV,Low
+U0259,Other,36-50,East,Premium,31/03/2024,12/03/2025,Mobile,Medium
+U0260,Female,18-25,North,Premium,12/01/2022,15/04/2022,Laptop,Medium
+U0261,Female,26-35,Central,Premium,07/02/2025,24/06/2025,Tablet,High
+U0262,Male,50+,Central,Premium,12/01/2024,27/10/2024,Tablet,Low
+U0263,Male,50+,East,Premium,21/08/2022,03/12/2022,Smart TV,Medium
+U0264,Other,50+,West,Premium,02/01/2022,22/06/2022,Tablet,Medium
+U0265,Female,36-50,South,Premium,20/06/2023,15/01/2024,Laptop,Medium
+U0266,Male,26-35,East,Free Trial,05/01/2023,16/08/2023,Smart TV,Medium
+U0267,Female,18-25,Central,Free Trial,14/07/2025,18/03/2026,Mobile,Medium
+U0268,Female,18-25,East,Free Trial,08/08/2025,22/06/2026,Smart TV,High
+U0269,Male,50+,Central,Basic,23/06/2022,01/06/2023,Smart TV,High
+U0270,Female,26-35,North,Basic,19/08/2022,05/04/2023,Tablet,Low
+U0271,Female,26-35,North,Premium,22/02/2022,31/12/2022,Laptop,Low
+U0272,Female,50+,South,Premium,30/07/2023,09/12/2023,Smart TV,High
+U0273,Other,18-25,West,Premium,17/01/2024,17/05/2024,Laptop,Low
+U0274,Female,36-50,West,Free Trial,26/02/2023,05/02/2024,Tablet,High
+U0275,Other,50+,East,Free Trial,03/06/2025,15/05/2026,Tablet,High
+U0276,Male,26-35,Central,Premium,31/10/2022,24/05/2023,Mobile,Low
+U0277,Female,36-50,West,Basic,09/07/2025,26/04/2026,Mobile,High
+U0278,Other,36-50,South,Free Trial,09/03/2024,10/12/2024,Smart TV,Medium
+U0279,Female,26-35,East,Basic,10/05/2024,20/01/2025,Tablet,High
+U0280,Male,50+,West,Free Trial,23/05/2022,25/10/2022,Tablet,High
+U0281,Other,26-35,South,Premium,07/03/2023,05/02/2024,Mobile,Low
+U0282,Female,36-50,South,Premium,12/02/2024,06/06/2024,Laptop,Medium
+U0283,Other,26-35,South,Free Trial,18/02/2025,16/06/2025,Tablet,High
+U0284,Male,50+,South,Basic,20/07/2024,18/11/2024,Laptop,High
+U0285,Female,50+,East,Premium,24/01/2023,21/08/2023,Laptop,Medium
+U0286,Other,18-25,Central,Free Trial,12/01/2024,20/12/2024,Smart TV,Medium
+U0287,Female,36-50,South,Basic,24/08/2023,31/03/2024,Smart TV,Low
+U0288,Male,18-25,South,Basic,16/04/2024,21/11/2024,Smart TV,Medium
+U0289,Female,36-50,West,Premium,11/02/2022,01/07/2022,Mobile,High
+U0290,Other,26-35,Central,Premium,10/01/2025,03/07/2025,Mobile,High
+U0291,Female,50+,South,Free Trial,14/02/2023,12/06/2023,Laptop,Medium
+U0292,Female,50+,East,Basic,09/03/2025,12/09/2025,Mobile,Medium
+U0293,Other,26-35,South,Premium,07/05/2025,15/09/2025,Smart TV,High
+U0294,Male,50+,Central,Premium,19/09/2024,13/06/2025,Tablet,High
+U0295,Female,50+,South,Basic,08/03/2025,16/07/2025,Mobile,Low
+U0296,Other,36-50,North,Free Trial,04/12/2022,25/08/2023,Tablet,Low
+U0297,Male,36-50,South,Premium,22/09/2025,15/06/2026,Laptop,Low
+U0298,Female,18-25,East,Free Trial,09/03/2025,13/12/2025,Mobile,Low
+U0299,Other,18-25,North,Premium,06/01/2022,15/10/2022,Mobile,High
+U0300,Other,18-25,West,Basic,25/04/2025,14/11/2025,Tablet,Medium
+U0301,Male,36-50,North,Premium,25/10/2025,30/08/2026,Tablet,High
+U0302,Other,26-35,West,Basic,01/05/2023,12/03/2024,Mobile,High
+U0303,Female,26-35,West,Basic,22/09/2022,19/08/2023,Smart TV,Low
+U0304,Female,18-25,East,Basic,11/04/2025,29/03/2026,Tablet,High
+U0305,Male,50+,South,Basic,20/04/2023,12/02/2024,Laptop,Low
+U0306,Female,50+,West,Basic,09/10/2025,04/09/2026,Mobile,Medium
+U0307,Female,18-25,West,Free Trial,28/01/2023,09/12/2023,Laptop,Medium
+U0308,Female,36-50,East,Free Trial,04/12/2025,03/10/2026,Smart TV,Low
+U0309,Female,50+,West,Premium,20/12/2023,24/08/2024,Tablet,High
+U0310,Female,18-25,North,Premium,05/05/2025,19/08/2025,Tablet,Medium
+U0311,Other,18-25,North,Premium,10/06/2023,28/09/2023,Mobile,Low
+U0312,Female,18-25,West,Premium,13/10/2024,20/01/2025,Mobile,Medium
+U0313,Other,26-35,North,Free Trial,25/05/2022,14/11/2022,Tablet,High
+U0314,Male,50+,South,Free Trial,24/06/2023,14/05/2024,Tablet,High
+U0315,Male,36-50,East,Premium,01/08/2022,26/05/2023,Smart TV,Medium
+U0316,Other,50+,North,Basic,11/10/2025,11/04/2026,Tablet,High
+U0317,Female,26-35,North,Free Trial,21/08/2023,26/04/2024,Tablet,Medium
+U0318,Male,26-35,Central,Premium,04/11/2024,29/10/2025,Mobile,Medium
+U0319,Female,36-50,West,Free Trial,14/03/2025,28/07/2025,Laptop,Medium
+U0320,Other,36-50,West,Premium,11/01/2024,07/07/2024,Tablet,Medium
+U0321,Male,18-25,North,Premium,09/11/2025,09/05/2026,Laptop,Medium
+U0322,Male,18-25,North,Basic,26/01/2023,29/07/2023,Laptop,Medium
+U0323,Female,26-35,West,Free Trial,04/09/2025,06/03/2026,Laptop,Low
+U0324,Female,36-50,Central,Basic,26/11/2022,16/08/2023,Smart TV,High
+U0325,Female,50+,West,Free Trial,14/10/2022,04/08/2023,Smart TV,High
+U0326,Male,36-50,West,Premium,05/12/2022,25/11/2023,Mobile,High
+U0327,Other,26-35,West,Basic,30/03/2023,13/01/2024,Mobile,Medium
+U0328,Female,36-50,West,Basic,08/01/2023,28/07/2023,Smart TV,High
+U0329,Female,18-25,East,Premium,09/09/2024,27/02/2025,Tablet,High
+U0330,Male,26-35,East,Premium,01/10/2024,03/04/2025,Mobile,High
+U0331,Other,50+,Central,Premium,13/01/2022,17/04/2022,Laptop,Medium
+U0332,Male,36-50,West,Basic,11/08/2022,18/01/2023,Tablet,High
+U0333,Male,36-50,West,Basic,22/02/2025,13/11/2025,Mobile,Medium
+U0334,Female,50+,South,Free Trial,08/02/2022,18/12/2022,Tablet,Medium
+U0335,Female,26-35,West,Basic,06/03/2022,19/01/2023,Smart TV,High
+U0336,Male,36-50,West,Basic,24/08/2023,04/06/2024,Mobile,High
+U0337,Male,50+,West,Premium,17/01/2023,27/10/2023,Laptop,Low
+U0338,Other,50+,West,Premium,28/08/2023,22/02/2024,Mobile,Low
+U0339,Female,50+,West,Premium,03/12/2023,26/06/2024,Tablet,High
+U0340,Other,26-35,South,Free Trial,02/07/2023,12/04/2024,Laptop,Low
+U0341,Male,18-25,Central,Premium,18/02/2023,29/06/2023,Mobile,Medium
+U0342,Other,50+,East,Basic,23/11/2025,24/03/2026,Mobile,Medium
+U0343,Female,36-50,South,Basic,05/05/2025,09/12/2025,Laptop,Medium
+U0344,Female,26-35,North,Premium,08/04/2025,18/12/2025,Tablet,Low
+U0345,Male,26-35,Central,Basic,25/02/2025,14/11/2025,Tablet,Medium
+U0346,Other,36-50,West,Free Trial,30/06/2022,06/03/2023,Tablet,Medium
+U0347,Other,50+,West,Premium,14/10/2024,01/09/2025,Mobile,Low
+U0348,Male,50+,South,Basic,25/12/2024,04/06/2025,Mobile,Medium
+U0349,Male,36-50,East,Premium,10/05/2022,16/03/2023,Mobile,High
+U0350,Female,50+,North,Free Trial,02/01/2025,02/12/2025,Mobile,High
+U0351,Female,50+,North,Free Trial,20/01/2025,26/07/2025,Tablet,High
+U0352,Other,18-25,Central,Free Trial,11/08/2024,10/12/2024,Smart TV,Medium
+U0353,Other,36-50,Central,Premium,03/11/2025,16/10/2026,Laptop,Low
+U0354,Other,26-35,North,Premium,11/06/2023,06/12/2023,Mobile,Low
+U0355,Other,18-25,North,Premium,12/12/2022,21/11/2023,Tablet,Low
+U0356,Female,18-25,North,Premium,19/01/2022,02/12/2022,Tablet,High
+U0357,Other,36-50,Central,Free Trial,24/01/2024,06/10/2024,Smart TV,Medium
+U0358,Female,18-25,East,Premium,15/09/2023,01/06/2024,Smart TV,Medium
+U0359,Female,18-25,North,Basic,02/01/2024,19/11/2024,Smart TV,Medium
+U0360,Female,36-50,East,Free Trial,03/09/2024,11/03/2025,Tablet,Low
+U0361,Male,26-35,Central,Basic,18/03/2022,03/07/2022,Smart TV,Low
+U0362,Female,36-50,South,Free Trial,26/07/2022,20/03/2023,Mobile,Medium
+U0363,Other,36-50,East,Basic,29/04/2022,01/08/2022,Tablet,High
+U0364,Other,26-35,West,Free Trial,02/01/2024,08/08/2024,Tablet,Low
+U0365,Male,36-50,South,Free Trial,21/08/2023,04/08/2024,Smart TV,High
+U0366,Female,18-25,South,Free Trial,01/07/2024,13/01/2025,Tablet,Medium
+U0367,Female,18-25,East,Basic,09/12/2024,15/05/2025,Smart TV,High
+U0368,Male,18-25,Central,Premium,05/07/2024,15/11/2024,Smart TV,High
+U0369,Female,26-35,West,Basic,03/05/2023,25/08/2023,Mobile,High
+U0370,Male,26-35,West,Premium,18/12/2022,18/12/2023,Smart TV,Low
+U0371,Female,18-25,West,Free Trial,04/09/2023,04/06/2024,Smart TV,Medium
+U0372,Male,26-35,West,Free Trial,27/08/2022,26/04/2023,Laptop,Low
+U0373,Other,26-35,Central,Free Trial,02/06/2024,22/01/2025,Smart TV,Low
+U0374,Other,26-35,North,Premium,21/01/2022,25/10/2022,Laptop,High
+U0375,Male,26-35,South,Premium,14/01/2022,09/05/2022,Smart TV,High
+U0376,Other,50+,East,Premium,18/11/2023,21/08/2024,Mobile,High
+U0377,Male,18-25,North,Free Trial,26/10/2025,06/09/2026,Laptop,Low
+U0378,Other,50+,West,Free Trial,10/04/2023,12/01/2024,Tablet,High
+U0379,Other,26-35,South,Premium,06/12/2023,02/05/2024,Mobile,Low
+U0380,Other,18-25,Central,Basic,05/12/2022,02/06/2023,Tablet,Medium
+U0381,Male,18-25,East,Basic,03/08/2022,07/04/2023,Mobile,High
+U0382,Other,18-25,Central,Basic,02/06/2024,03/01/2025,Laptop,Medium
+U0383,Male,26-35,South,Premium,06/10/2024,11/06/2025,Tablet,Low
+U0384,Female,26-35,Central,Free Trial,01/01/2023,12/06/2023,Tablet,High
+U0385,Female,26-35,West,Premium,13/07/2024,28/04/2025,Smart TV,Low
+U0386,Male,18-25,South,Premium,23/01/2024,22/01/2025,Mobile,Medium
+U0387,Male,36-50,Central,Basic,22/01/2022,24/12/2022,Laptop,Medium
+U0388,Female,50+,South,Free Trial,02/11/2024,30/08/2025,Mobile,Medium
+U0389,Male,18-25,West,Free Trial,26/03/2025,15/11/2025,Laptop,High
+U0390,Male,36-50,South,Free Trial,25/09/2022,19/04/2023,Smart TV,High
+U0391,Other,50+,East,Basic,28/07/2022,14/11/2022,Mobile,Low
+U0392,Female,26-35,East,Basic,30/11/2023,04/06/2024,Laptop,Medium
+U0393,Male,36-50,West,Basic,08/06/2024,13/04/2025,Mobile,Low
+U0394,Female,36-50,West,Basic,25/12/2023,11/04/2024,Smart TV,Low
+U0395,Other,50+,East,Premium,31/01/2025,05/11/2025,Smart TV,High
+U0396,Other,18-25,East,Free Trial,26/04/2023,25/03/2024,Smart TV,High
+U0397,Other,18-25,East,Premium,19/06/2022,31/03/2023,Laptop,High
+U0398,Female,18-25,South,Free Trial,10/12/2022,31/03/2023,Laptop,Medium
+U0399,Female,50+,North,Premium,05/07/2023,07/04/2024,Laptop,Low
+U0400,Male,26-35,West,Free Trial,26/11/2022,18/06/2023,Tablet,Low
+U0401,Male,18-25,Central,Premium,22/04/2022,13/10/2022,Mobile,Low
+U0402,Male,26-35,South,Free Trial,13/10/2023,24/08/2024,Laptop,Medium
+U0403,Female,36-50,East,Premium,21/01/2025,02/09/2025,Mobile,High
+U0404,Female,18-25,South,Free Trial,17/12/2024,30/09/2025,Tablet,High
+U0405,Male,50+,East,Basic,12/11/2023,02/11/2024,Laptop,Medium
+U0406,Female,50+,West,Free Trial,18/09/2024,30/04/2025,Tablet,Medium
+U0407,Male,26-35,East,Premium,23/02/2022,01/06/2022,Smart TV,Low
+U0408,Male,36-50,Central,Basic,11/09/2022,28/03/2023,Smart TV,High
+U0409,Female,36-50,South,Free Trial,26/03/2023,29/09/2023,Laptop,Medium
+U0410,Other,36-50,East,Free Trial,11/05/2024,26/10/2024,Smart TV,Medium
+U0411,Female,50+,North,Premium,13/12/2025,18/05/2026,Tablet,Medium
+U0412,Male,26-35,East,Basic,18/04/2023,20/12/2023,Mobile,Low
+U0413,Other,26-35,East,Premium,01/11/2022,01/05/2023,Mobile,High
+U0414,Other,26-35,West,Basic,17/06/2022,14/11/2022,Smart TV,Medium
+U0415,Male,26-35,East,Free Trial,11/03/2022,12/10/2022,Smart TV,High
+U0416,Female,18-25,West,Free Trial,29/04/2025,05/01/2026,Mobile,Medium
+U0417,Male,36-50,Central,Premium,01/01/2023,24/08/2023,Tablet,Medium
+U0418,Female,18-25,Central,Basic,12/07/2024,06/01/2025,Smart TV,High
+U0419,Other,26-35,North,Free Trial,03/11/2022,12/03/2023,Mobile,Medium
+U0420,Other,26-35,South,Basic,13/08/2025,04/07/2026,Tablet,Low
+U0421,Female,26-35,East,Premium,17/04/2025,11/02/2026,Smart TV,High
+U0422,Other,36-50,North,Basic,13/07/2023,07/04/2024,Smart TV,High
+U0423,Male,36-50,East,Basic,31/10/2025,25/03/2026,Laptop,Low
+U0424,Other,18-25,East,Premium,17/12/2022,22/10/2023,Smart TV,Low
+U0425,Other,18-25,South,Free Trial,27/07/2022,13/07/2023,Tablet,High
+U0426,Male,18-25,North,Premium,23/09/2023,19/05/2024,Smart TV,Low
+U0427,Female,50+,East,Premium,27/11/2024,24/06/2025,Mobile,High
+U0428,Other,50+,West,Free Trial,11/03/2024,16/06/2024,Smart TV,Low
+U0429,Other,18-25,West,Free Trial,06/06/2025,16/03/2026,Laptop,Medium
+U0430,Other,50+,North,Premium,13/05/2022,25/02/2023,Laptop,Low
+U0431,Female,26-35,West,Premium,29/05/2023,30/08/2023,Laptop,Medium
+U0432,Male,36-50,East,Premium,18/08/2022,17/02/2023,Smart TV,Medium
+U0433,Male,36-50,South,Premium,10/05/2025,11/12/2025,Mobile,Medium
+U0434,Female,50+,North,Basic,25/02/2025,16/01/2026,Laptop,Low
+U0435,Other,50+,West,Premium,30/04/2025,08/10/2025,Smart TV,Medium
+U0436,Female,18-25,Central,Basic,05/05/2023,10/12/2023,Smart TV,Medium
+U0437,Other,18-25,West,Basic,24/04/2023,24/07/2023,Smart TV,Medium
+U0438,Male,50+,East,Premium,07/09/2024,29/03/2025,Laptop,Low
+U0439,Other,50+,East,Premium,04/09/2024,08/02/2025,Laptop,Low
+U0440,Female,36-50,North,Premium,09/11/2025,06/04/2026,Laptop,Low
+U0441,Female,50+,West,Premium,17/02/2023,15/01/2024,Mobile,Medium
+U0442,Female,26-35,East,Premium,22/10/2022,13/09/2023,Tablet,High
+U0443,Male,36-50,Central,Free Trial,06/08/2023,05/03/2024,Smart TV,Medium
+U0444,Other,26-35,East,Premium,14/08/2025,07/02/2026,Tablet,Medium
+U0445,Male,36-50,East,Free Trial,21/10/2024,22/04/2025,Laptop,Medium
+U0446,Male,36-50,East,Premium,08/07/2023,17/05/2024,Smart TV,High
+U0447,Female,50+,West,Premium,08/02/2022,30/11/2022,Tablet,Low
+U0448,Female,26-35,East,Basic,31/08/2022,05/04/2023,Smart TV,Low
+U0449,Male,36-50,East,Free Trial,03/02/2023,10/05/2023,Laptop,Medium
+U0450,Other,26-35,South,Free Trial,03/01/2024,02/01/2025,Mobile,Low
+U0451,Male,50+,East,Free Trial,24/03/2024,04/12/2024,Tablet,Medium
+U0452,Other,18-25,West,Premium,20/03/2025,24/10/2025,Laptop,Low
+U0453,Female,50+,South,Free Trial,05/09/2025,09/07/2026,Laptop,Low
+U0454,Male,50+,East,Premium,14/08/2022,10/08/2023,Laptop,Medium
+U0455,Male,18-25,South,Basic,28/01/2024,06/05/2024,Mobile,High
+U0456,Other,50+,North,Free Trial,01/01/2025,17/07/2025,Laptop,High
+U0457,Male,18-25,East,Free Trial,07/01/2023,22/12/2023,Smart TV,Low
+U0458,Male,18-25,East,Premium,22/04/2025,03/04/2026,Smart TV,Medium
+U0459,Female,26-35,West,Free Trial,16/06/2025,29/05/2026,Laptop,High
+U0460,Female,50+,Central,Premium,15/02/2023,15/01/2024,Tablet,Medium
+U0461,Other,18-25,Central,Free Trial,19/12/2024,14/11/2025,Smart TV,High
+U0462,Other,26-35,Central,Free Trial,18/06/2023,15/10/2023,Laptop,Medium
+U0463,Female,50+,East,Premium,06/10/2023,17/04/2024,Tablet,Medium
+U0464,Male,18-25,Central,Basic,07/05/2025,08/12/2025,Mobile,Low
+U0465,Male,50+,Central,Basic,23/09/2024,07/09/2025,Smart TV,High
+U0466,Female,50+,West,Free Trial,11/08/2025,12/11/2025,Smart TV,High
+U0467,Other,36-50,West,Premium,17/03/2025,18/11/2025,Mobile,High
+U0468,Other,50+,North,Basic,17/01/2022,19/09/2022,Tablet,High
+U0469,Female,50+,North,Basic,03/12/2023,01/07/2024,Tablet,Low
+U0470,Female,18-25,North,Free Trial,10/07/2023,02/06/2024,Mobile,High
+U0471,Female,26-35,North,Premium,13/01/2023,31/08/2023,Laptop,High
+U0472,Female,36-50,North,Premium,08/01/2022,15/04/2022,Laptop,High
+U0473,Male,26-35,Central,Basic,01/10/2025,29/08/2026,Smart TV,High
+U0474,Other,18-25,South,Basic,08/11/2023,14/05/2024,Laptop,Medium
+U0475,Female,36-50,North,Basic,07/11/2024,13/02/2025,Laptop,Medium
+U0476,Female,18-25,East,Premium,17/04/2024,19/01/2025,Smart TV,Low
+U0477,Other,50+,North,Free Trial,21/04/2025,17/04/2026,Mobile,High
+U0478,Other,50+,West,Free Trial,21/03/2022,21/03/2023,Mobile,Low
+U0479,Female,18-25,West,Free Trial,20/03/2024,26/07/2024,Tablet,High
+U0480,Other,26-35,North,Premium,28/11/2025,19/10/2026,Tablet,High
+U0481,Female,18-25,East,Basic,28/05/2023,11/11/2023,Mobile,Low
+U0482,Other,36-50,West,Premium,09/01/2023,17/04/2023,Smart TV,High
+U0483,Female,50+,East,Free Trial,02/11/2024,19/10/2025,Tablet,Low
+U0484,Male,26-35,North,Premium,06/04/2025,23/10/2025,Smart TV,Low
+U0485,Other,26-35,Central,Basic,13/09/2024,19/03/2025,Laptop,High
+U0486,Female,26-35,South,Basic,14/12/2022,22/07/2023,Mobile,Low
+U0487,Other,18-25,East,Free Trial,27/07/2024,01/05/2025,Mobile,Medium
+U0488,Male,26-35,North,Premium,28/12/2025,01/09/2026,Laptop,Low
+U0489,Female,36-50,North,Free Trial,29/11/2023,12/09/2024,Smart TV,Medium
+U0490,Female,36-50,East,Premium,02/12/2024,27/11/2025,Tablet,Low
+U0491,Male,36-50,North,Premium,14/05/2025,03/02/2026,Smart TV,Medium
+U0492,Female,36-50,West,Basic,24/12/2023,28/10/2024,Laptop,Medium
+U0493,Other,50+,North,Premium,06/02/2025,17/10/2025,Tablet,Medium
+U0494,Other,26-35,West,Premium,11/01/2025,25/05/2025,Mobile,Medium
+U0495,Other,50+,West,Premium,07/06/2024,30/11/2024,Tablet,Low
+U0496,Female,26-35,North,Basic,19/02/2025,30/07/2025,Mobile,Medium
+U0497,Male,26-35,South,Free Trial,27/03/2025,11/08/2025,Mobile,Low
+U0498,Female,18-25,West,Basic,08/04/2025,17/10/2025,Smart TV,Low
+U0499,Female,36-50,West,Basic,02/08/2023,26/02/2024,Laptop,Low
+U0500,Female,18-25,Central,Free Trial,03/09/2024,10/07/2025,Smart TV,High
+U0501,Male,50+,North,Premium,05/01/2022,07/12/2022,Smart TV,High
+U0502,Male,18-25,South,Premium,02/08/2025,01/02/2026,Laptop,Medium
+U0503,Male,26-35,South,Free Trial,23/10/2024,26/06/2025,Laptop,High
+U0504,Other,50+,East,Free Trial,08/03/2024,02/01/2025,Smart TV,Low
+U0505,Male,18-25,West,Free Trial,13/08/2023,12/04/2024,Smart TV,Low
+U0506,Other,18-25,North,Premium,22/02/2025,12/09/2025,Tablet,Low
+U0507,Female,18-25,North,Free Trial,24/04/2024,27/03/2025,Mobile,Medium
+U0508,Other,36-50,South,Basic,06/04/2024,04/02/2025,Mobile,Low
+U0509,Female,50+,East,Free Trial,02/08/2023,24/04/2024,Mobile,High
+U0510,Other,18-25,West,Premium,09/02/2025,18/01/2026,Smart TV,Low
+U0511,Male,18-25,East,Free Trial,05/09/2023,17/12/2023,Smart TV,Medium
+U0512,Male,26-35,Central,Basic,18/06/2025,27/09/2025,Laptop,High
+U0513,Female,18-25,East,Premium,18/10/2022,31/03/2023,Smart TV,Medium
+U0514,Female,18-25,South,Free Trial,12/08/2025,22/05/2026,Smart TV,Medium
+U0515,Other,26-35,West,Free Trial,05/11/2025,09/08/2026,Mobile,Low
+U0516,Female,50+,Central,Free Trial,05/12/2023,07/06/2024,Laptop,Medium
+U0517,Female,26-35,North,Basic,10/03/2022,02/07/2022,Smart TV,Medium
+U0518,Other,50+,Central,Basic,07/12/2025,04/09/2026,Smart TV,Medium
+U0519,Female,26-35,North,Premium,29/04/2025,14/11/2025,Tablet,Medium
+U0520,Female,26-35,South,Basic,19/04/2023,06/12/2023,Mobile,Low
+U0521,Other,50+,Central,Free Trial,14/01/2024,29/06/2024,Mobile,Medium
+U0522,Male,36-50,West,Premium,23/01/2022,18/12/2022,Laptop,Medium
+U0523,Male,18-25,East,Free Trial,13/04/2022,19/12/2022,Laptop,Low
+U0524,Male,50+,South,Premium,17/03/2025,01/09/2025,Smart TV,High
+U0525,Female,26-35,Central,Free Trial,03/02/2024,30/05/2024,Mobile,High
+U0526,Other,18-25,West,Premium,29/05/2022,21/09/2022,Tablet,Medium
+U0527,Female,50+,North,Premium,12/11/2022,16/02/2023,Smart TV,Medium
+U0528,Other,50+,West,Premium,26/09/2024,25/01/2025,Laptop,Medium
+U0529,Female,50+,West,Basic,02/01/2025,01/07/2025,Laptop,High
+U0530,Female,36-50,West,Free Trial,02/02/2025,05/06/2025,Smart TV,High
+U0531,Female,50+,South,Basic,20/12/2024,28/11/2025,Laptop,High
+U0532,Male,18-25,South,Basic,09/07/2025,22/12/2025,Smart TV,Medium
+U0533,Other,50+,South,Basic,14/12/2023,15/05/2024,Smart TV,Medium
+U0534,Female,50+,Central,Free Trial,09/10/2025,27/01/2026,Tablet,Low
+U0535,Other,36-50,Central,Premium,21/01/2024,20/04/2024,Mobile,High
+U0536,Male,26-35,Central,Basic,22/02/2025,06/06/2025,Laptop,High
+U0537,Female,50+,East,Basic,28/03/2024,09/10/2024,Mobile,High
+U0538,Male,50+,South,Free Trial,03/10/2022,12/07/2023,Tablet,High
+U0539,Male,26-35,East,Premium,13/10/2025,08/10/2026,Mobile,Low
+U0540,Male,50+,North,Premium,08/02/2024,25/12/2024,Laptop,High
+U0541,Other,50+,Central,Premium,28/06/2022,17/01/2023,Laptop,Low
+U0542,Male,18-25,West,Basic,13/02/2025,18/08/2025,Tablet,Low
+U0543,Female,50+,West,Basic,11/09/2023,25/01/2024,Tablet,High
+U0544,Male,36-50,East,Premium,26/11/2023,13/04/2024,Laptop,Medium
+U0545,Other,26-35,East,Free Trial,01/02/2025,27/12/2025,Tablet,Medium
+U0546,Other,26-35,East,Premium,04/03/2022,17/06/2022,Mobile,Medium
+U0547,Male,18-25,North,Free Trial,12/10/2025,07/05/2026,Smart TV,High
+U0548,Other,18-25,North,Basic,14/11/2024,23/02/2025,Smart TV,Low
+U0549,Other,50+,West,Free Trial,06/05/2024,11/03/2025,Tablet,Medium
+U0550,Male,26-35,Central,Basic,26/05/2025,09/04/2026,Smart TV,Low
+U0551,Male,36-50,East,Basic,22/01/2022,07/08/2022,Mobile,Medium
+U0552,Other,50+,East,Premium,14/01/2024,17/08/2024,Smart TV,High
+U0553,Male,26-35,Central,Free Trial,07/05/2025,31/12/2025,Mobile,Low
+U0554,Female,26-35,West,Premium,26/01/2023,04/01/2024,Mobile,Low
+U0555,Other,50+,Central,Premium,20/04/2025,01/11/2025,Smart TV,Medium
+U0556,Other,50+,East,Basic,16/10/2022,13/05/2023,Tablet,Medium
+U0557,Female,26-35,West,Premium,11/11/2023,04/06/2024,Tablet,Low
+U0558,Male,26-35,Central,Premium,29/08/2023,04/05/2024,Tablet,High
+U0559,Other,18-25,North,Basic,12/11/2022,08/05/2023,Smart TV,High
+U0560,Male,50+,South,Basic,29/02/2024,18/09/2024,Smart TV,High
+U0561,Other,36-50,Central,Free Trial,01/12/2024,05/03/2025,Tablet,Low
+U0562,Female,26-35,North,Basic,23/08/2025,01/06/2026,Tablet,Low
+U0563,Male,18-25,South,Premium,06/11/2022,26/08/2023,Smart TV,Medium
+U0564,Male,36-50,North,Free Trial,24/09/2025,05/01/2026,Smart TV,High
+U0565,Male,36-50,Central,Premium,24/09/2024,06/01/2025,Smart TV,Medium
+U0566,Other,36-50,Central,Basic,22/03/2024,20/10/2024,Laptop,Low
+U0567,Female,26-35,South,Free Trial,05/10/2024,28/05/2025,Smart TV,Medium
+U0568,Male,36-50,North,Premium,12/07/2022,21/05/2023,Smart TV,Medium
+U0569,Female,18-25,Central,Free Trial,02/08/2022,16/11/2022,Smart TV,Low
+U0570,Female,50+,East,Premium,28/07/2023,04/06/2024,Tablet,Low
+U0571,Female,50+,Central,Free Trial,17/07/2024,15/07/2025,Mobile,Medium
+U0572,Male,18-25,West,Premium,06/06/2022,07/10/2022,Laptop,Medium
+U0573,Female,36-50,West,Free Trial,02/12/2024,27/08/2025,Tablet,High
+U0574,Female,36-50,West,Basic,26/01/2023,06/09/2023,Tablet,Medium
+U0575,Other,50+,North,Premium,15/12/2023,09/08/2024,Laptop,High
+U0576,Other,18-25,North,Basic,03/07/2023,16/12/2023,Tablet,Medium
+U0577,Female,26-35,East,Premium,11/01/2022,21/06/2022,Laptop,High
+U0578,Male,18-25,South,Basic,06/04/2025,21/12/2025,Smart TV,High
+U0579,Male,50+,North,Premium,10/02/2024,06/09/2024,Smart TV,Low
+U0580,Male,26-35,North,Premium,03/05/2023,22/03/2024,Tablet,Medium
+U0581,Female,26-35,North,Premium,16/06/2024,11/01/2025,Laptop,Low
+U0582,Female,18-25,Central,Free Trial,01/10/2022,31/05/2023,Tablet,High
+U0583,Male,50+,North,Premium,14/08/2025,12/03/2026,Smart TV,High
+U0584,Female,50+,East,Free Trial,18/08/2023,19/07/2024,Laptop,Medium
+U0585,Male,18-25,Central,Basic,22/06/2022,15/12/2022,Mobile,Low
+U0586,Female,18-25,South,Basic,04/09/2022,29/01/2023,Tablet,High
+U0587,Female,26-35,South,Free Trial,06/03/2024,29/11/2024,Mobile,Low
+U0588,Female,36-50,South,Free Trial,03/10/2025,25/02/2026,Tablet,High
+U0589,Other,26-35,North,Free Trial,03/07/2022,05/11/2022,Laptop,Low
+U0590,Other,26-35,West,Basic,30/07/2024,29/11/2024,Tablet,Low
+U0591,Male,36-50,Central,Premium,13/02/2022,26/12/2022,Smart TV,Low
+U0592,Other,18-25,Central,Free Trial,27/08/2025,23/05/2026,Mobile,High
+U0593,Female,36-50,East,Free Trial,12/09/2025,07/04/2026,Smart TV,Low
+U0594,Male,18-25,West,Premium,20/08/2022,23/01/2023,Smart TV,High
+U0595,Female,26-35,East,Premium,19/10/2023,23/07/2024,Tablet,Medium
+U0596,Male,50+,East,Free Trial,06/09/2025,25/12/2025,Tablet,Medium
+U0597,Male,36-50,South,Basic,08/11/2024,16/09/2025,Tablet,Low
+U0598,Male,36-50,West,Basic,09/05/2022,02/02/2023,Laptop,Low
+U0599,Female,36-50,East,Premium,26/07/2022,24/12/2022,Tablet,High
+U0600,Female,50+,South,Premium,01/12/2023,13/05/2024,Tablet,Low
+U0601,Female,26-35,North,Free Trial,23/07/2022,02/07/2023,Tablet,Low
+U0602,Female,36-50,Central,Free Trial,16/11/2025,24/03/2026,Laptop,Low
+U0603,Female,26-35,South,Free Trial,26/03/2024,24/01/2025,Laptop,Low
+U0604,Other,36-50,East,Premium,07/03/2023,21/07/2023,Mobile,Low
+U0605,Other,36-50,South,Basic,10/05/2023,24/08/2023,Smart TV,Low
+U0606,Other,26-35,West,Premium,22/02/2022,10/10/2022,Mobile,Medium
+U0607,Female,18-25,East,Premium,27/07/2022,05/11/2022,Laptop,High
+U0608,Female,36-50,Central,Premium,08/07/2022,06/07/2023,Laptop,Low
+U0609,Male,26-35,Central,Basic,07/06/2024,27/04/2025,Tablet,High
+U0610,Male,26-35,East,Basic,26/06/2022,10/01/2023,Tablet,High
+U0611,Other,50+,West,Premium,31/07/2023,04/04/2024,Smart TV,High
+U0612,Other,18-25,Central,Premium,26/02/2025,23/08/2025,Mobile,High
+U0613,Other,36-50,West,Free Trial,29/04/2025,18/08/2025,Mobile,Low
+U0614,Other,36-50,Central,Premium,01/07/2025,28/01/2026,Tablet,High
+U0615,Other,26-35,South,Free Trial,10/05/2024,09/03/2025,Smart TV,High
+U0616,Male,18-25,West,Free Trial,30/11/2023,05/11/2024,Mobile,High
+U0617,Other,26-35,West,Premium,18/04/2023,25/02/2024,Laptop,High
+U0618,Other,18-25,North,Free Trial,02/11/2025,09/09/2026,Mobile,High
+U0619,Female,36-50,North,Free Trial,29/05/2023,25/02/2024,Smart TV,Medium
+U0620,Female,18-25,Central,Premium,12/10/2023,01/05/2024,Mobile,Low
+U0621,Female,18-25,North,Free Trial,17/09/2024,08/04/2025,Smart TV,High
+U0622,Female,50+,East,Premium,22/02/2025,14/07/2025,Laptop,Low
+U0623,Other,26-35,Central,Basic,28/08/2024,06/03/2025,Mobile,Medium
+U0624,Male,18-25,East,Basic,30/05/2023,11/01/2024,Laptop,High
+U0625,Female,26-35,Central,Premium,29/08/2025,01/01/2026,Laptop,Low
+U0626,Other,36-50,West,Basic,12/02/2022,23/12/2022,Tablet,High
+U0627,Female,36-50,Central,Premium,15/01/2022,20/09/2022,Mobile,Low
+U0628,Other,26-35,East,Premium,12/01/2025,22/08/2025,Laptop,Low
+U0629,Male,50+,West,Basic,06/09/2024,26/03/2025,Smart TV,High
+U0630,Male,18-25,North,Premium,06/06/2023,13/04/2024,Mobile,Medium
+U0631,Female,36-50,East,Premium,24/01/2022,26/11/2022,Mobile,Low
+U0632,Female,18-25,West,Premium,13/08/2024,03/07/2025,Laptop,Medium
+U0633,Male,26-35,East,Basic,02/06/2025,08/11/2025,Smart TV,Low
+U0634,Male,26-35,South,Premium,14/07/2025,14/05/2026,Smart TV,Medium
+U0635,Other,18-25,South,Free Trial,16/08/2024,17/02/2025,Tablet,Low
+U0636,Male,36-50,North,Basic,20/07/2022,26/02/2023,Smart TV,Low
+U0637,Male,50+,East,Basic,14/01/2022,06/09/2022,Mobile,High
+U0638,Other,26-35,West,Basic,15/08/2024,09/08/2025,Laptop,Low
+U0639,Male,26-35,South,Free Trial,14/01/2025,18/11/2025,Mobile,Medium
+U0640,Other,18-25,Central,Free Trial,18/06/2024,04/01/2025,Tablet,Medium
+U0641,Female,36-50,North,Basic,28/11/2022,23/08/2023,Mobile,Low
+U0642,Other,36-50,North,Premium,31/08/2025,04/05/2026,Laptop,Low
+U0643,Other,36-50,Central,Basic,03/05/2025,23/11/2025,Laptop,Low
+U0644,Male,26-35,West,Basic,09/01/2022,16/09/2022,Mobile,Low
+U0645,Other,26-35,East,Premium,24/03/2025,05/01/2026,Laptop,High
+U0646,Male,18-25,East,Premium,22/06/2024,19/01/2025,Smart TV,Low
+U0647,Other,36-50,South,Basic,23/10/2023,16/04/2024,Smart TV,Low
+U0648,Other,18-25,West,Premium,02/01/2023,23/05/2023,Smart TV,High
+U0649,Female,26-35,Central,Premium,29/03/2024,14/11/2024,Mobile,Low
+U0650,Female,36-50,East,Free Trial,13/11/2025,29/10/2026,Mobile,High
+U0651,Female,26-35,East,Free Trial,11/10/2023,03/04/2024,Tablet,Medium
+U0652,Female,36-50,North,Free Trial,06/11/2025,26/04/2026,Laptop,Low
+U0653,Female,18-25,North,Premium,04/02/2025,13/08/2025,Smart TV,Low
+U0654,Other,18-25,Central,Premium,01/09/2024,02/02/2025,Mobile,Low
+U0655,Other,36-50,South,Free Trial,15/10/2024,08/03/2025,Tablet,Low
+U0656,Male,36-50,North,Premium,30/03/2022,19/10/2022,Laptop,Medium
+U0657,Male,26-35,Central,Basic,18/10/2024,15/04/2025,Smart TV,Medium
+U0658,Other,18-25,East,Premium,12/03/2024,08/03/2025,Mobile,High
+U0659,Other,50+,North,Basic,05/08/2024,11/05/2025,Laptop,Low
+U0660,Female,26-35,East,Basic,10/04/2023,16/02/2024,Tablet,Low
+U0661,Other,26-35,South,Premium,25/03/2023,05/02/2024,Mobile,High
+U0662,Female,26-35,Central,Premium,19/05/2024,10/10/2024,Smart TV,Medium
+U0663,Other,18-25,East,Free Trial,25/08/2025,16/07/2026,Laptop,Medium
+U0664,Other,50+,South,Premium,01/12/2022,01/10/2023,Laptop,Medium
+U0665,Female,18-25,West,Premium,21/04/2025,01/08/2025,Tablet,Medium
+U0666,Female,26-35,West,Basic,23/08/2023,10/01/2024,Smart TV,Medium
+U0667,Female,18-25,South,Free Trial,17/12/2024,07/05/2025,Mobile,Medium
+U0668,Other,50+,East,Basic,12/07/2023,25/12/2023,Smart TV,High
+U0669,Male,18-25,South,Premium,18/09/2025,06/03/2026,Smart TV,High
+U0670,Male,26-35,East,Free Trial,06/07/2025,10/06/2026,Smart TV,High
+U0671,Male,26-35,West,Premium,04/04/2025,24/12/2025,Tablet,High
+U0672,Female,26-35,East,Free Trial,01/04/2023,10/03/2024,Smart TV,High
+U0673,Other,18-25,West,Basic,24/06/2025,13/11/2025,Tablet,Medium
+U0674,Other,36-50,Central,Premium,28/01/2023,21/07/2023,Smart TV,Medium
+U0675,Male,18-25,West,Free Trial,20/06/2025,13/05/2026,Laptop,Low
+U0676,Male,36-50,East,Free Trial,21/06/2025,31/03/2026,Tablet,Medium
+U0677,Male,26-35,Central,Free Trial,26/01/2024,18/06/2024,Mobile,Low
+U0678,Other,26-35,North,Premium,15/02/2025,17/05/2025,Tablet,Medium
+U0679,Other,50+,West,Basic,04/09/2023,11/07/2024,Laptop,High
+U0680,Other,26-35,West,Basic,04/07/2022,22/04/2023,Laptop,Low
+U0681,Female,18-25,Central,Premium,26/01/2022,03/08/2022,Tablet,Medium
+U0682,Female,36-50,North,Free Trial,19/08/2022,27/06/2023,Laptop,High
+U0683,Other,26-35,North,Premium,19/03/2024,04/08/2024,Mobile,Medium
+U0684,Male,18-25,South,Free Trial,09/07/2022,15/12/2022,Smart TV,Medium
+U0685,Other,26-35,Central,Basic,26/12/2025,20/08/2026,Laptop,High
+U0686,Female,18-25,Central,Free Trial,08/03/2023,15/07/2023,Mobile,High
+U0687,Other,18-25,Central,Basic,04/06/2023,06/03/2024,Laptop,Medium
+U0688,Other,26-35,South,Free Trial,24/09/2025,13/07/2026,Tablet,Low
+U0689,Female,50+,South,Basic,08/09/2023,02/09/2024,Mobile,Medium
+U0690,Other,36-50,West,Basic,25/10/2024,29/05/2025,Tablet,Medium
+U0691,Female,50+,West,Free Trial,26/04/2022,15/10/2022,Mobile,High
+U0692,Male,50+,North,Basic,31/12/2024,12/10/2025,Tablet,High
+U0693,Other,36-50,Central,Basic,16/04/2025,10/11/2025,Laptop,Medium
+U0694,Other,26-35,West,Free Trial,05/11/2022,04/08/2023,Mobile,Medium
+U0695,Other,50+,North,Free Trial,13/04/2022,10/09/2022,Mobile,Low
+U0696,Male,26-35,South,Free Trial,10/11/2025,29/04/2026,Mobile,Medium
+U0697,Female,26-35,South,Basic,21/02/2025,20/06/2025,Tablet,Low
+U0698,Female,50+,South,Free Trial,29/11/2022,24/08/2023,Mobile,Low
+U0699,Male,26-35,North,Premium,09/08/2024,22/03/2025,Tablet,High
+U0700,Female,18-25,North,Premium,09/06/2022,25/02/2023,Laptop,High
+U0701,Male,26-35,West,Basic,30/09/2024,07/03/2025,Tablet,High
+U0702,Male,50+,South,Free Trial,13/04/2022,26/01/2023,Mobile,High
+U0703,Male,26-35,Central,Premium,13/10/2022,03/04/2023,Mobile,High
+U0704,Male,36-50,East,Free Trial,13/11/2023,19/09/2024,Tablet,Medium
+U0705,Other,50+,North,Premium,03/01/2022,31/10/2022,Mobile,Low
+U0706,Female,50+,Central,Premium,10/01/2022,29/12/2022,Smart TV,High
+U0707,Female,36-50,South,Premium,19/11/2024,20/02/2025,Smart TV,Low
+U0708,Female,18-25,West,Free Trial,02/10/2022,19/05/2023,Laptop,Medium
+U0709,Male,50+,East,Free Trial,14/04/2022,13/04/2023,Laptop,Low
+U0710,Male,26-35,West,Free Trial,18/03/2022,09/08/2022,Tablet,Low
+U0711,Other,18-25,West,Premium,29/12/2024,19/09/2025,Smart TV,Low
+U0712,Female,36-50,West,Free Trial,25/06/2023,01/10/2023,Tablet,Low
+U0713,Female,50+,East,Premium,12/05/2025,25/04/2026,Laptop,Medium
+U0714,Female,50+,Central,Basic,22/05/2023,30/04/2024,Mobile,High
+U0715,Male,50+,West,Basic,06/11/2023,04/09/2024,Smart TV,High
+U0716,Female,18-25,West,Basic,25/10/2025,27/02/2026,Smart TV,Low
+U0717,Male,26-35,North,Basic,24/10/2023,18/09/2024,Laptop,Low
+U0718,Other,18-25,South,Free Trial,11/06/2023,18/05/2024,Laptop,Medium
+U0719,Other,36-50,South,Basic,17/07/2025,28/06/2026,Tablet,Low
+U0720,Other,50+,West,Free Trial,09/07/2023,21/12/2023,Tablet,Medium
+U0721,Other,26-35,North,Premium,22/04/2024,04/03/2025,Mobile,High
+U0722,Male,18-25,Central,Premium,25/02/2022,11/07/2022,Tablet,Medium
+U0723,Other,26-35,South,Basic,18/08/2024,27/06/2025,Laptop,Medium
+U0724,Male,50+,North,Basic,08/07/2024,01/04/2025,Smart TV,Medium
+U0725,Female,18-25,North,Free Trial,07/06/2025,02/10/2025,Mobile,High
+U0726,Male,36-50,Central,Basic,26/10/2024,28/07/2025,Tablet,Low
+U0727,Female,36-50,South,Free Trial,30/01/2023,04/11/2023,Laptop,Low
+U0728,Male,18-25,Central,Basic,29/11/2023,17/11/2024,Laptop,Medium
+U0729,Other,18-25,South,Basic,20/11/2022,18/02/2023,Smart TV,Low
+U0730,Male,18-25,East,Basic,31/05/2023,06/01/2024,Laptop,Low
+U0731,Female,50+,North,Basic,27/01/2022,06/10/2022,Tablet,Medium
+U0732,Male,36-50,South,Basic,25/08/2025,17/02/2026,Tablet,High
+U0733,Male,50+,Central,Basic,02/02/2024,31/05/2024,Smart TV,Medium
+U0734,Other,18-25,East,Free Trial,15/06/2022,07/04/2023,Laptop,High
+U0735,Male,50+,Central,Premium,20/01/2025,09/11/2025,Laptop,High
+U0736,Female,50+,South,Free Trial,04/05/2024,10/12/2024,Mobile,High
+U0737,Other,18-25,West,Free Trial,19/05/2024,15/01/2025,Laptop,Medium
+U0738,Female,18-25,West,Basic,15/01/2023,31/05/2023,Smart TV,Low
+U0739,Male,36-50,North,Free Trial,26/10/2024,09/07/2025,Mobile,High
+U0740,Male,50+,Central,Premium,17/06/2025,22/09/2025,Mobile,High
+U0741,Other,50+,North,Basic,27/06/2023,24/05/2024,Tablet,Medium
+U0742,Male,36-50,East,Basic,20/08/2023,20/05/2024,Tablet,Medium
+U0743,Other,18-25,West,Free Trial,01/01/2025,13/05/2025,Smart TV,Medium
+U0744,Female,26-35,North,Basic,06/11/2025,13/08/2026,Laptop,Medium
+U0745,Female,36-50,South,Basic,24/01/2024,04/12/2024,Smart TV,High
+U0746,Other,36-50,Central,Free Trial,18/09/2025,20/06/2026,Tablet,Medium
+U0747,Female,50+,West,Premium,25/06/2023,07/12/2023,Tablet,Low
+U0748,Other,26-35,South,Premium,08/02/2022,04/08/2022,Mobile,High
+U0749,Male,26-35,West,Free Trial,16/05/2024,01/11/2024,Smart TV,Medium
+U0750,Other,36-50,East,Premium,21/08/2022,08/12/2022,Smart TV,Medium
+U0751,Other,26-35,North,Free Trial,29/10/2024,21/10/2025,Smart TV,Low
+U0752,Male,50+,Central,Free Trial,22/12/2025,07/06/2026,Mobile,Medium
+U0753,Other,18-25,West,Basic,15/09/2024,02/08/2025,Mobile,Low
+U0754,Female,18-25,East,Premium,03/05/2022,25/01/2023,Mobile,Low
+U0755,Female,26-35,West,Free Trial,31/12/2022,14/12/2023,Tablet,Low
+U0756,Other,36-50,South,Basic,25/06/2022,05/02/2023,Laptop,Medium
+U0757,Female,26-35,North,Free Trial,11/04/2023,30/12/2023,Laptop,High
+U0758,Other,50+,West,Premium,31/03/2023,04/11/2023,Tablet,Medium
+U0759,Female,50+,North,Basic,05/08/2024,23/03/2025,Tablet,Medium
+U0760,Female,26-35,East,Basic,29/09/2024,24/06/2025,Laptop,Medium
+U0761,Other,36-50,West,Basic,05/06/2022,16/02/2023,Laptop,Medium
+U0762,Male,26-35,Central,Premium,04/11/2024,17/08/2025,Smart TV,High
+U0763,Male,18-25,South,Premium,19/03/2022,14/10/2022,Mobile,High
+U0764,Other,18-25,Central,Premium,25/01/2022,08/01/2023,Smart TV,Low
+U0765,Other,26-35,North,Free Trial,24/06/2022,01/10/2022,Laptop,Low
+U0766,Female,18-25,West,Free Trial,27/10/2024,07/10/2025,Mobile,Low
+U0767,Female,50+,South,Basic,17/04/2024,19/10/2024,Smart TV,Medium
+U0768,Other,18-25,Central,Free Trial,22/09/2024,25/01/2025,Mobile,High
+U0769,Female,50+,Central,Premium,27/09/2023,21/07/2024,Mobile,High
+U0770,Male,36-50,South,Premium,10/01/2025,14/11/2025,Laptop,High
+U0771,Female,18-25,East,Free Trial,26/08/2024,26/12/2024,Tablet,Medium
+U0772,Male,18-25,North,Free Trial,26/03/2024,07/01/2025,Laptop,High
+U0773,Male,18-25,South,Basic,11/06/2025,01/12/2025,Laptop,Low
+U0774,Female,18-25,West,Premium,19/10/2025,21/04/2026,Tablet,Low
+U0775,Male,26-35,Central,Premium,06/05/2022,03/02/2023,Tablet,High
+U0776,Other,26-35,Central,Premium,09/03/2025,18/09/2025,Tablet,Medium
+U0777,Other,36-50,North,Premium,15/09/2025,30/01/2026,Mobile,Low
+U0778,Other,26-35,East,Premium,14/09/2024,23/03/2025,Smart TV,Medium
+U0779,Other,26-35,Central,Free Trial,20/05/2025,14/01/2026,Smart TV,Low
+U0780,Female,36-50,West,Premium,26/01/2023,16/05/2023,Mobile,Medium
+U0781,Female,36-50,West,Basic,31/05/2024,30/08/2024,Mobile,Low
+U0782,Other,26-35,East,Free Trial,07/10/2023,26/03/2024,Tablet,High
+U0783,Female,50+,East,Basic,28/12/2025,25/07/2026,Smart TV,Low
+U0784,Other,18-25,East,Free Trial,27/01/2023,20/12/2023,Mobile,High
+U0785,Female,18-25,South,Basic,12/10/2024,11/06/2025,Smart TV,Medium
+U0786,Male,26-35,North,Free Trial,29/04/2022,22/08/2022,Smart TV,Low
+U0787,Male,26-35,North,Basic,19/03/2023,26/09/2023,Smart TV,Medium
+U0788,Male,36-50,East,Premium,31/10/2024,09/08/2025,Smart TV,Medium
+U0789,Other,36-50,West,Premium,29/09/2022,07/03/2023,Laptop,Medium
+U0790,Other,26-35,North,Basic,05/07/2024,06/04/2025,Smart TV,High
+U0791,Female,26-35,North,Basic,20/03/2023,08/08/2023,Tablet,High
+U0792,Female,50+,North,Free Trial,21/11/2024,01/11/2025,Laptop,High
+U0793,Female,18-25,West,Basic,20/03/2022,12/12/2022,Mobile,Medium
+U0794,Male,18-25,East,Basic,12/10/2022,01/07/2023,Mobile,Low
+U0795,Female,36-50,North,Premium,28/03/2025,03/10/2025,Mobile,Low
+U0796,Other,18-25,Central,Premium,08/10/2024,13/04/2025,Laptop,High
+U0797,Other,36-50,East,Basic,22/07/2024,25/02/2025,Laptop,Medium
+U0798,Male,18-25,East,Premium,26/08/2024,14/01/2025,Mobile,Low
+U0799,Male,26-35,Central,Free Trial,17/06/2024,16/05/2025,Tablet,Medium
+U0800,Other,18-25,North,Basic,29/07/2025,30/06/2026,Tablet,Medium
+U0801,Other,36-50,South,Free Trial,23/03/2025,08/12/2025,Smart TV,Medium
+U0802,Male,18-25,East,Premium,17/09/2022,21/06/2023,Smart TV,Medium
+U0803,Other,36-50,West,Free Trial,11/10/2023,16/01/2024,Mobile,Medium
+U0804,Female,50+,Central,Basic,04/06/2022,17/03/2023,Smart TV,Low
+U0805,Male,26-35,Central,Free Trial,20/11/2024,19/08/2025,Smart TV,Medium
+U0806,Male,26-35,South,Basic,23/03/2023,20/01/2024,Laptop,Medium
+U0807,Male,50+,East,Premium,26/02/2024,18/07/2024,Tablet,Low
+U0808,Male,18-25,Central,Basic,29/02/2024,30/09/2024,Mobile,Medium
+U0809,Female,18-25,South,Basic,30/11/2025,13/03/2026,Laptop,High
+U0810,Male,18-25,East,Free Trial,04/11/2025,22/08/2026,Laptop,Medium
+U0811,Female,26-35,Central,Premium,10/12/2025,23/09/2026,Mobile,Low
+U0812,Male,36-50,Central,Premium,04/09/2025,01/08/2026,Laptop,Medium
+U0813,Female,26-35,East,Premium,24/03/2023,21/09/2023,Mobile,Low
+U0814,Other,18-25,West,Free Trial,04/07/2024,14/01/2025,Laptop,Medium
+U0815,Other,36-50,East,Free Trial,04/01/2025,16/11/2025,Mobile,High
+U0816,Other,26-35,West,Free Trial,19/05/2023,30/01/2024,Tablet,Low
+U0817,Other,50+,East,Free Trial,26/11/2025,02/04/2026,Laptop,Low
+U0818,Male,50+,East,Free Trial,01/04/2023,02/03/2024,Laptop,High
+U0819,Other,26-35,Central,Basic,12/02/2025,01/10/2025,Laptop,Low
+U0820,Other,18-25,West,Basic,10/02/2022,28/06/2022,Smart TV,Low
+U0821,Other,36-50,West,Basic,31/03/2025,07/12/2025,Smart TV,Low
+U0822,Male,26-35,Central,Free Trial,23/06/2024,15/04/2025,Mobile,High
+U0823,Other,26-35,East,Basic,31/07/2022,02/12/2022,Mobile,Medium
+U0824,Male,36-50,East,Premium,17/03/2023,14/02/2024,Laptop,High
+U0825,Female,18-25,South,Basic,09/09/2024,18/03/2025,Laptop,High
+U0826,Male,26-35,East,Premium,10/06/2024,28/11/2024,Tablet,Medium
+U0827,Male,36-50,West,Free Trial,19/10/2022,14/07/2023,Smart TV,Medium
+U0828,Other,36-50,Central,Basic,02/08/2023,29/12/2023,Smart TV,Low
+U0829,Male,50+,North,Free Trial,03/12/2022,19/11/2023,Laptop,High
+U0830,Female,26-35,East,Premium,19/09/2024,29/12/2024,Laptop,High
+U0831,Female,18-25,North,Free Trial,14/10/2025,27/02/2026,Mobile,High
+U0832,Female,50+,South,Free Trial,16/12/2023,11/09/2024,Tablet,Medium
+U0833,Other,18-25,West,Premium,16/05/2025,23/08/2025,Smart TV,Low
+U0834,Other,26-35,Central,Premium,22/02/2024,23/12/2024,Mobile,High
+U0835,Other,50+,Central,Premium,19/09/2022,15/05/2023,Laptop,Medium
+U0836,Female,36-50,North,Free Trial,08/01/2022,21/10/2022,Tablet,Medium
+U0837,Male,50+,East,Free Trial,03/03/2023,11/06/2023,Tablet,High
+U0838,Male,18-25,North,Premium,18/05/2022,26/11/2022,Laptop,High
+U0839,Other,26-35,South,Free Trial,11/08/2025,03/04/2026,Tablet,Medium
+U0840,Other,36-50,Central,Premium,12/08/2024,19/05/2025,Mobile,Low
+U0841,Female,18-25,East,Free Trial,12/03/2025,01/12/2025,Mobile,Medium
+U0842,Male,26-35,Central,Free Trial,29/09/2025,18/04/2026,Laptop,Medium
+U0843,Other,50+,West,Basic,01/04/2025,20/09/2025,Tablet,Low
+U0844,Male,50+,North,Free Trial,08/02/2025,27/01/2026,Smart TV,Medium
+U0845,Other,36-50,East,Free Trial,15/01/2025,14/08/2025,Laptop,Medium
+U0846,Male,36-50,West,Basic,17/07/2023,26/11/2023,Laptop,High
+U0847,Other,26-35,East,Free Trial,27/03/2024,01/09/2024,Tablet,High
+U0848,Other,50+,North,Basic,09/08/2023,14/01/2024,Laptop,Medium
+U0849,Male,36-50,Central,Premium,13/11/2022,09/07/2023,Smart TV,Medium
+U0850,Male,18-25,South,Basic,08/11/2022,17/04/2023,Laptop,High
+U0851,Other,50+,South,Free Trial,18/08/2025,09/12/2025,Smart TV,High
+U0852,Male,26-35,North,Free Trial,24/08/2022,30/03/2023,Mobile,Low
+U0853,Female,26-35,North,Basic,19/04/2022,15/03/2023,Laptop,Low
+U0854,Male,36-50,East,Premium,09/08/2025,16/04/2026,Smart TV,High
+U0855,Female,36-50,South,Free Trial,24/08/2022,21/04/2023,Tablet,High
+U0856,Male,36-50,East,Free Trial,29/04/2024,14/08/2024,Tablet,Medium
+U0857,Other,36-50,East,Basic,17/06/2023,02/12/2023,Tablet,High
+U0858,Male,36-50,East,Premium,29/02/2024,11/12/2024,Mobile,High
+U0859,Male,36-50,South,Free Trial,27/02/2024,06/06/2024,Mobile,Low
+U0860,Male,50+,West,Basic,21/04/2023,13/04/2024,Laptop,Medium
+U0861,Other,50+,East,Basic,09/04/2023,12/03/2024,Tablet,Medium
+U0862,Male,26-35,West,Free Trial,07/12/2023,17/05/2024,Smart TV,Low
+U0863,Other,36-50,East,Free Trial,22/07/2022,21/05/2023,Laptop,High
+U0864,Other,50+,North,Premium,26/05/2025,08/01/2026,Tablet,High
+U0865,Other,50+,North,Free Trial,28/11/2025,17/04/2026,Laptop,Low
+U0866,Other,26-35,Central,Basic,13/12/2023,04/06/2024,Mobile,High
+U0867,Other,26-35,East,Free Trial,22/05/2024,02/01/2025,Smart TV,Medium
+U0868,Male,50+,South,Premium,26/02/2024,21/11/2024,Smart TV,Low
+U0869,Other,18-25,South,Premium,26/08/2025,15/01/2026,Smart TV,Low
+U0870,Male,50+,East,Free Trial,22/10/2023,15/10/2024,Tablet,High
+U0871,Male,18-25,North,Basic,05/12/2023,09/03/2024,Tablet,Medium
+U0872,Female,18-25,East,Free Trial,06/05/2024,24/12/2024,Smart TV,High
+U0873,Male,18-25,East,Free Trial,30/05/2025,01/10/2025,Laptop,Low
+U0874,Other,26-35,West,Free Trial,05/09/2025,02/02/2026,Tablet,Medium
+U0875,Other,50+,West,Free Trial,09/08/2022,23/06/2023,Laptop,Low
+U0876,Male,26-35,Central,Free Trial,14/11/2023,16/02/2024,Laptop,Medium
+U0877,Male,18-25,South,Basic,25/09/2024,07/09/2025,Laptop,Low
+U0878,Male,36-50,West,Free Trial,26/09/2025,15/05/2026,Smart TV,High
+U0879,Male,26-35,West,Free Trial,24/03/2023,08/01/2024,Smart TV,High
+U0880,Female,50+,Central,Premium,16/03/2022,16/08/2022,Tablet,High
+U0881,Female,50+,South,Basic,01/04/2025,06/09/2025,Smart TV,High
+U0882,Female,18-25,South,Basic,02/03/2025,19/06/2025,Smart TV,Low
+U0883,Female,26-35,West,Free Trial,20/09/2023,06/06/2024,Smart TV,High
+U0884,Male,50+,North,Premium,06/08/2024,27/07/2025,Smart TV,Low
+U0885,Other,18-25,West,Premium,08/02/2022,02/09/2022,Mobile,Medium
+U0886,Other,18-25,North,Premium,29/08/2023,08/06/2024,Laptop,Low
+U0887,Female,18-25,Central,Free Trial,10/05/2025,02/05/2026,Tablet,Low
+U0888,Male,26-35,South,Premium,19/05/2024,09/11/2024,Mobile,Low
+U0889,Female,36-50,East,Basic,06/04/2023,14/07/2023,Tablet,Low
+U0890,Male,50+,South,Free Trial,16/08/2024,30/12/2024,Mobile,Low
+U0891,Male,50+,West,Premium,22/12/2024,28/09/2025,Mobile,Low
+U0892,Female,18-25,Central,Free Trial,15/09/2023,10/08/2024,Laptop,Medium
+U0893,Other,50+,East,Basic,04/11/2025,11/07/2026,Smart TV,Low
+U0894,Female,18-25,East,Premium,26/09/2023,09/04/2024,Mobile,Low
+U0895,Male,36-50,South,Free Trial,18/12/2024,26/11/2025,Smart TV,Medium
+U0896,Female,26-35,West,Basic,15/02/2024,05/12/2024,Tablet,Low
+U0897,Female,36-50,West,Basic,19/12/2023,19/04/2024,Laptop,Medium
+U0898,Female,18-25,South,Premium,22/04/2024,06/12/2024,Laptop,High
+U0899,Female,36-50,East,Free Trial,17/12/2025,14/06/2026,Tablet,High
+U0900,Male,26-35,South,Premium,04/12/2025,29/06/2026,Laptop,Low
+U0901,Female,26-35,East,Free Trial,31/10/2023,09/03/2024,Laptop,Medium
+U0902,Male,18-25,North,Free Trial,25/03/2025,05/07/2025,Tablet,Low
+U0903,Other,50+,West,Free Trial,19/08/2024,11/03/2025,Mobile,Medium
+U0904,Male,50+,East,Premium,23/01/2023,01/09/2023,Mobile,Low
+U0905,Female,50+,South,Basic,25/02/2025,19/01/2026,Mobile,Low
+U0906,Other,18-25,Central,Free Trial,14/07/2022,17/02/2023,Smart TV,High
+U0907,Female,36-50,East,Free Trial,06/06/2023,21/04/2024,Laptop,High
+U0908,Other,36-50,South,Free Trial,02/08/2025,17/02/2026,Laptop,Medium
+U0909,Female,36-50,Central,Free Trial,12/07/2025,14/10/2025,Smart TV,Medium
+U0910,Male,18-25,East,Free Trial,20/02/2022,10/02/2023,Tablet,High
+U0911,Male,26-35,East,Basic,02/09/2025,16/04/2026,Smart TV,High
+U0912,Male,50+,East,Basic,18/10/2024,01/07/2025,Tablet,High
+U0913,Female,50+,North,Free Trial,08/02/2023,15/01/2024,Laptop,Medium
+U0914,Female,36-50,West,Premium,26/09/2024,26/04/2025,Mobile,High
+U0915,Female,50+,East,Premium,22/11/2023,13/03/2024,Smart TV,Medium
+U0916,Other,50+,South,Free Trial,17/08/2024,07/01/2025,Smart TV,Low
+U0917,Male,18-25,North,Free Trial,18/04/2025,13/02/2026,Mobile,Medium
+U0918,Male,36-50,South,Premium,31/10/2025,14/02/2026,Tablet,Medium
+U0919,Other,26-35,East,Basic,22/12/2024,10/07/2025,Mobile,Medium
+U0920,Other,18-25,West,Basic,02/11/2022,20/02/2023,Laptop,High
+U0921,Male,26-35,West,Basic,26/01/2023,30/10/2023,Mobile,Medium
+U0922,Female,26-35,East,Free Trial,13/06/2022,14/03/2023,Laptop,High
+U0923,Other,50+,North,Premium,06/07/2025,26/11/2025,Mobile,Medium
+U0924,Other,50+,West,Free Trial,16/02/2022,26/01/2023,Mobile,Medium
+U0925,Male,26-35,West,Basic,08/11/2023,22/02/2024,Laptop,Low
+U0926,Other,36-50,East,Free Trial,26/05/2024,02/02/2025,Mobile,High
+U0927,Other,26-35,North,Premium,29/06/2022,21/06/2023,Mobile,Low
+U0928,Other,18-25,North,Basic,05/01/2024,27/09/2024,Mobile,Medium
+U0929,Other,50+,Central,Free Trial,05/06/2024,05/01/2025,Tablet,Medium
+U0930,Male,26-35,West,Premium,19/10/2023,30/01/2024,Tablet,Medium
+U0931,Male,18-25,East,Premium,14/05/2024,30/09/2024,Mobile,Low
+U0932,Other,18-25,Central,Basic,14/05/2025,15/12/2025,Laptop,Low
+U0933,Male,18-25,West,Free Trial,30/11/2022,20/03/2023,Laptop,Medium
+U0934,Female,18-25,North,Free Trial,13/08/2023,21/05/2024,Laptop,High
+U0935,Male,18-25,North,Basic,15/10/2023,06/07/2024,Mobile,Medium
+U0936,Male,26-35,Central,Free Trial,22/10/2022,17/10/2023,Smart TV,Medium
+U0937,Male,36-50,West,Free Trial,12/05/2024,01/02/2025,Mobile,High
+U0938,Female,18-25,North,Free Trial,02/03/2024,30/01/2025,Laptop,High
+U0939,Other,26-35,East,Basic,11/11/2025,05/08/2026,Smart TV,Medium
+U0940,Other,18-25,Central,Premium,26/03/2023,24/10/2023,Tablet,Medium
+U0941,Female,18-25,South,Free Trial,14/05/2024,17/01/2025,Tablet,High
+U0942,Other,26-35,Central,Basic,04/02/2023,14/09/2023,Laptop,Low
+U0943,Male,18-25,West,Free Trial,27/06/2024,16/12/2024,Tablet,Low
+U0944,Male,50+,West,Basic,14/04/2024,05/11/2024,Smart TV,High
+U0945,Male,26-35,Central,Free Trial,12/10/2025,10/04/2026,Smart TV,Medium
+U0946,Male,50+,Central,Premium,22/05/2024,26/09/2024,Smart TV,Low
+U0947,Male,36-50,Central,Basic,25/11/2024,30/09/2025,Laptop,Low
+U0948,Other,26-35,South,Free Trial,12/09/2025,16/02/2026,Tablet,Low
+U0949,Female,18-25,Central,Premium,13/12/2022,12/04/2023,Mobile,Medium
+U0950,Female,36-50,West,Basic,22/11/2023,09/05/2024,Smart TV,Low
+U0951,Other,50+,Central,Basic,23/06/2023,05/10/2023,Mobile,Low
+U0952,Female,36-50,Central,Free Trial,04/08/2023,20/04/2024,Laptop,Medium
+U0953,Other,18-25,South,Premium,09/01/2025,12/06/2025,Smart TV,Low
+U0954,Other,50+,North,Free Trial,14/01/2025,22/12/2025,Mobile,Medium
+U0955,Female,36-50,East,Premium,16/08/2022,08/06/2023,Mobile,Medium
+U0956,Other,36-50,East,Free Trial,08/09/2024,06/03/2025,Smart TV,Low
+U0957,Other,36-50,North,Free Trial,12/12/2025,17/07/2026,Laptop,Medium
+U0958,Other,36-50,East,Basic,11/08/2024,02/07/2025,Smart TV,Medium
+U0959,Male,50+,Central,Premium,19/08/2022,21/12/2022,Smart TV,Low
+U0960,Other,36-50,Central,Premium,21/02/2025,21/12/2025,Laptop,Medium
+U0961,Male,26-35,South,Premium,03/12/2025,07/05/2026,Mobile,Low
+U0962,Female,36-50,East,Premium,19/06/2022,14/10/2022,Tablet,High
+U0963,Other,26-35,Central,Free Trial,30/09/2022,15/08/2023,Mobile,Medium
+U0964,Other,18-25,North,Free Trial,27/06/2025,18/03/2026,Smart TV,Medium
+U0965,Other,36-50,East,Basic,18/04/2025,19/09/2025,Laptop,Low
+U0966,Female,26-35,Central,Basic,17/10/2025,11/04/2026,Mobile,Medium
+U0967,Female,36-50,East,Free Trial,17/05/2024,22/09/2024,Mobile,Medium
+U0968,Male,36-50,North,Basic,13/03/2025,08/07/2025,Smart TV,High
+U0969,Other,50+,East,Premium,07/11/2022,09/04/2023,Tablet,Medium
+U0970,Other,50+,West,Basic,11/06/2023,07/05/2024,Smart TV,Medium
+U0971,Other,18-25,West,Free Trial,07/09/2024,19/12/2024,Mobile,Medium
+U0972,Female,26-35,West,Free Trial,25/02/2023,15/12/2023,Smart TV,Low
+U0973,Female,18-25,South,Free Trial,24/11/2025,13/10/2026,Mobile,Medium
+U0974,Female,50+,South,Basic,31/05/2022,05/12/2022,Laptop,Low
+U0975,Male,26-35,East,Premium,18/11/2024,22/08/2025,Laptop,Low
+U0976,Other,18-25,East,Free Trial,02/07/2025,06/02/2026,Laptop,Medium
+U0977,Male,26-35,West,Premium,23/10/2022,24/02/2023,Smart TV,Medium
+U0978,Male,50+,North,Basic,24/12/2022,31/07/2023,Smart TV,Medium
+U0979,Male,50+,Central,Basic,28/11/2023,27/10/2024,Tablet,Medium
+U0980,Other,26-35,West,Basic,27/02/2023,26/01/2024,Smart TV,Medium
+U0981,Female,50+,North,Basic,28/08/2022,21/03/2023,Tablet,High
+U0982,Female,18-25,East,Premium,28/07/2025,27/02/2026,Smart TV,Medium
+U0983,Male,26-35,West,Premium,29/12/2022,10/09/2023,Tablet,High
+U0984,Female,50+,West,Basic,25/07/2024,21/01/2025,Tablet,High
+U0985,Other,36-50,West,Premium,04/03/2022,25/12/2022,Tablet,High
+U0986,Male,36-50,South,Premium,02/07/2024,29/03/2025,Smart TV,Medium
+U0987,Other,50+,Central,Free Trial,07/12/2022,09/10/2023,Tablet,Low
+U0988,Female,36-50,North,Premium,27/11/2022,04/05/2023,Tablet,Medium
+U0989,Other,18-25,Central,Free Trial,08/11/2024,11/06/2025,Laptop,Medium
+U0990,Female,36-50,South,Basic,18/04/2024,13/01/2025,Tablet,High
+U0991,Other,36-50,Central,Free Trial,26/10/2025,23/07/2026,Mobile,High
+U0992,Male,50+,North,Basic,05/04/2025,12/07/2025,Laptop,High
+U0993,Other,36-50,Central,Basic,02/01/2023,07/04/2023,Smart TV,Medium
+U0994,Male,36-50,Central,Free Trial,05/04/2022,15/01/2023,Mobile,Low
+U0995,Other,36-50,East,Premium,04/12/2025,13/04/2026,Tablet,Medium
+U0996,Female,26-35,West,Free Trial,12/01/2023,02/10/2023,Mobile,Medium
+U0997,Female,50+,North,Free Trial,06/10/2022,17/05/2023,Smart TV,Low
+U0998,Other,50+,Central,Free Trial,24/07/2025,12/02/2026,Smart TV,High
+U0999,Female,26-35,Central,Premium,26/05/2025,20/12/2025,Laptop,High
+U1000,Other,18-25,Central,Free Trial,27/01/2025,29/10/2025,Smart TV,Low
+U1001,Other,50+,South,Premium,06/08/2025,30/11/2025,Laptop,High
+U1002,Other,26-35,West,Basic,14/01/2025,02/09/2025,Mobile,Medium
+U1003,Other,50+,West,Basic,28/02/2022,27/07/2022,Smart TV,Low
+U1004,Male,18-25,North,Free Trial,06/08/2022,26/06/2023,Smart TV,Low
+U1005,Female,50+,East,Premium,24/07/2024,10/12/2024,Tablet,Low
+U1006,Male,36-50,Central,Free Trial,21/02/2023,02/02/2024,Laptop,Low
+U1007,Other,26-35,West,Free Trial,12/01/2024,04/11/2024,Smart TV,High
+U1008,Female,18-25,South,Premium,28/10/2022,03/06/2023,Mobile,High
+U1009,Female,26-35,West,Premium,15/07/2023,18/12/2023,Mobile,High
+U1010,Female,26-35,West,Basic,02/09/2024,11/07/2025,Mobile,Low
+U1011,Other,26-35,West,Premium,03/07/2025,26/04/2026,Mobile,High
+U1012,Male,50+,South,Free Trial,11/09/2022,01/08/2023,Mobile,Medium
+U1013,Other,26-35,West,Basic,23/09/2022,08/04/2023,Mobile,Medium
+U1014,Other,26-35,South,Basic,06/10/2022,31/03/2023,Tablet,Medium
+U1015,Other,50+,West,Free Trial,27/07/2023,27/12/2023,Tablet,High
+U1016,Other,36-50,Central,Basic,10/04/2025,22/08/2025,Mobile,Medium
+U1017,Female,36-50,Central,Premium,13/01/2023,14/07/2023,Smart TV,Medium
+U1018,Female,18-25,South,Basic,11/10/2025,18/01/2026,Laptop,High
+U1019,Male,36-50,North,Basic,17/01/2023,18/10/2023,Mobile,High
+U1020,Female,36-50,North,Basic,07/07/2024,15/01/2025,Mobile,Low
+U1021,Other,36-50,West,Premium,21/10/2024,03/06/2025,Mobile,Low
+U1022,Other,26-35,Central,Basic,25/06/2022,15/06/2023,Laptop,Medium
+U1023,Female,18-25,South,Free Trial,12/01/2025,28/07/2025,Mobile,Medium
+U1024,Male,50+,South,Premium,29/01/2023,25/07/2023,Laptop,Medium
+U1025,Female,50+,South,Basic,24/03/2023,12/02/2024,Smart TV,High
+U1026,Other,36-50,East,Premium,22/02/2024,19/12/2024,Laptop,Low
+U1027,Male,50+,East,Free Trial,17/12/2024,23/05/2025,Smart TV,Medium
+U1028,Male,18-25,Central,Basic,09/05/2025,25/09/2025,Laptop,High
+U1029,Male,50+,North,Free Trial,17/02/2022,27/08/2022,Smart TV,Medium
+U1030,Female,36-50,South,Basic,28/12/2022,28/07/2023,Mobile,Medium
+U1031,Male,36-50,Central,Basic,25/07/2025,24/01/2026,Mobile,High
+U1032,Male,18-25,Central,Basic,05/12/2022,20/09/2023,Laptop,High
+U1033,Female,50+,West,Basic,08/03/2024,04/08/2024,Laptop,Low
+U1034,Female,36-50,East,Basic,18/07/2024,27/05/2025,Laptop,Low
+U1035,Male,50+,East,Free Trial,15/06/2023,11/12/2023,Mobile,Medium
+U1036,Other,50+,North,Premium,15/03/2024,19/02/2025,Mobile,High
+U1037,Female,26-35,West,Free Trial,10/07/2024,01/03/2025,Laptop,Low
+U1038,Male,18-25,North,Basic,01/07/2023,08/03/2024,Laptop,High
+U1039,Other,26-35,North,Basic,09/02/2025,18/07/2025,Laptop,Medium
+U1040,Female,36-50,East,Premium,16/10/2024,05/07/2025,Smart TV,Low
+U1041,Male,18-25,South,Basic,09/06/2023,20/12/2023,Mobile,Low
+U1042,Other,18-25,Central,Premium,31/10/2025,07/04/2026,Smart TV,Low
+U1043,Male,18-25,Central,Free Trial,30/08/2023,23/08/2024,Laptop,Medium
+U1044,Female,18-25,South,Basic,08/12/2024,22/11/2025,Laptop,Low
+U1045,Other,26-35,West,Premium,27/10/2025,23/06/2026,Mobile,Medium
+U1046,Other,50+,West,Basic,10/09/2022,20/03/2023,Mobile,Low
+U1047,Other,18-25,Central,Premium,08/05/2024,04/04/2025,Tablet,High
+U1048,Male,50+,North,Premium,25/11/2023,28/03/2024,Tablet,Medium
+U1049,Male,18-25,North,Free Trial,08/12/2024,10/08/2025,Tablet,Medium
+U1050,Female,50+,North,Free Trial,10/11/2024,28/08/2025,Tablet,Low
+U1051,Female,50+,East,Free Trial,28/04/2022,09/02/2023,Mobile,High
+U1052,Male,18-25,Central,Basic,24/04/2022,09/11/2022,Smart TV,High
+U1053,Other,36-50,North,Basic,04/05/2023,04/01/2024,Smart TV,Medium
+U1054,Female,18-25,North,Basic,30/12/2022,07/05/2023,Smart TV,Low
+U1055,Other,50+,Central,Free Trial,22/05/2022,17/09/2022,Smart TV,Low
+U1056,Female,26-35,East,Free Trial,29/01/2025,22/05/2025,Mobile,Low
+U1057,Female,50+,Central,Free Trial,11/11/2022,21/07/2023,Smart TV,Low
+U1058,Male,50+,Central,Free Trial,19/04/2023,26/02/2024,Mobile,Low
+U1059,Male,36-50,South,Basic,08/09/2024,06/04/2025,Smart TV,Low
+U1060,Female,36-50,North,Free Trial,16/03/2023,11/11/2023,Laptop,High
+U1061,Female,18-25,West,Premium,15/11/2022,08/04/2023,Smart TV,High
+U1062,Other,18-25,North,Basic,14/11/2024,30/03/2025,Smart TV,Low
+U1063,Female,26-35,East,Free Trial,10/03/2024,28/06/2024,Mobile,High
+U1064,Male,36-50,East,Basic,25/12/2025,28/04/2026,Tablet,Medium
+U1065,Female,18-25,East,Free Trial,05/10/2024,27/02/2025,Tablet,High
+U1066,Other,36-50,East,Premium,22/11/2025,24/03/2026,Smart TV,Low
+U1067,Male,50+,East,Premium,11/05/2023,02/02/2024,Tablet,Low
+U1068,Female,18-25,South,Basic,02/01/2024,18/04/2024,Mobile,Medium
+U1069,Male,36-50,Central,Free Trial,16/12/2025,09/12/2026,Laptop,Low
+U1070,Female,18-25,North,Premium,04/05/2022,24/02/2023,Tablet,High
+U1071,Female,18-25,West,Basic,25/01/2024,08/01/2025,Smart TV,Low
+U1072,Female,26-35,West,Premium,01/05/2023,14/09/2023,Laptop,High
+U1073,Other,50+,South,Premium,25/11/2023,19/06/2024,Smart TV,Medium
+U1074,Male,36-50,West,Free Trial,27/07/2025,05/05/2026,Smart TV,Medium
+U1075,Male,26-35,West,Premium,23/11/2022,28/03/2023,Mobile,Low
+U1076,Other,26-35,East,Premium,11/02/2025,24/08/2025,Tablet,Medium
+U1077,Male,50+,West,Basic,21/12/2025,12/06/2026,Smart TV,Low
+U1078,Other,36-50,North,Free Trial,28/04/2023,26/01/2024,Smart TV,Medium
+U1079,Female,50+,Central,Free Trial,03/12/2023,24/09/2024,Mobile,Medium
+U1080,Male,26-35,East,Free Trial,30/07/2023,01/04/2024,Tablet,High
+U1081,Other,18-25,Central,Free Trial,21/10/2022,03/05/2023,Mobile,Medium
+U1082,Female,36-50,Central,Free Trial,21/12/2022,15/05/2023,Mobile,Medium
+U1083,Female,18-25,Central,Free Trial,29/03/2023,30/11/2023,Tablet,Medium
+U1084,Other,36-50,West,Basic,08/02/2025,13/11/2025,Smart TV,Medium
+U1085,Other,36-50,North,Basic,19/07/2024,16/02/2025,Smart TV,High
+U1086,Male,36-50,West,Free Trial,23/04/2024,02/01/2025,Mobile,High
+U1087,Female,36-50,Central,Premium,24/11/2022,19/11/2023,Laptop,High
+U1088,Other,18-25,North,Premium,07/04/2025,18/09/2025,Mobile,Low
+U1089,Female,26-35,South,Premium,29/07/2025,10/11/2025,Laptop,Medium
+U1090,Female,26-35,North,Basic,13/01/2023,14/11/2023,Tablet,High
+U1091,Female,18-25,Central,Basic,18/09/2024,14/03/2025,Laptop,Medium
+U1092,Other,26-35,Central,Premium,16/05/2024,01/04/2025,Tablet,Low
+U1093,Other,36-50,Central,Basic,24/04/2023,31/01/2024,Mobile,Low
+U1094,Male,50+,North,Free Trial,27/07/2025,20/05/2026,Smart TV,Low
+U1095,Male,26-35,East,Free Trial,16/03/2024,21/08/2024,Smart TV,High
+U1096,Female,26-35,East,Free Trial,22/03/2023,15/07/2023,Smart TV,Medium
+U1097,Other,26-35,Central,Basic,28/08/2022,12/04/2023,Tablet,Medium
+U1098,Female,50+,North,Premium,09/07/2022,28/03/2023,Mobile,Medium
+U1099,Male,50+,South,Basic,24/08/2023,24/03/2024,Laptop,Medium
+U1100,Male,50+,South,Basic,09/11/2022,22/06/2023,Smart TV,High
+U1101,Other,50+,North,Free Trial,30/05/2025,19/11/2025,Smart TV,Low
+U1102,Female,18-25,North,Basic,30/09/2025,29/12/2025,Tablet,Low
+U1103,Male,26-35,Central,Free Trial,10/12/2023,22/05/2024,Mobile,Low
+U1104,Other,50+,East,Premium,22/05/2025,30/01/2026,Smart TV,Medium
+U1105,Female,26-35,West,Basic,19/06/2025,19/11/2025,Laptop,Low
+U1106,Female,36-50,North,Free Trial,05/11/2025,02/07/2026,Smart TV,Low
+U1107,Other,18-25,West,Basic,14/03/2023,10/03/2024,Laptop,Low
+U1108,Other,36-50,South,Basic,12/10/2022,09/05/2023,Tablet,High
+U1109,Female,36-50,Central,Basic,11/02/2022,06/11/2022,Smart TV,Low
+U1110,Male,26-35,East,Free Trial,08/03/2024,28/07/2024,Laptop,High
+U1111,Female,50+,East,Basic,19/12/2025,29/04/2026,Laptop,Medium
+U1112,Other,36-50,West,Premium,11/09/2024,20/08/2025,Tablet,High
+U1113,Other,36-50,Central,Premium,20/07/2025,03/06/2026,Laptop,Medium
+U1114,Male,50+,Central,Free Trial,13/03/2025,31/10/2025,Laptop,Low
+U1115,Female,50+,West,Free Trial,09/01/2024,20/04/2024,Smart TV,Low
+U1116,Other,50+,South,Free Trial,10/07/2023,07/07/2024,Smart TV,High
+U1117,Other,18-25,South,Free Trial,27/04/2024,20/11/2024,Smart TV,High
+U1118,Other,18-25,Central,Basic,30/10/2025,02/03/2026,Laptop,High
+U1119,Female,26-35,South,Basic,07/06/2025,08/11/2025,Tablet,Low
+U1120,Male,26-35,North,Premium,30/03/2023,12/12/2023,Mobile,Medium
+U1121,Female,18-25,South,Premium,29/01/2025,03/01/2026,Mobile,Medium
+U1122,Female,26-35,West,Basic,26/01/2025,10/07/2025,Smart TV,High
+U1123,Male,26-35,East,Premium,01/06/2023,08/10/2023,Laptop,Medium
+U1124,Male,26-35,East,Basic,18/11/2022,12/06/2023,Laptop,High
+U1125,Other,18-25,North,Basic,05/01/2025,07/11/2025,Laptop,Low
+U1126,Female,50+,Central,Free Trial,09/01/2025,08/09/2025,Laptop,High
+U1127,Other,50+,East,Free Trial,28/08/2024,22/04/2025,Tablet,Medium
+U1128,Male,26-35,East,Free Trial,06/11/2023,01/07/2024,Mobile,High
+U1129,Male,50+,North,Premium,10/07/2022,30/03/2023,Laptop,Low
+U1130,Other,26-35,West,Premium,22/05/2022,08/12/2022,Smart TV,Low
+U1131,Other,26-35,Central,Free Trial,30/03/2023,26/01/2024,Smart TV,Low
+U1132,Female,36-50,North,Basic,25/04/2025,11/10/2025,Tablet,High
+U1133,Male,36-50,East,Premium,05/07/2023,16/12/2023,Smart TV,High
+U1134,Other,36-50,Central,Premium,29/03/2022,02/02/2023,Laptop,Low
+U1135,Female,50+,East,Basic,23/04/2025,11/04/2026,Tablet,High
+U1136,Female,36-50,East,Free Trial,04/09/2022,07/02/2023,Laptop,High
+U1137,Other,26-35,North,Basic,01/08/2022,01/07/2023,Laptop,Low
+U1138,Female,36-50,West,Basic,09/10/2025,24/02/2026,Tablet,Medium
+U1139,Other,26-35,Central,Free Trial,29/04/2024,28/12/2024,Smart TV,Medium
+U1140,Female,36-50,East,Premium,24/12/2024,11/06/2025,Tablet,Low
+U1141,Male,50+,Central,Basic,23/05/2022,07/02/2023,Laptop,High
+U1142,Other,50+,West,Free Trial,06/07/2024,05/04/2025,Tablet,High
+U1143,Male,26-35,Central,Free Trial,16/03/2025,14/06/2025,Laptop,Low
+U1144,Male,50+,North,Premium,22/03/2022,27/10/2022,Mobile,High
+U1145,Male,50+,North,Premium,16/08/2023,26/04/2024,Tablet,Low
+U1146,Female,26-35,East,Free Trial,10/06/2024,18/10/2024,Smart TV,Medium
+U1147,Female,50+,South,Basic,05/08/2022,24/03/2023,Smart TV,Medium
+U1148,Female,18-25,North,Premium,27/06/2024,12/03/2025,Laptop,Medium
+U1149,Female,50+,East,Premium,03/04/2025,24/08/2025,Tablet,Medium
+U1150,Other,36-50,East,Free Trial,15/01/2025,06/10/2025,Mobile,High
+U1151,Male,36-50,East,Premium,13/08/2024,29/05/2025,Laptop,Low
+U1152,Other,50+,North,Premium,05/04/2024,27/01/2025,Laptop,Medium
+U1153,Other,36-50,East,Premium,18/08/2025,11/06/2026,Mobile,High
+U1154,Male,26-35,West,Basic,09/06/2024,09/11/2024,Laptop,Low
+U1155,Female,18-25,Central,Premium,02/12/2022,01/05/2023,Mobile,High
+U1156,Male,36-50,West,Premium,03/04/2025,04/09/2025,Laptop,High
+U1157,Male,26-35,West,Free Trial,01/04/2023,30/08/2023,Tablet,High
+U1158,Other,26-35,Central,Premium,02/04/2024,23/09/2024,Mobile,Low
+U1159,Other,36-50,Central,Free Trial,11/06/2024,14/05/2025,Laptop,Medium
+U1160,Male,26-35,West,Free Trial,04/11/2024,17/05/2025,Laptop,Low
+U1161,Female,18-25,North,Premium,13/06/2025,22/01/2026,Tablet,High
+U1162,Other,50+,North,Basic,02/08/2025,07/07/2026,Smart TV,High
+U1163,Male,18-25,East,Basic,23/12/2022,13/05/2023,Laptop,Low
+U1164,Other,50+,North,Free Trial,04/02/2024,26/01/2025,Laptop,Medium
+U1165,Male,26-35,West,Premium,17/04/2023,25/11/2023,Laptop,Low
+U1166,Female,26-35,Central,Free Trial,27/09/2025,08/02/2026,Laptop,Medium
+U1167,Female,26-35,West,Basic,24/11/2025,10/04/2026,Smart TV,Low
+U1168,Other,50+,South,Basic,18/12/2023,27/11/2024,Laptop,Low
+U1169,Other,26-35,North,Free Trial,01/02/2024,08/01/2025,Laptop,Low
+U1170,Male,18-25,North,Premium,17/03/2022,30/12/2022,Tablet,Medium
+U1171,Male,36-50,North,Premium,29/07/2025,24/04/2026,Tablet,Medium
+U1172,Female,50+,West,Free Trial,07/02/2025,01/09/2025,Mobile,Low
+U1173,Male,36-50,East,Free Trial,26/12/2024,06/04/2025,Tablet,Medium
+U1174,Other,36-50,Central,Basic,06/05/2025,21/04/2026,Mobile,Medium
+U1175,Female,36-50,North,Premium,15/03/2024,07/02/2025,Laptop,Medium
+U1176,Female,18-25,East,Basic,03/03/2023,27/12/2023,Laptop,High
+U1177,Male,26-35,South,Basic,10/06/2025,30/11/2025,Tablet,High
+U1178,Female,18-25,South,Basic,22/10/2024,23/02/2025,Tablet,High
+U1179,Female,26-35,Central,Basic,20/05/2024,09/10/2024,Smart TV,High
+U1180,Male,26-35,Central,Free Trial,22/06/2025,24/05/2026,Smart TV,Medium
+U1181,Other,50+,East,Free Trial,06/08/2023,09/01/2024,Laptop,Medium
+U1182,Other,36-50,East,Free Trial,15/07/2023,02/01/2024,Tablet,Medium
+U1183,Other,26-35,West,Free Trial,06/04/2022,10/07/2022,Tablet,High
+U1184,Male,50+,North,Free Trial,30/03/2024,18/02/2025,Laptop,Medium
+U1185,Other,50+,South,Basic,21/04/2022,28/01/2023,Smart TV,High
+U1186,Other,36-50,East,Basic,09/02/2022,04/01/2023,Smart TV,Medium
+U1187,Other,18-25,North,Premium,30/04/2025,03/12/2025,Mobile,Low
+U1188,Female,50+,West,Basic,06/10/2024,08/02/2025,Laptop,Low
+U1189,Female,50+,West,Basic,01/09/2024,13/05/2025,Mobile,Medium
+U1190,Other,50+,South,Premium,13/05/2024,27/02/2025,Smart TV,Low
+U1191,Other,50+,Central,Free Trial,20/12/2022,20/03/2023,Tablet,Medium
+U1192,Female,50+,South,Premium,11/10/2024,25/07/2025,Laptop,Low
+U1193,Female,50+,Central,Basic,28/02/2023,09/07/2023,Smart TV,High
+U1194,Female,18-25,East,Premium,21/12/2023,03/09/2024,Mobile,Medium
+U1195,Male,36-50,South,Premium,19/05/2025,15/04/2026,Laptop,Medium
+U1196,Male,26-35,North,Free Trial,09/09/2023,24/08/2024,Laptop,Low
+U1197,Male,18-25,West,Premium,28/08/2023,13/03/2024,Smart TV,Low
+U1198,Male,26-35,East,Free Trial,23/11/2023,21/07/2024,Smart TV,High
+U1199,Other,50+,North,Premium,08/08/2023,08/06/2024,Mobile,Low
+U1200,Male,50+,North,Basic,06/06/2024,03/12/2024,Smart TV,Medium
+U1201,Female,36-50,South,Basic,18/05/2023,08/02/2024,Smart TV,Low
+U1202,Female,36-50,North,Free Trial,08/05/2023,16/11/2023,Smart TV,Low
+U1203,Other,36-50,South,Free Trial,16/08/2022,30/01/2023,Mobile,Medium
+U1204,Other,26-35,Central,Premium,15/12/2024,11/12/2025,Smart TV,Medium
+U1205,Male,26-35,North,Free Trial,18/08/2022,17/08/2023,Smart TV,Low
+U1206,Female,18-25,North,Basic,22/06/2023,01/05/2024,Mobile,Medium
+U1207,Female,50+,East,Basic,02/07/2022,11/11/2022,Mobile,Medium
+U1208,Other,26-35,East,Premium,22/02/2022,07/01/2023,Smart TV,High
+U1209,Male,50+,West,Basic,31/01/2024,23/06/2024,Smart TV,High
+U1210,Other,50+,North,Free Trial,15/11/2023,10/07/2024,Tablet,Low
+U1211,Female,36-50,East,Free Trial,28/07/2023,30/03/2024,Smart TV,Low
+U1212,Other,18-25,North,Premium,31/10/2023,15/08/2024,Smart TV,Low
+U1213,Male,26-35,South,Free Trial,22/03/2025,21/02/2026,Mobile,Low
+U1214,Male,50+,West,Basic,26/09/2022,06/05/2023,Smart TV,Low
+U1215,Female,18-25,East,Basic,20/04/2022,17/11/2022,Smart TV,Medium
+U1216,Male,50+,East,Free Trial,28/01/2025,15/08/2025,Mobile,High
+U1217,Female,36-50,Central,Basic,24/07/2023,03/12/2023,Tablet,Low
+U1218,Other,50+,Central,Free Trial,13/12/2024,05/12/2025,Laptop,Medium
+U1219,Other,50+,East,Free Trial,07/12/2023,02/08/2024,Tablet,Low
+U1220,Male,26-35,North,Free Trial,15/09/2025,01/09/2026,Laptop,High
+U1221,Female,36-50,South,Premium,16/03/2023,01/03/2024,Mobile,Low
+U1222,Female,50+,East,Premium,08/10/2023,26/03/2024,Mobile,Low
+U1223,Other,36-50,Central,Free Trial,04/07/2024,10/02/2025,Mobile,Low
+U1224,Male,26-35,East,Free Trial,03/03/2022,26/07/2022,Laptop,High
+U1225,Other,50+,Central,Premium,03/01/2023,02/11/2023,Laptop,High
+U1226,Male,36-50,Central,Basic,18/11/2022,26/08/2023,Laptop,High
+U1227,Other,26-35,East,Basic,16/07/2023,27/06/2024,Smart TV,High
+U1228,Female,18-25,North,Basic,15/11/2023,09/06/2024,Mobile,Low
+U1229,Male,50+,North,Premium,30/10/2022,12/09/2023,Tablet,Low
+U1230,Male,18-25,Central,Premium,16/10/2023,10/05/2024,Tablet,Low
+U1231,Female,36-50,South,Free Trial,10/04/2022,25/08/2022,Mobile,High
+U1232,Other,36-50,West,Basic,19/06/2024,18/04/2025,Smart TV,High
+U1233,Male,26-35,East,Premium,03/07/2025,01/02/2026,Mobile,Low
+U1234,Male,26-35,Central,Basic,10/04/2025,24/09/2025,Mobile,High
+U1235,Male,26-35,West,Free Trial,03/08/2025,22/02/2026,Smart TV,Low
+U1236,Female,26-35,East,Premium,15/02/2024,24/01/2025,Tablet,Low
+U1237,Male,18-25,South,Free Trial,30/05/2024,11/02/2025,Laptop,Medium
+U1238,Other,36-50,North,Basic,02/09/2022,24/04/2023,Laptop,Low
+U1239,Male,18-25,West,Basic,03/02/2023,06/07/2023,Smart TV,Low
+U1240,Other,50+,East,Premium,17/06/2022,22/02/2023,Smart TV,Medium
+U1241,Female,26-35,Central,Free Trial,02/11/2024,02/04/2025,Tablet,Medium
+U1242,Other,50+,North,Basic,09/10/2025,06/02/2026,Tablet,High
+U1243,Male,18-25,South,Premium,03/07/2022,30/01/2023,Smart TV,Low
+U1244,Female,36-50,North,Basic,26/02/2023,20/02/2024,Smart TV,High
+U1245,Female,36-50,North,Free Trial,03/01/2024,26/09/2024,Smart TV,Medium
+U1246,Female,26-35,West,Premium,14/07/2024,18/05/2025,Laptop,Medium
+U1247,Male,36-50,North,Free Trial,16/09/2023,21/05/2024,Tablet,Low
+U1248,Male,18-25,East,Free Trial,04/12/2025,13/11/2026,Tablet,Low
+U1249,Female,18-25,South,Free Trial,06/04/2024,04/01/2025,Smart TV,Medium
+U1250,Female,18-25,Central,Free Trial,20/03/2023,01/08/2023,Smart TV,Medium
+U1251,Female,50+,West,Premium,26/07/2022,27/05/2023,Laptop,Low
+U1252,Male,26-35,Central,Basic,10/11/2024,11/08/2025,Smart TV,High
+U1253,Other,18-25,North,Premium,24/06/2024,31/03/2025,Mobile,High
+U1254,Male,50+,South,Free Trial,29/08/2024,25/08/2025,Mobile,Low
+U1255,Other,50+,West,Basic,12/08/2023,28/05/2024,Mobile,High
+U1256,Male,18-25,West,Basic,08/12/2025,12/06/2026,Laptop,Medium
+U1257,Male,36-50,East,Premium,10/01/2022,01/05/2022,Smart TV,Low
+U1258,Other,18-25,South,Basic,23/08/2025,15/02/2026,Mobile,Low
+U1259,Other,50+,West,Basic,05/06/2022,05/01/2023,Tablet,High
+U1260,Other,50+,East,Basic,12/01/2023,19/11/2023,Laptop,Medium
+U1261,Female,18-25,South,Free Trial,28/09/2024,10/01/2025,Laptop,Low
+U1262,Other,26-35,East,Premium,02/08/2022,09/11/2022,Tablet,High
+U1263,Male,18-25,West,Premium,08/02/2022,19/12/2022,Tablet,Low
+U1264,Male,26-35,East,Free Trial,04/01/2023,21/07/2023,Tablet,Low
+U1265,Female,26-35,South,Free Trial,19/01/2024,28/05/2024,Laptop,Medium
+U1266,Male,18-25,South,Premium,10/10/2024,01/08/2025,Mobile,Low
+U1267,Other,36-50,West,Free Trial,03/07/2023,27/03/2024,Smart TV,Medium
+U1268,Other,18-25,East,Free Trial,07/11/2023,23/04/2024,Mobile,Low
+U1269,Other,26-35,North,Basic,30/03/2024,07/03/2025,Mobile,Medium
+U1270,Other,36-50,Central,Premium,25/04/2024,01/02/2025,Laptop,High
+U1271,Other,36-50,Central,Basic,16/01/2025,02/01/2026,Tablet,Low
+U1272,Male,36-50,West,Basic,23/09/2022,27/03/2023,Smart TV,Low
+U1273,Male,18-25,South,Free Trial,23/04/2024,16/02/2025,Smart TV,Low
+U1274,Female,50+,Central,Free Trial,11/03/2025,31/12/2025,Smart TV,Low
+U1275,Female,50+,Central,Free Trial,28/11/2024,10/10/2025,Smart TV,Medium
+U1276,Male,50+,South,Premium,06/05/2024,04/01/2025,Laptop,High
+U1277,Other,26-35,North,Premium,18/04/2022,29/03/2023,Tablet,Medium
+U1278,Male,18-25,West,Free Trial,26/12/2025,24/08/2026,Smart TV,Medium
+U1279,Other,26-35,East,Premium,11/09/2022,27/12/2022,Tablet,High
+U1280,Male,36-50,East,Basic,02/02/2025,06/08/2025,Mobile,High
+U1281,Male,26-35,North,Basic,05/06/2023,26/11/2023,Mobile,Medium
+U1282,Other,50+,North,Premium,15/10/2023,01/05/2024,Laptop,Medium
+U1283,Male,36-50,South,Basic,31/10/2022,24/04/2023,Tablet,High
+U1284,Male,36-50,North,Free Trial,21/06/2024,16/11/2024,Mobile,Low
+U1285,Other,18-25,South,Basic,25/02/2022,06/10/2022,Tablet,High
+U1286,Male,36-50,West,Premium,24/10/2022,03/02/2023,Mobile,Low
+U1287,Female,36-50,West,Free Trial,21/07/2025,14/05/2026,Mobile,Low
+U1288,Other,18-25,East,Basic,12/11/2025,14/07/2026,Mobile,Medium
+U1289,Female,50+,East,Basic,08/10/2022,29/05/2023,Mobile,Medium
+U1290,Female,18-25,West,Free Trial,22/06/2025,17/10/2025,Laptop,High
+U1291,Male,36-50,West,Free Trial,25/06/2024,09/06/2025,Tablet,High
+U1292,Female,26-35,North,Premium,29/12/2024,05/04/2025,Tablet,Low
+U1293,Male,50+,South,Basic,16/09/2025,20/03/2026,Tablet,Medium
+U1294,Female,26-35,East,Premium,04/01/2022,06/12/2022,Mobile,Medium
+U1295,Male,50+,West,Premium,04/09/2025,10/06/2026,Mobile,Low
+U1296,Other,26-35,North,Free Trial,14/07/2022,08/12/2022,Mobile,Medium
+U1297,Female,18-25,South,Free Trial,04/04/2023,07/02/2024,Smart TV,Medium
+U1298,Female,26-35,East,Free Trial,15/08/2022,01/05/2023,Smart TV,High
+U1299,Other,18-25,South,Premium,20/04/2025,11/04/2026,Laptop,Medium
+U1300,Female,18-25,North,Basic,21/09/2022,12/06/2023,Smart TV,Medium
+U1301,Male,36-50,West,Basic,10/04/2024,29/07/2024,Mobile,Medium
+U1302,Male,36-50,Central,Free Trial,27/12/2025,15/04/2026,Tablet,Medium
+U1303,Other,36-50,South,Basic,28/06/2023,23/04/2024,Smart TV,Medium
+U1304,Other,36-50,West,Free Trial,14/02/2022,05/12/2022,Laptop,Medium
+U1305,Male,26-35,Central,Premium,19/12/2023,20/10/2024,Smart TV,Low
+U1306,Female,50+,East,Premium,09/06/2024,30/12/2024,Laptop,High
+U1307,Female,36-50,Central,Basic,20/07/2024,06/11/2024,Smart TV,Medium
+U1308,Male,36-50,Central,Premium,20/02/2022,01/02/2023,Tablet,Low
+U1309,Female,26-35,Central,Free Trial,21/06/2022,23/02/2023,Mobile,High
+U1310,Female,50+,Central,Premium,20/01/2023,23/04/2023,Smart TV,Medium
+U1311,Other,36-50,Central,Free Trial,28/07/2024,14/05/2025,Smart TV,High
+U1312,Other,18-25,South,Premium,30/01/2022,16/11/2022,Smart TV,Medium
+U1313,Male,50+,North,Premium,07/06/2022,25/12/2022,Laptop,Low
+U1314,Male,50+,Central,Free Trial,18/03/2025,26/01/2026,Mobile,High
+U1315,Female,18-25,East,Free Trial,21/11/2025,23/07/2026,Laptop,Medium
+U1316,Other,26-35,West,Free Trial,07/11/2025,19/08/2026,Smart TV,High
+U1317,Other,50+,Central,Basic,01/08/2024,18/04/2025,Laptop,High
+U1318,Female,50+,North,Free Trial,05/07/2022,25/05/2023,Tablet,Medium
+U1319,Other,18-25,West,Basic,30/09/2024,12/04/2025,Tablet,Low
+U1320,Male,18-25,Central,Basic,28/05/2023,31/10/2023,Laptop,Low
+U1321,Male,50+,West,Basic,30/11/2025,13/11/2026,Laptop,Medium
+U1322,Male,36-50,North,Premium,23/03/2022,05/08/2022,Laptop,Low
+U1323,Female,36-50,South,Basic,14/05/2022,07/04/2023,Tablet,Low
+U1324,Other,26-35,South,Premium,30/04/2025,29/01/2026,Mobile,Low
+U1325,Other,26-35,West,Premium,07/02/2025,27/01/2026,Tablet,High
+U1326,Female,50+,East,Basic,07/06/2025,28/02/2026,Mobile,Medium
+U1327,Female,36-50,West,Basic,12/11/2023,19/07/2024,Smart TV,Medium
+U1328,Female,26-35,East,Premium,12/12/2022,20/06/2023,Mobile,Low
+U1329,Other,36-50,West,Free Trial,31/01/2023,16/01/2024,Mobile,Medium
+U1330,Male,18-25,South,Premium,24/02/2022,02/10/2022,Smart TV,Low
+U1331,Female,26-35,West,Premium,16/09/2024,25/01/2025,Tablet,Medium
+U1332,Female,36-50,North,Free Trial,04/05/2024,18/04/2025,Mobile,Low
+U1333,Male,26-35,Central,Free Trial,29/07/2022,31/10/2022,Mobile,Medium
+U1334,Female,36-50,East,Basic,15/08/2023,25/03/2024,Smart TV,High
+U1335,Female,36-50,East,Basic,07/07/2023,18/05/2024,Mobile,Medium
+U1336,Other,36-50,West,Basic,03/11/2025,21/10/2026,Smart TV,High
+U1337,Other,26-35,South,Free Trial,24/03/2024,04/12/2024,Smart TV,High
+U1338,Female,50+,West,Premium,27/05/2025,06/02/2026,Tablet,Medium
+U1339,Other,36-50,West,Premium,29/05/2024,14/01/2025,Mobile,Medium
+U1340,Other,26-35,Central,Basic,09/02/2023,06/01/2024,Laptop,Low
+U1341,Other,50+,West,Premium,16/02/2025,31/10/2025,Smart TV,Low
+U1342,Male,26-35,West,Free Trial,25/01/2023,23/05/2023,Mobile,High
+U1343,Other,36-50,East,Basic,29/07/2023,09/01/2024,Laptop,High
+U1344,Male,50+,South,Basic,16/05/2022,30/11/2022,Laptop,High
+U1345,Other,18-25,East,Premium,12/09/2025,20/01/2026,Tablet,Medium
+U1346,Male,18-25,Central,Free Trial,28/08/2024,14/08/2025,Laptop,High
+U1347,Female,36-50,Central,Premium,26/09/2025,19/07/2026,Laptop,High
+U1348,Other,50+,North,Basic,14/11/2023,05/05/2024,Tablet,Low
+U1349,Male,18-25,Central,Premium,09/07/2025,07/04/2026,Tablet,Medium
+U1350,Female,18-25,East,Premium,16/03/2025,19/07/2025,Smart TV,High
+U1351,Male,36-50,East,Free Trial,06/10/2025,08/09/2026,Mobile,Medium
+U1352,Other,50+,North,Free Trial,20/08/2022,12/02/2023,Smart TV,Medium
+U1353,Other,36-50,South,Premium,10/08/2023,27/04/2024,Tablet,High
+U1354,Female,36-50,North,Premium,27/10/2025,25/01/2026,Laptop,Medium
+U1355,Other,36-50,West,Free Trial,22/01/2022,09/12/2022,Tablet,High
+U1356,Female,26-35,West,Free Trial,10/04/2023,27/07/2023,Laptop,Medium
+U1357,Other,18-25,Central,Free Trial,07/08/2025,03/04/2026,Smart TV,High
+U1358,Female,50+,North,Basic,30/10/2023,12/09/2024,Mobile,High
+U1359,Other,18-25,South,Premium,25/10/2025,28/03/2026,Laptop,Medium
+U1360,Female,18-25,West,Premium,20/06/2023,13/12/2023,Laptop,High
+U1361,Female,26-35,North,Free Trial,18/12/2023,12/04/2024,Laptop,Low
+U1362,Female,36-50,South,Basic,21/06/2022,05/02/2023,Smart TV,High
+U1363,Male,18-25,East,Premium,04/02/2025,02/11/2025,Mobile,Medium
+U1364,Male,18-25,Central,Free Trial,08/11/2024,25/05/2025,Smart TV,Low
+U1365,Female,18-25,North,Free Trial,20/11/2023,26/02/2024,Tablet,Low
+U1366,Male,26-35,North,Free Trial,31/12/2024,22/08/2025,Smart TV,Low
+U1367,Male,18-25,South,Free Trial,05/08/2022,06/01/2023,Laptop,Medium
+U1368,Other,50+,East,Basic,26/10/2023,11/06/2024,Tablet,High
+U1369,Female,18-25,South,Premium,04/11/2024,04/04/2025,Mobile,High
+U1370,Other,50+,North,Premium,24/09/2024,28/04/2025,Mobile,Medium
+U1371,Female,26-35,West,Premium,12/03/2024,05/11/2024,Mobile,High
+U1372,Other,50+,East,Premium,24/10/2024,19/09/2025,Laptop,Low
+U1373,Male,26-35,East,Premium,22/07/2024,31/05/2025,Smart TV,Low
+U1374,Other,26-35,North,Free Trial,02/01/2024,22/09/2024,Mobile,Low
+U1375,Female,50+,West,Basic,24/03/2023,11/07/2023,Mobile,High
+U1376,Female,26-35,South,Free Trial,18/10/2023,16/08/2024,Laptop,Medium
+U1377,Female,26-35,West,Basic,12/12/2022,04/04/2023,Tablet,Medium
+U1378,Male,36-50,South,Premium,14/12/2022,30/04/2023,Tablet,Low
+U1379,Male,36-50,South,Premium,01/01/2024,17/06/2024,Mobile,High
+U1380,Female,18-25,North,Basic,09/05/2025,13/04/2026,Smart TV,Low
+U1381,Female,50+,South,Free Trial,15/08/2023,06/12/2023,Smart TV,Medium
+U1382,Male,36-50,South,Free Trial,19/10/2022,23/07/2023,Laptop,Medium
+U1383,Other,26-35,East,Premium,02/12/2023,04/08/2024,Laptop,Medium
+U1384,Male,36-50,Central,Free Trial,12/01/2022,11/08/2022,Tablet,Medium
+U1385,Other,36-50,South,Premium,22/09/2022,15/04/2023,Mobile,High
+U1386,Male,36-50,Central,Premium,17/05/2025,01/01/2026,Tablet,High
+U1387,Female,50+,South,Free Trial,20/07/2024,20/07/2025,Laptop,Medium
+U1388,Other,50+,East,Basic,07/11/2025,27/03/2026,Mobile,High
+U1389,Male,18-25,North,Premium,30/03/2025,05/03/2026,Smart TV,High
+U1390,Female,36-50,South,Premium,26/04/2022,24/09/2022,Smart TV,Medium
+U1391,Male,50+,East,Basic,08/12/2023,01/04/2024,Smart TV,High
+U1392,Female,18-25,West,Basic,09/12/2022,03/08/2023,Laptop,High
+U1393,Male,36-50,East,Basic,14/12/2024,25/07/2025,Laptop,High
+U1394,Female,36-50,East,Basic,12/07/2025,16/12/2025,Laptop,Low
+U1395,Other,26-35,North,Free Trial,14/06/2023,14/11/2023,Laptop,Medium
+U1396,Male,50+,Central,Basic,25/11/2025,05/07/2026,Laptop,Medium
+U1397,Female,26-35,Central,Premium,22/11/2025,17/04/2026,Laptop,Medium
+U1398,Other,26-35,West,Basic,12/12/2022,21/07/2023,Laptop,Low
+U1399,Female,36-50,South,Premium,27/01/2022,28/07/2022,Laptop,Low
+U1400,Female,18-25,North,Free Trial,17/10/2025,14/09/2026,Tablet,Medium
+U1401,Female,26-35,North,Free Trial,31/08/2023,07/08/2024,Smart TV,Medium
+U1402,Male,50+,South,Basic,04/08/2024,07/01/2025,Mobile,Low
+U1403,Female,36-50,Central,Free Trial,09/04/2024,29/12/2024,Mobile,High
+U1404,Female,18-25,Central,Basic,09/03/2025,27/12/2025,Tablet,High
+U1405,Male,18-25,North,Free Trial,21/04/2024,03/10/2024,Smart TV,High
+U1406,Male,36-50,North,Basic,04/01/2024,21/06/2024,Laptop,High
+U1407,Other,36-50,West,Free Trial,03/07/2025,29/03/2026,Tablet,High
+U1408,Female,26-35,North,Premium,13/03/2025,16/06/2025,Smart TV,Medium
+U1409,Female,36-50,West,Premium,09/03/2024,01/01/2025,Tablet,Low
+U1410,Female,50+,South,Basic,06/09/2024,21/08/2025,Laptop,Low
+U1411,Other,18-25,Central,Free Trial,15/12/2023,18/05/2024,Tablet,High
+U1412,Other,26-35,South,Free Trial,15/10/2025,01/08/2026,Laptop,High
+U1413,Female,26-35,South,Free Trial,13/06/2025,13/06/2026,Tablet,Medium
+U1414,Other,18-25,Central,Free Trial,18/10/2022,16/09/2023,Tablet,Low
+U1415,Other,36-50,South,Basic,03/01/2025,06/08/2025,Laptop,High
+U1416,Other,26-35,South,Basic,26/05/2023,12/10/2023,Smart TV,Low
+U1417,Male,36-50,South,Premium,30/11/2024,06/11/2025,Mobile,Low
+U1418,Female,18-25,East,Free Trial,27/09/2024,09/04/2025,Mobile,Medium
+U1419,Male,36-50,East,Basic,13/06/2022,02/10/2022,Smart TV,Low
+U1420,Female,26-35,South,Free Trial,03/07/2025,06/06/2026,Laptop,Low
+U1421,Female,18-25,Central,Premium,24/04/2022,19/11/2022,Tablet,High
+U1422,Other,36-50,East,Free Trial,13/12/2022,20/06/2023,Tablet,High
+U1423,Female,26-35,West,Free Trial,17/12/2025,24/06/2026,Laptop,High
+U1424,Male,26-35,Central,Free Trial,08/12/2024,29/03/2025,Tablet,High
+U1425,Male,36-50,South,Premium,07/11/2022,30/09/2023,Mobile,Medium
+U1426,Other,18-25,West,Free Trial,11/05/2025,17/02/2026,Tablet,Low
+U1427,Female,26-35,North,Premium,24/03/2022,23/09/2022,Mobile,Low
+U1428,Other,18-25,North,Basic,11/01/2024,25/04/2024,Smart TV,Low
+U1429,Other,50+,Central,Premium,19/12/2023,03/04/2024,Mobile,Low
+U1430,Male,18-25,North,Free Trial,15/02/2024,15/12/2024,Tablet,Low
+U1431,Male,50+,West,Premium,12/08/2022,10/08/2023,Tablet,Medium
+U1432,Male,50+,North,Premium,21/02/2025,19/12/2025,Smart TV,Low
+U1433,Male,18-25,South,Premium,06/07/2024,05/11/2024,Tablet,High
+U1434,Female,50+,North,Premium,05/12/2025,20/10/2026,Laptop,Low
+U1435,Other,36-50,Central,Basic,21/09/2022,02/04/2023,Laptop,Medium
+U1436,Male,36-50,North,Basic,19/04/2022,01/08/2022,Tablet,Low
+U1437,Female,50+,West,Premium,30/11/2023,04/05/2024,Smart TV,High
+U1438,Female,36-50,North,Basic,18/06/2023,18/10/2023,Mobile,High
+U1439,Other,36-50,Central,Basic,13/11/2023,19/03/2024,Mobile,Medium
+U1440,Female,26-35,South,Basic,16/02/2025,26/07/2025,Smart TV,Low
+U1441,Male,50+,East,Premium,08/06/2023,18/09/2023,Mobile,Medium
+U1442,Female,36-50,North,Free Trial,25/12/2024,08/06/2025,Laptop,High
+U1443,Female,36-50,West,Premium,06/02/2022,23/07/2022,Tablet,Medium
+U1444,Female,26-35,North,Free Trial,24/02/2025,03/06/2025,Mobile,High
+U1445,Male,26-35,West,Free Trial,15/09/2024,10/04/2025,Mobile,Low
+U1446,Other,36-50,North,Free Trial,17/07/2023,28/12/2023,Smart TV,Low
+U1447,Male,50+,West,Basic,28/09/2024,23/06/2025,Mobile,High
+U1448,Female,50+,North,Free Trial,09/12/2025,22/05/2026,Smart TV,Low
+U1449,Male,36-50,South,Free Trial,12/12/2023,02/09/2024,Tablet,Low
+U1450,Male,50+,Central,Basic,31/03/2022,22/09/2022,Tablet,Medium
+U1451,Other,26-35,Central,Basic,16/01/2024,23/11/2024,Smart TV,Low
+U1452,Female,26-35,South,Basic,10/03/2022,15/09/2022,Smart TV,Low
+U1453,Male,26-35,West,Premium,20/11/2023,05/09/2024,Tablet,High
+U1454,Female,18-25,Central,Premium,13/10/2024,19/04/2025,Tablet,High
+U1455,Female,50+,South,Free Trial,08/07/2023,22/04/2024,Mobile,Low
+U1456,Other,50+,East,Premium,04/08/2022,12/01/2023,Laptop,Low
+U1457,Female,26-35,South,Basic,17/03/2022,01/12/2022,Mobile,Low
+U1458,Male,36-50,East,Free Trial,30/07/2023,03/05/2024,Laptop,Medium
+U1459,Female,18-25,Central,Free Trial,14/07/2022,01/01/2023,Smart TV,High
+U1460,Other,36-50,South,Free Trial,26/09/2025,24/04/2026,Smart TV,Low
+U1461,Male,50+,East,Premium,01/12/2025,26/11/2026,Laptop,Low
+U1462,Male,26-35,West,Basic,24/11/2022,29/07/2023,Mobile,Low
+U1463,Other,50+,South,Basic,02/02/2025,02/09/2025,Laptop,Medium
+U1464,Other,50+,North,Free Trial,09/07/2023,04/07/2024,Tablet,Low
+U1465,Female,50+,South,Free Trial,24/08/2025,12/07/2026,Mobile,Medium
+U1466,Female,18-25,South,Premium,19/03/2025,01/09/2025,Mobile,Low
+U1467,Female,50+,West,Basic,30/07/2024,20/03/2025,Smart TV,High
+U1468,Male,50+,East,Premium,19/11/2024,05/10/2025,Smart TV,Low
+U1469,Male,50+,Central,Basic,03/05/2023,28/03/2024,Smart TV,Low
+U1470,Female,18-25,South,Free Trial,20/03/2025,07/12/2025,Tablet,Low
+U1471,Other,36-50,East,Free Trial,02/03/2024,03/01/2025,Laptop,Medium
+U1472,Male,36-50,North,Premium,25/09/2024,29/07/2025,Laptop,High
+U1473,Female,50+,North,Free Trial,01/11/2025,19/06/2026,Smart TV,High
+U1474,Other,36-50,North,Basic,26/09/2025,17/07/2026,Mobile,High
+U1475,Male,26-35,North,Basic,05/07/2023,05/04/2024,Smart TV,Low
+U1476,Male,36-50,North,Premium,26/08/2022,15/01/2023,Tablet,Medium
+U1477,Other,50+,East,Free Trial,25/04/2025,05/01/2026,Laptop,Low
+U1478,Male,36-50,West,Premium,18/01/2023,17/10/2023,Tablet,Low
+U1479,Female,36-50,West,Basic,10/02/2024,15/10/2024,Mobile,High
+U1480,Male,18-25,South,Basic,09/02/2023,05/08/2023,Laptop,Low
+U1481,Male,18-25,North,Free Trial,29/08/2025,08/01/2026,Laptop,High
+U1482,Female,36-50,Central,Free Trial,22/11/2022,17/11/2023,Smart TV,High
+U1483,Male,50+,North,Basic,14/10/2022,20/04/2023,Mobile,High
+U1484,Male,18-25,South,Free Trial,31/05/2024,02/10/2024,Tablet,Medium
+U1485,Female,50+,North,Basic,26/12/2025,11/11/2026,Mobile,Medium
+U1486,Other,36-50,West,Premium,04/07/2022,10/01/2023,Smart TV,Medium
+U1487,Other,26-35,West,Free Trial,24/05/2022,09/10/2022,Tablet,Medium
+U1488,Male,26-35,East,Premium,16/01/2023,04/05/2023,Mobile,High
+U1489,Female,18-25,South,Basic,29/05/2023,25/04/2024,Mobile,Low
+U1490,Female,18-25,North,Premium,14/02/2024,05/07/2024,Smart TV,Medium
+U1491,Other,36-50,West,Basic,27/10/2024,13/05/2025,Smart TV,Medium
+U1492,Male,18-25,East,Premium,24/10/2024,09/05/2025,Mobile,Low
+U1493,Male,50+,North,Free Trial,21/06/2023,06/12/2023,Tablet,High
+U1494,Female,50+,South,Basic,31/05/2024,06/01/2025,Laptop,High
+U1495,Male,26-35,North,Free Trial,07/07/2022,06/02/2023,Tablet,Low
+U1496,Female,26-35,North,Premium,27/06/2025,31/03/2026,Mobile,Medium
+U1497,Female,26-35,North,Premium,24/06/2023,11/10/2023,Smart TV,Low
+U1498,Male,26-35,North,Premium,23/04/2025,19/09/2025,Laptop,Low
+U1499,Other,26-35,North,Basic,17/06/2023,18/10/2023,Tablet,High
+U1500,Male,18-25,West,Premium,30/12/2024,05/05/2025,Laptop,Low
+U1501,Male,36-50,South,Premium,13/10/2023,26/04/2024,Mobile,High
+U1502,Female,50+,North,Premium,05/08/2022,26/11/2022,Laptop,Medium
+U1503,Male,50+,Central,Free Trial,08/10/2023,17/07/2024,Laptop,High
+U1504,Female,50+,East,Free Trial,09/02/2024,12/05/2024,Laptop,Low
+U1505,Other,18-25,West,Basic,22/11/2024,04/04/2025,Laptop,High
+U1506,Other,50+,East,Premium,17/02/2023,10/01/2024,Mobile,High
+U1507,Male,26-35,West,Premium,08/08/2023,27/01/2024,Tablet,High
+U1508,Other,18-25,West,Free Trial,19/03/2024,11/02/2025,Laptop,Medium
+U1509,Other,18-25,South,Basic,10/01/2023,09/10/2023,Mobile,Medium
+U1510,Other,36-50,North,Premium,21/07/2025,17/05/2026,Laptop,High
+U1511,Other,18-25,South,Premium,16/07/2024,24/02/2025,Tablet,High
+U1512,Other,18-25,South,Basic,27/08/2025,30/05/2026,Tablet,Medium
+U1513,Other,36-50,South,Basic,17/02/2024,27/07/2024,Laptop,Low
+U1514,Male,18-25,Central,Free Trial,02/04/2024,25/10/2024,Laptop,Medium
+U1515,Other,36-50,West,Basic,16/12/2023,04/11/2024,Smart TV,Low
+U1516,Male,18-25,West,Basic,07/06/2022,22/11/2022,Mobile,Low
+U1517,Male,26-35,Central,Free Trial,09/08/2025,26/05/2026,Smart TV,Medium
+U1518,Male,18-25,North,Free Trial,05/06/2023,29/04/2024,Tablet,Medium
+U1519,Female,36-50,West,Free Trial,14/08/2023,29/12/2023,Tablet,High
+U1520,Female,18-25,Central,Basic,29/11/2023,02/10/2024,Smart TV,Medium
+U1521,Other,18-25,South,Premium,29/05/2023,23/02/2024,Mobile,Low
+U1522,Female,18-25,South,Basic,03/09/2023,16/12/2023,Smart TV,Medium
+U1523,Male,26-35,South,Basic,25/07/2023,24/03/2024,Tablet,Medium
+U1524,Other,26-35,North,Premium,10/08/2024,18/12/2024,Mobile,Low
+U1525,Male,50+,Central,Basic,15/02/2022,12/09/2022,Smart TV,Low
+U1526,Female,26-35,South,Basic,06/10/2023,16/04/2024,Mobile,Medium
+U1527,Female,36-50,West,Free Trial,15/08/2023,03/12/2023,Mobile,Medium
+U1528,Male,36-50,South,Premium,12/01/2025,22/09/2025,Tablet,Medium
+U1529,Female,18-25,North,Free Trial,21/12/2022,09/08/2023,Mobile,Low
+U1530,Other,36-50,East,Premium,25/01/2023,11/10/2023,Smart TV,Low
+U1531,Male,26-35,East,Basic,31/07/2025,15/03/2026,Laptop,Medium
+U1532,Male,36-50,South,Free Trial,30/08/2025,25/12/2025,Smart TV,Low
+U1533,Male,50+,West,Basic,20/10/2022,28/07/2023,Mobile,Low
+U1534,Male,50+,Central,Free Trial,18/05/2022,11/11/2022,Tablet,Medium
+U1535,Female,18-25,Central,Basic,12/05/2025,27/08/2025,Laptop,Medium
+U1536,Female,50+,North,Premium,17/08/2022,29/11/2022,Laptop,Low
+U1537,Other,18-25,North,Free Trial,23/05/2024,01/01/2025,Tablet,High
+U1538,Male,26-35,Central,Premium,04/10/2024,22/04/2025,Laptop,Low
+U1539,Male,18-25,East,Basic,17/01/2025,23/12/2025,Laptop,Medium
+U1540,Female,26-35,South,Basic,23/03/2022,18/02/2023,Smart TV,High
+U1541,Male,36-50,Central,Free Trial,26/03/2023,06/12/2023,Tablet,Low
+U1542,Other,50+,West,Basic,29/09/2025,09/01/2026,Laptop,Low
+U1543,Female,18-25,South,Basic,08/04/2022,18/11/2022,Laptop,Medium
+U1544,Female,18-25,Central,Free Trial,21/05/2022,07/11/2022,Tablet,Low
+U1545,Male,18-25,East,Premium,23/03/2023,15/07/2023,Mobile,Medium
+U1546,Other,26-35,West,Basic,22/11/2024,13/08/2025,Laptop,Low
+U1547,Other,26-35,South,Basic,04/03/2022,18/09/2022,Mobile,High
+U1548,Male,36-50,North,Premium,21/10/2022,14/03/2023,Smart TV,Low
+U1549,Other,26-35,North,Free Trial,08/12/2022,26/05/2023,Mobile,Medium
+U1550,Male,36-50,East,Free Trial,14/03/2025,23/07/2025,Mobile,Medium
+U1551,Male,26-35,South,Basic,10/04/2023,05/08/2023,Mobile,High
+U1552,Male,26-35,East,Free Trial,21/01/2024,20/04/2024,Smart TV,Medium
+U1553,Female,50+,North,Premium,28/05/2023,15/02/2024,Laptop,Low
+U1554,Male,36-50,Central,Free Trial,12/01/2023,06/06/2023,Laptop,Low
+U1555,Male,50+,Central,Basic,07/05/2024,10/09/2024,Mobile,High
+U1556,Other,36-50,West,Free Trial,13/09/2022,20/05/2023,Smart TV,High
+U1557,Other,18-25,East,Free Trial,10/11/2025,08/07/2026,Tablet,Low
+U1558,Other,26-35,West,Basic,20/10/2022,21/06/2023,Smart TV,Low
+U1559,Other,18-25,North,Basic,03/08/2022,15/05/2023,Smart TV,Medium
+U1560,Male,50+,South,Basic,17/03/2024,08/07/2024,Mobile,Low
+U1561,Male,18-25,Central,Free Trial,19/06/2022,08/01/2023,Smart TV,Medium
+U1562,Female,36-50,Central,Basic,22/12/2022,21/09/2023,Mobile,Low
+U1563,Female,18-25,North,Premium,05/11/2024,03/10/2025,Tablet,Medium
+U1564,Male,36-50,West,Premium,05/03/2022,28/01/2023,Tablet,High
+U1565,Female,26-35,East,Free Trial,28/08/2022,28/04/2023,Smart TV,Medium
+U1566,Male,50+,Central,Free Trial,28/10/2025,20/02/2026,Laptop,Medium
+U1567,Other,50+,South,Basic,06/04/2022,02/09/2022,Tablet,Low
+U1568,Male,50+,North,Free Trial,21/04/2024,19/12/2024,Smart TV,Medium
+U1569,Male,50+,East,Premium,05/02/2024,05/10/2024,Tablet,Low
+U1570,Female,26-35,Central,Free Trial,14/04/2025,08/03/2026,Smart TV,Medium
+U1571,Other,26-35,East,Premium,10/12/2022,03/06/2023,Smart TV,Medium
+U1572,Female,18-25,East,Free Trial,23/04/2022,14/03/2023,Smart TV,High
+U1573,Female,50+,East,Basic,20/11/2023,07/08/2024,Mobile,Low
+U1574,Male,50+,East,Basic,03/11/2025,29/08/2026,Smart TV,Medium
+U1575,Other,18-25,North,Free Trial,04/11/2023,27/04/2024,Mobile,High
+U1576,Female,50+,South,Free Trial,20/04/2023,02/12/2023,Smart TV,High
+U1577,Male,18-25,Central,Premium,26/05/2023,24/10/2023,Tablet,Medium
+U1578,Male,50+,North,Free Trial,22/07/2022,19/12/2022,Tablet,Low
+U1579,Male,36-50,Central,Basic,18/10/2024,19/01/2025,Mobile,High
+U1580,Male,18-25,North,Basic,24/05/2024,02/05/2025,Laptop,Medium
+U1581,Other,26-35,West,Free Trial,29/11/2024,12/08/2025,Tablet,Low
+U1582,Female,36-50,North,Basic,18/05/2023,27/04/2024,Mobile,Low
+U1583,Female,36-50,Central,Basic,16/10/2023,08/08/2024,Tablet,Medium
+U1584,Male,36-50,East,Premium,28/09/2024,11/08/2025,Tablet,High
+U1585,Female,50+,East,Free Trial,27/10/2023,10/10/2024,Mobile,High
+U1586,Other,36-50,West,Free Trial,17/06/2024,09/06/2025,Smart TV,High
+U1587,Male,18-25,East,Free Trial,03/09/2024,08/04/2025,Smart TV,High
+U1588,Other,26-35,West,Free Trial,18/06/2025,09/10/2025,Tablet,High
+U1589,Male,50+,South,Basic,23/10/2023,16/06/2024,Smart TV,High
+U1590,Male,50+,North,Basic,06/10/2024,05/02/2025,Laptop,Medium
+U1591,Female,18-25,North,Premium,08/10/2023,13/08/2024,Smart TV,Medium
+U1592,Other,50+,West,Free Trial,14/03/2024,13/10/2024,Mobile,High
+U1593,Female,18-25,East,Basic,27/09/2024,05/05/2025,Smart TV,High
+U1594,Male,18-25,North,Free Trial,20/04/2024,11/04/2025,Smart TV,Low
+U1595,Female,36-50,West,Premium,26/08/2023,11/07/2024,Laptop,Medium
+U1596,Other,36-50,South,Free Trial,24/12/2024,04/06/2025,Smart TV,High
+U1597,Other,36-50,Central,Basic,15/02/2023,14/01/2024,Laptop,Medium
+U1598,Other,36-50,North,Free Trial,13/01/2025,28/10/2025,Tablet,Medium
+U1599,Male,18-25,East,Premium,11/07/2023,21/12/2023,Tablet,Low
+U1600,Male,18-25,East,Basic,10/12/2022,27/08/2023,Laptop,Low
+U1601,Female,50+,South,Free Trial,25/08/2024,01/07/2025,Laptop,Medium
+U1602,Other,36-50,West,Free Trial,07/12/2024,07/10/2025,Tablet,High
+U1603,Male,18-25,North,Free Trial,28/03/2022,17/12/2022,Tablet,Low
+U1604,Female,26-35,South,Free Trial,28/04/2022,02/12/2022,Mobile,Low
+U1605,Other,50+,North,Free Trial,08/01/2023,31/05/2023,Tablet,Low
+U1606,Other,26-35,Central,Basic,13/04/2023,18/11/2023,Tablet,Low
+U1607,Male,36-50,North,Premium,07/01/2023,01/12/2023,Tablet,Medium
+U1608,Male,18-25,East,Basic,30/06/2024,30/04/2025,Tablet,Medium
+U1609,Female,50+,East,Free Trial,06/04/2025,06/07/2025,Mobile,Medium
+U1610,Male,18-25,East,Free Trial,13/10/2024,24/08/2025,Laptop,Low
+U1611,Other,50+,West,Premium,06/02/2025,08/10/2025,Mobile,High
+U1612,Male,50+,Central,Basic,29/12/2024,05/10/2025,Laptop,Low
+U1613,Female,36-50,South,Premium,09/08/2022,15/01/2023,Mobile,High
+U1614,Male,26-35,South,Free Trial,07/11/2022,02/11/2023,Tablet,High
+U1615,Male,18-25,East,Free Trial,02/09/2022,19/06/2023,Mobile,High
+U1616,Female,50+,Central,Premium,14/08/2022,06/02/2023,Mobile,High
+U1617,Male,36-50,East,Free Trial,18/12/2022,23/07/2023,Laptop,Medium
+U1618,Male,26-35,North,Free Trial,15/07/2024,15/06/2025,Laptop,Medium
+U1619,Male,26-35,South,Premium,27/02/2025,20/07/2025,Tablet,Medium
+U1620,Male,26-35,South,Basic,22/10/2024,16/05/2025,Smart TV,High
+U1621,Other,50+,North,Basic,09/07/2023,07/05/2024,Smart TV,Medium
+U1622,Male,26-35,North,Basic,12/10/2024,06/03/2025,Smart TV,Low
+U1623,Male,26-35,West,Free Trial,19/09/2025,10/08/2026,Mobile,High
+U1624,Female,50+,North,Free Trial,09/05/2024,31/08/2024,Tablet,High
+U1625,Female,26-35,North,Premium,30/07/2023,19/07/2024,Tablet,Low
+U1626,Other,26-35,West,Premium,07/02/2022,05/08/2022,Laptop,Low
+U1627,Other,18-25,East,Free Trial,14/02/2022,08/06/2022,Mobile,Medium
+U1628,Other,26-35,East,Premium,22/09/2022,23/05/2023,Smart TV,Medium
+U1629,Male,26-35,South,Basic,25/07/2022,18/03/2023,Mobile,High
+U1630,Other,50+,West,Basic,03/08/2023,10/07/2024,Smart TV,Medium
+U1631,Male,18-25,Central,Basic,13/03/2023,26/11/2023,Smart TV,Medium
+U1632,Female,50+,South,Premium,26/01/2025,09/06/2025,Laptop,Medium
+U1633,Female,50+,East,Free Trial,06/04/2024,08/12/2024,Smart TV,Medium
+U1634,Other,18-25,South,Free Trial,31/07/2023,28/01/2024,Laptop,Low
+U1635,Male,36-50,South,Free Trial,13/07/2025,19/04/2026,Tablet,High
+U1636,Other,18-25,South,Free Trial,23/11/2023,21/07/2024,Laptop,High
+U1637,Other,18-25,Central,Basic,08/01/2024,05/06/2024,Laptop,Medium
+U1638,Male,36-50,East,Premium,21/08/2024,03/03/2025,Laptop,Medium
+U1639,Other,26-35,West,Basic,11/06/2022,22/12/2022,Tablet,Low
+U1640,Other,36-50,Central,Premium,27/04/2022,27/04/2023,Laptop,High
+U1641,Female,36-50,South,Basic,17/10/2024,05/05/2025,Tablet,Medium
+U1642,Other,18-25,West,Free Trial,10/04/2023,02/04/2024,Smart TV,High
+U1643,Other,36-50,East,Basic,24/08/2024,27/06/2025,Tablet,High
+U1644,Male,26-35,West,Basic,27/05/2023,15/01/2024,Mobile,High
+U1645,Female,36-50,West,Basic,14/02/2025,13/08/2025,Laptop,High
+U1646,Other,50+,East,Free Trial,11/11/2022,30/10/2023,Smart TV,Low
+U1647,Other,26-35,South,Basic,03/06/2023,01/04/2024,Mobile,Low
+U1648,Male,50+,West,Free Trial,31/07/2023,29/06/2024,Mobile,Medium
+U1649,Other,18-25,North,Basic,01/04/2024,01/04/2025,Tablet,High
+U1650,Male,26-35,Central,Free Trial,11/07/2022,07/04/2023,Tablet,High
+U1651,Female,18-25,North,Free Trial,29/01/2023,10/08/2023,Smart TV,Low
+U1652,Male,18-25,North,Free Trial,11/04/2023,12/07/2023,Laptop,Medium
+U1653,Other,36-50,North,Free Trial,27/01/2025,10/06/2025,Smart TV,Low
+U1654,Other,36-50,West,Free Trial,20/04/2023,01/10/2023,Smart TV,Low
+U1655,Other,18-25,Central,Basic,31/08/2023,31/01/2024,Smart TV,Medium
+U1656,Other,18-25,North,Basic,21/11/2025,01/04/2026,Laptop,High
+U1657,Other,50+,North,Free Trial,17/10/2024,17/07/2025,Mobile,Low
+U1658,Male,26-35,North,Premium,26/11/2024,22/10/2025,Smart TV,High
+U1659,Other,36-50,East,Premium,11/06/2023,01/12/2023,Laptop,High
+U1660,Male,50+,North,Free Trial,14/08/2023,18/02/2024,Smart TV,Low
+U1661,Other,18-25,South,Premium,19/08/2023,23/12/2023,Smart TV,Medium
+U1662,Male,36-50,East,Free Trial,15/02/2025,01/02/2026,Tablet,Low
+U1663,Other,36-50,North,Premium,09/08/2022,01/08/2023,Laptop,Low
+U1664,Male,36-50,East,Free Trial,25/01/2025,04/12/2025,Laptop,Low
+U1665,Female,50+,North,Basic,24/02/2025,18/01/2026,Laptop,High
+U1666,Other,26-35,East,Basic,14/01/2024,22/12/2024,Laptop,Medium
+U1667,Male,18-25,North,Premium,03/06/2024,06/03/2025,Mobile,High
+U1668,Male,50+,South,Basic,09/04/2023,19/07/2023,Mobile,High
+U1669,Other,26-35,East,Basic,03/11/2025,28/03/2026,Tablet,Low
+U1670,Female,26-35,West,Free Trial,08/07/2023,29/06/2024,Mobile,Medium
+U1671,Other,50+,South,Free Trial,20/08/2025,31/05/2026,Smart TV,High
+U1672,Male,50+,North,Free Trial,27/06/2023,28/11/2023,Mobile,Medium
+U1673,Male,26-35,Central,Premium,08/03/2022,01/03/2023,Tablet,Medium
+U1674,Other,50+,West,Free Trial,13/01/2024,31/07/2024,Mobile,Medium
+U1675,Male,50+,West,Basic,24/06/2023,02/11/2023,Mobile,High
+U1676,Male,26-35,Central,Premium,01/03/2022,31/01/2023,Tablet,Low
+U1677,Male,50+,West,Premium,02/11/2023,01/10/2024,Tablet,Low
+U1678,Male,50+,North,Basic,23/09/2025,01/07/2026,Smart TV,Medium
+U1679,Male,26-35,East,Basic,30/01/2022,18/11/2022,Tablet,Medium
+U1680,Other,36-50,East,Free Trial,20/03/2024,27/08/2024,Laptop,Low
+U1681,Other,36-50,West,Free Trial,08/11/2023,24/04/2024,Smart TV,High
+U1682,Other,36-50,South,Free Trial,19/09/2023,02/01/2024,Mobile,High
+U1683,Female,18-25,South,Basic,25/04/2022,13/12/2022,Mobile,Medium
+U1684,Other,18-25,East,Basic,02/08/2025,24/12/2025,Mobile,High
+U1685,Female,26-35,East,Premium,27/11/2025,19/06/2026,Smart TV,Medium
+U1686,Female,36-50,Central,Free Trial,22/07/2022,09/01/2023,Smart TV,High
+U1687,Male,36-50,West,Premium,16/04/2025,03/12/2025,Laptop,Medium
+U1688,Other,18-25,Central,Basic,07/04/2025,21/03/2026,Tablet,High
+U1689,Female,36-50,Central,Free Trial,07/09/2022,26/05/2023,Tablet,Medium
+U1690,Male,36-50,Central,Basic,04/08/2023,03/03/2024,Tablet,Medium
+U1691,Male,50+,South,Premium,14/12/2025,19/10/2026,Smart TV,Medium
+U1692,Male,18-25,East,Free Trial,29/10/2023,04/08/2024,Mobile,Medium
+U1693,Female,26-35,North,Free Trial,08/11/2024,02/05/2025,Smart TV,High
+U1694,Other,36-50,South,Basic,27/01/2022,13/01/2023,Tablet,Low
+U1695,Other,50+,Central,Basic,09/01/2022,23/08/2022,Tablet,High
+U1696,Female,26-35,South,Premium,15/02/2024,25/06/2024,Tablet,Medium
+U1697,Male,18-25,East,Premium,06/05/2022,02/12/2022,Laptop,Low
+U1698,Male,26-35,South,Free Trial,25/08/2024,01/08/2025,Laptop,Low
+U1699,Male,50+,South,Basic,12/02/2024,01/11/2024,Tablet,High
+U1700,Female,18-25,South,Premium,05/10/2024,18/05/2025,Smart TV,High
+U1701,Female,36-50,South,Free Trial,28/02/2024,15/09/2024,Smart TV,Low
+U1702,Female,26-35,West,Premium,11/08/2023,02/01/2024,Smart TV,Low
+U1703,Other,36-50,East,Basic,10/01/2025,15/10/2025,Laptop,Medium
+U1704,Male,26-35,East,Premium,15/03/2024,27/01/2025,Smart TV,High
+U1705,Male,18-25,East,Premium,24/11/2022,01/06/2023,Tablet,Medium
+U1706,Other,36-50,South,Basic,25/08/2025,01/03/2026,Mobile,High
+U1707,Female,18-25,South,Basic,28/08/2022,27/07/2023,Tablet,High
+U1708,Female,26-35,North,Premium,12/07/2025,06/06/2026,Laptop,High
+U1709,Male,36-50,Central,Premium,05/05/2024,24/10/2024,Mobile,High
+U1710,Female,26-35,Central,Free Trial,12/03/2023,15/02/2024,Laptop,Medium
+U1711,Other,26-35,South,Basic,23/07/2025,04/03/2026,Tablet,Medium
+U1712,Female,50+,North,Basic,21/01/2022,18/10/2022,Smart TV,Low
+U1713,Other,36-50,Central,Free Trial,10/03/2022,25/02/2023,Laptop,High
+U1714,Female,36-50,West,Basic,25/07/2025,22/02/2026,Mobile,High
+U1715,Male,36-50,North,Premium,30/07/2025,17/11/2025,Laptop,Low
+U1716,Other,26-35,East,Premium,27/09/2025,24/08/2026,Tablet,High
+U1717,Female,50+,West,Premium,16/05/2024,04/01/2025,Tablet,Low
+U1718,Female,18-25,South,Premium,27/10/2024,19/06/2025,Laptop,Low
+U1719,Other,18-25,North,Basic,09/02/2022,13/07/2022,Smart TV,Medium
+U1720,Female,50+,Central,Free Trial,01/08/2023,07/11/2023,Tablet,High
+U1721,Other,36-50,South,Premium,01/11/2023,26/03/2024,Laptop,Low
+U1722,Female,18-25,Central,Basic,03/11/2025,21/02/2026,Mobile,High
+U1723,Other,18-25,North,Free Trial,11/11/2022,16/07/2023,Laptop,Medium
+U1724,Male,36-50,East,Premium,17/11/2025,18/09/2026,Tablet,High
+U1725,Other,36-50,South,Free Trial,09/12/2023,02/04/2024,Mobile,Medium
+U1726,Female,26-35,South,Premium,13/06/2022,06/02/2023,Laptop,Medium
+U1727,Other,26-35,East,Premium,22/01/2024,25/08/2024,Mobile,Medium
+U1728,Female,18-25,North,Free Trial,14/08/2023,11/06/2024,Mobile,High
+U1729,Female,18-25,North,Basic,12/04/2025,05/11/2025,Smart TV,Low
+U1730,Male,50+,West,Basic,12/04/2022,17/09/2022,Laptop,Medium
+U1731,Other,50+,North,Premium,02/02/2025,02/01/2026,Tablet,Medium
+U1732,Male,26-35,East,Premium,13/05/2024,28/09/2024,Mobile,Medium
+U1733,Male,26-35,Central,Free Trial,26/06/2025,29/05/2026,Smart TV,Low
+U1734,Male,26-35,Central,Basic,18/05/2024,25/03/2025,Mobile,Low
+U1735,Male,50+,West,Premium,14/07/2024,30/12/2024,Tablet,High
+U1736,Female,50+,East,Free Trial,20/06/2024,29/05/2025,Smart TV,Medium
+U1737,Female,36-50,South,Basic,08/12/2025,04/12/2026,Smart TV,Medium
+U1738,Female,26-35,West,Free Trial,28/11/2025,01/08/2026,Tablet,Medium
+U1739,Female,36-50,Central,Basic,03/11/2025,26/08/2026,Laptop,Low
+U1740,Other,50+,East,Premium,24/12/2024,01/08/2025,Laptop,Medium
+U1741,Male,18-25,Central,Basic,27/07/2022,14/01/2023,Smart TV,Medium
+U1742,Male,36-50,East,Free Trial,19/04/2022,02/01/2023,Tablet,Low
+U1743,Male,36-50,South,Basic,06/05/2025,08/04/2026,Mobile,Medium
+U1744,Male,36-50,South,Basic,17/07/2024,19/11/2024,Mobile,High
+U1745,Other,18-25,Central,Free Trial,26/08/2022,17/04/2023,Smart TV,High
+U1746,Other,50+,East,Basic,10/09/2025,01/06/2026,Mobile,Low
+U1747,Male,50+,West,Free Trial,19/08/2022,10/06/2023,Laptop,Medium
+U1748,Other,26-35,Central,Premium,01/11/2024,20/04/2025,Mobile,High
+U1749,Male,36-50,North,Free Trial,01/06/2024,03/04/2025,Laptop,Medium
+U1750,Male,50+,East,Free Trial,13/10/2024,25/06/2025,Laptop,Medium
+U1751,Female,50+,East,Free Trial,27/12/2023,27/08/2024,Smart TV,Medium
+U1752,Female,18-25,West,Basic,16/02/2025,13/09/2025,Mobile,Low
+U1753,Female,18-25,North,Basic,27/05/2022,23/09/2022,Smart TV,Low
+U1754,Female,50+,North,Free Trial,25/11/2025,03/04/2026,Mobile,Medium
+U1755,Other,26-35,West,Free Trial,20/09/2025,27/03/2026,Tablet,Low
+U1756,Other,36-50,East,Free Trial,31/12/2024,01/08/2025,Tablet,Low
+U1757,Female,50+,Central,Premium,05/06/2022,25/10/2022,Tablet,Low
+U1758,Male,26-35,South,Free Trial,06/01/2024,09/04/2024,Smart TV,High
+U1759,Other,50+,North,Premium,31/12/2023,09/04/2024,Tablet,High
+U1760,Other,26-35,East,Premium,17/09/2022,01/07/2023,Tablet,Low
+U1761,Female,36-50,North,Free Trial,13/10/2024,04/05/2025,Tablet,High
+U1762,Other,36-50,North,Free Trial,03/06/2023,15/02/2024,Mobile,Low
+U1763,Other,18-25,North,Premium,31/07/2023,12/06/2024,Mobile,High
+U1764,Female,50+,North,Premium,15/07/2022,29/10/2022,Mobile,Medium
+U1765,Male,18-25,North,Free Trial,20/03/2022,29/01/2023,Mobile,High
+U1766,Female,18-25,Central,Free Trial,18/06/2023,20/01/2024,Laptop,Low
+U1767,Male,50+,West,Free Trial,29/05/2023,11/02/2024,Tablet,High
+U1768,Male,36-50,East,Free Trial,25/05/2023,04/12/2023,Mobile,Medium
+U1769,Other,50+,East,Premium,02/10/2025,01/06/2026,Tablet,Low
+U1770,Female,26-35,West,Premium,05/04/2022,10/03/2023,Laptop,Low
+U1771,Male,36-50,Central,Premium,17/03/2024,16/06/2024,Laptop,High
+U1772,Other,18-25,East,Free Trial,05/11/2022,16/07/2023,Tablet,Medium
+U1773,Male,18-25,Central,Premium,15/06/2025,05/10/2025,Laptop,Medium
+U1774,Other,26-35,West,Basic,24/09/2022,25/03/2023,Smart TV,Medium
+U1775,Female,36-50,Central,Basic,05/09/2024,04/05/2025,Mobile,Medium
+U1776,Other,50+,East,Free Trial,09/04/2023,13/10/2023,Smart TV,High
+U1777,Female,18-25,East,Basic,31/07/2023,19/02/2024,Mobile,Low
+U1778,Other,26-35,North,Basic,12/09/2022,10/05/2023,Smart TV,Low
+U1779,Male,26-35,South,Premium,16/07/2025,28/04/2026,Smart TV,High
+U1780,Male,26-35,East,Basic,23/08/2022,19/04/2023,Smart TV,High
+U1781,Other,36-50,Central,Free Trial,10/05/2025,02/03/2026,Tablet,Medium
+U1782,Male,36-50,Central,Basic,22/08/2024,24/04/2025,Smart TV,Low
+U1783,Male,36-50,South,Basic,09/02/2022,05/07/2022,Laptop,Medium
+U1784,Other,26-35,West,Basic,17/10/2022,22/08/2023,Tablet,High
+U1785,Male,36-50,Central,Premium,12/08/2024,22/12/2024,Laptop,High
+U1786,Male,36-50,North,Free Trial,22/07/2025,26/06/2026,Mobile,Low
+U1787,Male,36-50,West,Premium,25/10/2025,10/07/2026,Smart TV,Medium
+U1788,Other,36-50,Central,Basic,06/12/2022,01/12/2023,Mobile,High
+U1789,Female,36-50,South,Basic,29/03/2025,01/10/2025,Tablet,Medium
+U1790,Male,50+,South,Basic,15/08/2025,29/03/2026,Tablet,Medium
+U1791,Female,18-25,Central,Free Trial,18/04/2025,13/12/2025,Tablet,Low
+U1792,Female,50+,North,Premium,29/08/2024,15/08/2025,Laptop,Medium
+U1793,Female,36-50,South,Premium,10/12/2023,03/10/2024,Smart TV,Medium
+U1794,Other,50+,West,Free Trial,21/09/2023,27/01/2024,Tablet,Low
+U1795,Female,36-50,South,Premium,20/09/2023,02/02/2024,Tablet,High
+U1796,Male,50+,West,Basic,23/01/2023,05/09/2023,Tablet,Low
+U1797,Female,36-50,North,Free Trial,16/07/2022,12/06/2023,Mobile,Low
+U1798,Male,26-35,South,Free Trial,10/05/2024,03/10/2024,Mobile,Medium
+U1799,Female,18-25,Central,Basic,22/02/2025,22/02/2026,Smart TV,High
+U1800,Other,26-35,Central,Free Trial,12/02/2022,24/11/2022,Tablet,Low
+U1801,Female,18-25,North,Premium,03/06/2023,19/04/2024,Laptop,High
+U1802,Other,50+,North,Premium,18/12/2025,16/06/2026,Laptop,High
+U1803,Female,26-35,North,Free Trial,27/01/2022,17/05/2022,Smart TV,Low
+U1804,Other,50+,West,Basic,08/12/2025,06/09/2026,Mobile,High
+U1805,Other,50+,South,Premium,26/12/2024,18/05/2025,Laptop,High
+U1806,Other,26-35,North,Basic,25/03/2023,12/01/2024,Mobile,High
+U1807,Male,26-35,Central,Free Trial,20/07/2025,11/01/2026,Smart TV,Medium
+U1808,Female,36-50,East,Premium,06/06/2023,11/12/2023,Smart TV,Medium
+U1809,Male,26-35,East,Premium,02/10/2024,24/08/2025,Laptop,Low
+U1810,Female,50+,Central,Basic,29/10/2025,19/03/2026,Smart TV,High
+U1811,Male,50+,East,Premium,25/12/2023,07/05/2024,Mobile,High
+U1812,Other,36-50,Central,Free Trial,01/05/2024,16/04/2025,Smart TV,Low
+U1813,Male,18-25,South,Premium,24/05/2022,23/10/2022,Mobile,Low
+U1814,Other,50+,East,Premium,25/10/2025,01/05/2026,Tablet,High
+U1815,Other,26-35,Central,Basic,31/10/2025,26/10/2026,Tablet,High
+U1816,Other,26-35,Central,Basic,05/04/2023,05/01/2024,Laptop,Low
+U1817,Female,26-35,West,Premium,29/03/2022,23/02/2023,Mobile,Medium
+U1818,Male,50+,Central,Premium,29/11/2022,21/04/2023,Mobile,Medium
+U1819,Other,26-35,West,Free Trial,05/02/2024,17/08/2024,Laptop,High
+U1820,Female,50+,West,Free Trial,02/10/2022,07/09/2023,Mobile,Low
+U1821,Other,50+,West,Free Trial,29/08/2023,23/07/2024,Mobile,High
+U1822,Other,50+,East,Premium,09/08/2024,26/04/2025,Mobile,High
+U1823,Female,36-50,North,Basic,13/09/2024,09/09/2025,Mobile,High
+U1824,Other,18-25,North,Basic,18/11/2022,18/07/2023,Smart TV,Low
+U1825,Male,36-50,West,Premium,07/01/2023,11/06/2023,Laptop,Low
+U1826,Other,26-35,East,Basic,17/01/2022,26/08/2022,Laptop,High
+U1827,Male,36-50,East,Premium,28/09/2024,17/02/2025,Tablet,Medium
+U1828,Female,36-50,East,Basic,03/10/2023,30/01/2024,Laptop,Medium
+U1829,Female,50+,West,Premium,08/12/2023,21/03/2024,Tablet,Low
+U1830,Other,18-25,West,Basic,06/10/2024,11/01/2025,Smart TV,Low
+U1831,Female,36-50,West,Basic,27/12/2025,12/07/2026,Tablet,Medium
+U1832,Other,50+,West,Basic,15/07/2022,14/02/2023,Smart TV,High
+U1833,Other,26-35,Central,Basic,08/12/2024,09/05/2025,Tablet,High
+U1834,Male,50+,South,Premium,04/11/2024,09/08/2025,Smart TV,High
+U1835,Female,50+,West,Basic,22/01/2023,04/12/2023,Mobile,Low
+U1836,Male,18-25,West,Basic,17/02/2025,10/08/2025,Mobile,Medium
+U1837,Male,26-35,East,Premium,04/07/2025,10/05/2026,Mobile,Medium
+U1838,Other,50+,East,Free Trial,18/12/2023,05/08/2024,Laptop,High
+U1839,Male,50+,East,Free Trial,19/09/2025,02/08/2026,Tablet,High
+U1840,Other,18-25,West,Premium,12/01/2024,03/12/2024,Tablet,Medium
+U1841,Male,50+,South,Basic,22/07/2025,17/04/2026,Tablet,Medium
+U1842,Female,26-35,West,Basic,17/04/2022,08/04/2023,Tablet,Low
+U1843,Male,36-50,North,Basic,17/06/2025,15/04/2026,Smart TV,Medium
+U1844,Other,26-35,Central,Basic,12/03/2023,19/12/2023,Tablet,Low
+U1845,Male,18-25,South,Free Trial,17/11/2023,13/08/2024,Mobile,High
+U1846,Female,50+,West,Free Trial,17/08/2022,28/01/2023,Laptop,Low
+U1847,Other,26-35,Central,Free Trial,07/01/2022,26/09/2022,Laptop,Medium
+U1848,Male,18-25,West,Free Trial,11/03/2024,03/02/2025,Laptop,Medium
+U1849,Female,36-50,South,Basic,19/08/2024,08/02/2025,Smart TV,Low
+U1850,Male,26-35,West,Basic,28/04/2024,03/03/2025,Laptop,Medium
+U1851,Male,36-50,South,Free Trial,21/08/2025,09/01/2026,Smart TV,High
+U1852,Female,26-35,East,Basic,25/11/2025,19/03/2026,Tablet,Medium
+U1853,Female,36-50,Central,Basic,25/07/2024,24/12/2024,Laptop,Medium
+U1854,Male,18-25,West,Basic,13/08/2025,19/05/2026,Smart TV,Medium
+U1855,Female,36-50,East,Free Trial,13/09/2025,14/08/2026,Laptop,Medium
+U1856,Female,18-25,South,Premium,19/04/2024,01/01/2025,Mobile,Medium
+U1857,Male,26-35,East,Premium,24/12/2025,09/06/2026,Tablet,Low
+U1858,Male,36-50,Central,Premium,30/09/2022,19/03/2023,Laptop,Low
+U1859,Female,36-50,Central,Basic,30/07/2025,05/03/2026,Tablet,High
+U1860,Female,50+,West,Premium,22/01/2024,11/10/2024,Mobile,Medium
+U1861,Other,36-50,North,Premium,16/01/2025,10/11/2025,Tablet,High
+U1862,Female,18-25,North,Basic,15/09/2022,30/03/2023,Tablet,High
+U1863,Male,18-25,North,Basic,01/04/2023,30/01/2024,Smart TV,Medium
+U1864,Male,18-25,Central,Basic,25/06/2023,29/09/2023,Tablet,Medium
+U1865,Male,50+,Central,Free Trial,10/10/2024,07/05/2025,Smart TV,Medium
+U1866,Other,36-50,North,Premium,10/05/2022,15/01/2023,Smart TV,Low
+U1867,Male,26-35,East,Basic,23/03/2025,08/10/2025,Tablet,High
+U1868,Male,36-50,East,Basic,09/01/2025,29/06/2025,Tablet,High
+U1869,Male,36-50,South,Premium,12/11/2023,08/05/2024,Tablet,High
+U1870,Male,36-50,South,Premium,01/11/2024,12/10/2025,Smart TV,Medium
+U1871,Other,26-35,North,Basic,06/11/2023,21/02/2024,Mobile,High
+U1872,Male,18-25,Central,Free Trial,09/04/2024,05/12/2024,Mobile,Low
+U1873,Male,36-50,East,Basic,11/05/2025,30/03/2026,Laptop,Medium
+U1874,Male,36-50,West,Premium,31/05/2025,15/05/2026,Laptop,Medium
+U1875,Female,26-35,West,Free Trial,26/05/2023,09/09/2023,Laptop,High
+U1876,Other,50+,Central,Free Trial,10/05/2023,17/03/2024,Tablet,High
+U1877,Female,50+,West,Basic,18/06/2025,25/10/2025,Laptop,Low
+U1878,Other,18-25,Central,Premium,10/08/2022,11/12/2022,Tablet,Low
+U1879,Female,18-25,Central,Premium,10/02/2022,11/06/2022,Mobile,High
+U1880,Female,36-50,West,Basic,23/02/2023,12/02/2024,Smart TV,Medium
+U1881,Male,36-50,North,Basic,11/11/2022,16/05/2023,Mobile,High
+U1882,Female,18-25,West,Premium,19/03/2023,18/06/2023,Laptop,Medium
+U1883,Male,36-50,Central,Premium,13/10/2022,01/10/2023,Laptop,Low
+U1884,Other,18-25,North,Free Trial,08/04/2023,26/09/2023,Mobile,Low
+U1885,Other,50+,West,Premium,02/05/2024,29/01/2025,Laptop,Low
+U1886,Female,36-50,East,Premium,05/12/2024,20/05/2025,Mobile,High
+U1887,Male,26-35,Central,Premium,30/05/2025,27/03/2026,Tablet,Medium
+U1888,Other,18-25,Central,Premium,22/08/2024,25/06/2025,Tablet,High
+U1889,Other,36-50,North,Premium,13/05/2023,09/05/2024,Tablet,Medium
+U1890,Male,18-25,West,Premium,24/01/2023,21/05/2023,Smart TV,High
+U1891,Male,36-50,East,Free Trial,08/03/2023,04/03/2024,Tablet,High
+U1892,Male,36-50,West,Premium,10/02/2024,26/11/2024,Smart TV,Medium
+U1893,Other,26-35,West,Basic,10/09/2024,30/04/2025,Smart TV,Low
+U1894,Male,26-35,North,Free Trial,10/08/2025,13/02/2026,Tablet,Medium
+U1895,Male,18-25,East,Free Trial,29/12/2023,24/04/2024,Smart TV,Medium
+U1896,Female,18-25,Central,Free Trial,30/01/2024,31/05/2024,Laptop,High
+U1897,Female,36-50,East,Basic,13/01/2024,28/09/2024,Smart TV,Low
+U1898,Other,18-25,East,Basic,09/10/2022,25/05/2023,Tablet,Medium
+U1899,Female,26-35,Central,Premium,05/03/2023,17/07/2023,Tablet,Medium
+U1900,Male,26-35,North,Basic,21/01/2022,19/09/2022,Tablet,Medium
+U1901,Other,18-25,West,Basic,05/10/2025,30/06/2026,Mobile,High
+U1902,Male,36-50,Central,Premium,07/06/2025,13/10/2025,Tablet,Low
+U1903,Female,18-25,North,Basic,06/12/2024,14/03/2025,Laptop,Low
+U1904,Other,26-35,North,Free Trial,11/01/2024,07/05/2024,Smart TV,High
+U1905,Female,50+,North,Free Trial,11/12/2022,24/08/2023,Tablet,Medium
+U1906,Male,50+,East,Basic,05/03/2023,25/12/2023,Smart TV,Low
+U1907,Female,18-25,Central,Free Trial,29/04/2025,25/12/2025,Laptop,High
+U1908,Female,18-25,North,Premium,16/12/2023,09/12/2024,Laptop,High
+U1909,Female,18-25,Central,Basic,28/02/2024,18/06/2024,Tablet,Low
+U1910,Female,50+,South,Basic,22/07/2023,20/11/2023,Laptop,High
+U1911,Male,50+,West,Basic,26/10/2024,31/03/2025,Mobile,Low
+U1912,Other,36-50,West,Free Trial,20/10/2023,05/05/2024,Mobile,Low
+U1913,Other,50+,Central,Premium,15/01/2023,11/06/2023,Smart TV,Low
+U1914,Female,36-50,West,Free Trial,16/05/2024,19/04/2025,Laptop,Medium
+U1915,Male,50+,North,Basic,13/09/2025,06/03/2026,Mobile,High
+U1916,Other,50+,North,Free Trial,19/09/2023,23/01/2024,Smart TV,High
+U1917,Male,26-35,South,Free Trial,28/11/2024,07/10/2025,Tablet,Low
+U1918,Male,26-35,West,Basic,03/04/2024,08/02/2025,Mobile,Medium
+U1919,Male,36-50,South,Free Trial,03/06/2025,19/03/2026,Smart TV,Medium
+U1920,Female,18-25,North,Basic,25/06/2025,25/01/2026,Laptop,Low
+U1921,Male,18-25,South,Premium,14/10/2025,28/09/2026,Tablet,High
+U1922,Other,36-50,North,Basic,02/08/2022,06/11/2022,Tablet,Medium
+U1923,Female,26-35,Central,Free Trial,24/02/2023,12/08/2023,Laptop,High
+U1924,Male,50+,South,Basic,28/11/2024,15/05/2025,Tablet,Low
+U1925,Other,18-25,South,Premium,07/01/2024,22/10/2024,Mobile,High
+U1926,Male,26-35,South,Premium,20/10/2023,30/06/2024,Smart TV,Low
+U1927,Female,36-50,East,Premium,14/09/2022,13/12/2022,Tablet,High
+U1928,Male,50+,North,Free Trial,23/02/2025,12/11/2025,Tablet,Medium
+U1929,Male,18-25,North,Free Trial,02/12/2023,28/05/2024,Tablet,Medium
+U1930,Female,50+,Central,Premium,19/03/2023,13/12/2023,Tablet,Low
+U1931,Other,50+,East,Basic,07/12/2022,05/04/2023,Laptop,Medium
+U1932,Male,36-50,West,Basic,15/03/2022,02/11/2022,Tablet,Medium
+U1933,Male,18-25,East,Premium,29/01/2024,23/09/2024,Smart TV,High
+U1934,Female,36-50,West,Free Trial,20/02/2024,13/10/2024,Tablet,Low
+U1935,Female,26-35,South,Basic,29/09/2025,23/01/2026,Tablet,Low
+U1936,Other,50+,Central,Basic,01/01/2024,12/06/2024,Tablet,Medium
+U1937,Female,26-35,East,Premium,18/10/2024,25/05/2025,Tablet,Medium
+U1938,Other,36-50,West,Free Trial,20/06/2023,09/05/2024,Tablet,Low
+U1939,Male,36-50,South,Basic,09/12/2024,18/03/2025,Smart TV,High
+U1940,Female,18-25,North,Basic,04/04/2022,16/08/2022,Mobile,Medium
+U1941,Female,50+,Central,Free Trial,27/02/2023,02/10/2023,Mobile,High
+U1942,Male,50+,North,Free Trial,05/05/2025,21/09/2025,Mobile,Low
+U1943,Female,18-25,East,Basic,07/07/2023,25/05/2024,Smart TV,Low
+U1944,Female,26-35,North,Basic,14/02/2024,25/12/2024,Smart TV,Low
+U1945,Female,26-35,West,Premium,15/06/2024,04/12/2024,Laptop,High
+U1946,Female,26-35,Central,Premium,01/03/2022,14/06/2022,Laptop,High
+U1947,Other,36-50,West,Free Trial,02/03/2023,18/11/2023,Laptop,High
+U1948,Other,36-50,East,Premium,02/10/2023,22/04/2024,Mobile,Medium
+U1949,Female,26-35,West,Basic,09/11/2025,18/04/2026,Tablet,High
+U1950,Female,50+,Central,Basic,24/03/2024,26/08/2024,Mobile,High
+U1951,Female,26-35,West,Basic,13/06/2022,04/05/2023,Smart TV,Medium
+U1952,Female,50+,West,Basic,17/10/2022,05/09/2023,Laptop,Low
+U1953,Other,26-35,North,Premium,25/04/2024,07/01/2025,Tablet,Low
+U1954,Female,26-35,West,Free Trial,24/12/2022,08/10/2023,Tablet,High
+U1955,Other,26-35,North,Premium,06/10/2023,18/05/2024,Smart TV,High
+U1956,Female,36-50,South,Premium,03/06/2024,30/09/2024,Mobile,Medium
+U1957,Other,50+,South,Premium,03/01/2025,20/08/2025,Laptop,High
+U1958,Male,50+,Central,Basic,13/03/2024,07/03/2025,Smart TV,High
+U1959,Other,26-35,South,Basic,23/03/2022,16/11/2022,Mobile,Medium
+U1960,Female,36-50,West,Free Trial,21/03/2025,27/11/2025,Laptop,Medium
+U1961,Other,50+,South,Basic,19/01/2025,01/01/2026,Tablet,Low
+U1962,Other,18-25,West,Basic,22/06/2022,07/11/2022,Tablet,Medium
+U1963,Female,18-25,North,Basic,21/06/2022,27/11/2022,Tablet,Medium
+U1964,Other,50+,West,Premium,08/06/2023,16/02/2024,Laptop,High
+U1965,Male,26-35,Central,Basic,21/11/2024,22/04/2025,Mobile,Medium
+U1966,Male,18-25,Central,Premium,31/05/2023,15/12/2023,Tablet,High
+U1967,Male,36-50,East,Basic,28/04/2025,10/11/2025,Mobile,Medium
+U1968,Other,50+,West,Basic,03/02/2025,27/06/2025,Smart TV,Low
+U1969,Male,26-35,East,Premium,16/08/2022,12/03/2023,Laptop,High
+U1970,Male,50+,Central,Premium,12/12/2023,01/11/2024,Tablet,Medium
+U1971,Female,36-50,North,Free Trial,16/06/2023,14/12/2023,Laptop,High
+U1972,Other,50+,North,Basic,04/07/2025,27/11/2025,Smart TV,Medium
+U1973,Other,18-25,North,Free Trial,24/04/2025,24/03/2026,Smart TV,Low
+U1974,Other,50+,Central,Free Trial,11/01/2023,04/11/2023,Smart TV,Low
+U1975,Female,18-25,North,Basic,29/11/2024,23/04/2025,Mobile,Low
+U1976,Female,36-50,East,Basic,24/05/2024,23/02/2025,Laptop,High
+U1977,Other,26-35,East,Premium,03/03/2023,13/10/2023,Mobile,Medium
+U1978,Male,18-25,South,Premium,26/06/2024,16/02/2025,Smart TV,Low
+U1979,Female,36-50,North,Free Trial,25/11/2024,08/04/2025,Laptop,High
+U1980,Male,18-25,North,Premium,08/10/2023,15/06/2024,Mobile,High
+U1981,Male,50+,West,Basic,16/12/2023,03/06/2024,Tablet,Medium
+U1982,Other,26-35,West,Free Trial,14/11/2022,07/07/2023,Tablet,Low
+U1983,Female,18-25,East,Premium,02/01/2022,22/06/2022,Smart TV,High
+U1984,Female,26-35,West,Basic,29/03/2025,29/07/2025,Tablet,High
+U1985,Female,18-25,Central,Basic,07/04/2023,20/01/2024,Tablet,Low
+U1986,Other,50+,North,Free Trial,24/06/2023,26/12/2023,Smart TV,Medium
+U1987,Female,26-35,East,Premium,18/01/2022,25/06/2022,Laptop,Low
+U1988,Other,26-35,Central,Basic,02/02/2022,22/09/2022,Mobile,High
+U1989,Male,50+,South,Basic,18/02/2024,21/10/2024,Mobile,Low
+U1990,Female,26-35,Central,Basic,15/07/2022,26/10/2022,Mobile,Medium
+U1991,Other,36-50,West,Basic,18/08/2022,28/05/2023,Smart TV,Medium
+U1992,Other,26-35,East,Basic,20/02/2023,26/09/2023,Tablet,Medium
+U1993,Other,18-25,East,Premium,26/04/2023,18/12/2023,Smart TV,Medium
+U1994,Female,50+,West,Basic,09/06/2022,03/12/2022,Mobile,Low
+U1995,Other,36-50,North,Premium,04/07/2023,13/10/2023,Smart TV,Medium
+U1996,Male,50+,Central,Free Trial,14/06/2022,10/06/2023,Laptop,High
+U1997,Male,18-25,West,Free Trial,26/05/2023,21/04/2024,Smart TV,Low
+U1998,Male,36-50,North,Free Trial,10/05/2022,09/05/2023,Laptop,Low
+U1999,Female,18-25,Central,Premium,22/10/2025,23/04/2026,Mobile,Medium
+U2000,Other,50+,South,Basic,10/12/2024,03/12/2025,Mobile,High

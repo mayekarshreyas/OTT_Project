@@ -1,0 +1,2001 @@
+User_ID,Subscription_Type,Monthly_Fee,Renewal_Status,Churn_Flag
+U0001,Free Trial,0,Not Renewed,1
+U0002,Basic,299,Renewed,0
+U0003,Free Trial,0,Renewed,0
+U0004,Free Trial,0,Renewed,0
+U0005,Premium,599,Not Renewed,1
+U0006,Free Trial,0,Not Renewed,1
+U0007,Basic,299,Renewed,0
+U0008,Basic,299,Not Renewed,1
+U0009,Basic,299,Not Renewed,1
+U0010,Basic,299,Not Renewed,1
+U0011,Basic,299,Not Renewed,1
+U0012,Premium,599,Renewed,0
+U0013,Premium,599,Renewed,0
+U0014,Premium,599,Not Renewed,1
+U0015,Basic,299,Renewed,0
+U0016,Basic,299,Not Renewed,1
+U0017,Free Trial,0,Not Renewed,1
+U0018,Premium,599,Renewed,0
+U0019,Basic,299,Not Renewed,1
+U0020,Basic,299,Renewed,0
+U0021,Free Trial,0,Not Renewed,1
+U0022,Free Trial,0,Renewed,0
+U0023,Basic,299,Not Renewed,1
+U0024,Premium,599,Renewed,0
+U0025,Free Trial,0,Not Renewed,1
+U0026,Premium,599,Renewed,0
+U0027,Free Trial,0,Not Renewed,1
+U0028,Basic,299,Renewed,0
+U0029,Premium,599,Renewed,0
+U0030,Basic,299,Renewed,0
+U0031,Premium,599,Renewed,0
+U0032,Free Trial,0,Not Renewed,1
+U0033,Premium,599,Renewed,0
+U0034,Premium,599,Not Renewed,1
+U0035,Free Trial,0,Not Renewed,1
+U0036,Basic,299,Not Renewed,1
+U0037,Premium,599,Renewed,0
+U0038,Basic,299,Renewed,0
+U0039,Premium,599,Renewed,0
+U0040,Basic,299,Not Renewed,1
+U0041,Premium,599,Renewed,0
+U0042,Premium,599,Renewed,0
+U0043,Premium,599,Renewed,0
+U0044,Premium,599,Renewed,0
+U0045,Premium,599,Renewed,0
+U0046,Premium,599,Renewed,0
+U0047,Free Trial,0,Renewed,0
+U0048,Basic,299,Not Renewed,1
+U0049,Premium,599,Renewed,0
+U0050,Basic,299,Renewed,0
+U0051,Free Trial,0,Not Renewed,1
+U0052,Free Trial,0,Not Renewed,1
+U0053,Free Trial,0,Not Renewed,1
+U0054,Premium,599,Renewed,0
+U0055,Free Trial,0,Not Renewed,1
+U0056,Premium,599,Renewed,0
+U0057,Basic,299,Not Renewed,1
+U0058,Basic,299,Renewed,0
+U0059,Basic,299,Renewed,0
+U0060,Free Trial,0,Not Renewed,1
+U0061,Basic,299,Renewed,0
+U0062,Free Trial,0,Not Renewed,1
+U0063,Premium,599,Renewed,0
+U0064,Premium,599,Not Renewed,1
+U0065,Basic,299,Not Renewed,1
+U0066,Basic,299,Not Renewed,1
+U0067,Premium,599,Not Renewed,1
+U0068,Free Trial,0,Not Renewed,1
+U0069,Premium,599,Renewed,0
+U0070,Free Trial,0,Renewed,0
+U0071,Basic,299,Not Renewed,1
+U0072,Basic,299,Not Renewed,1
+U0073,Basic,299,Not Renewed,1
+U0074,Premium,599,Renewed,0
+U0075,Free Trial,0,Not Renewed,1
+U0076,Premium,599,Renewed,0
+U0077,Basic,299,Not Renewed,1
+U0078,Basic,299,Renewed,0
+U0079,Premium,599,Renewed,0
+U0080,Free Trial,0,Not Renewed,1
+U0081,Premium,599,Renewed,0
+U0082,Free Trial,0,Renewed,0
+U0083,Free Trial,0,Renewed,0
+U0084,Free Trial,0,Not Renewed,1
+U0085,Basic,299,Not Renewed,1
+U0086,Premium,599,Not Renewed,1
+U0087,Basic,299,Not Renewed,1
+U0088,Basic,299,Renewed,0
+U0089,Free Trial,0,Not Renewed,1
+U0090,Free Trial,0,Not Renewed,1
+U0091,Premium,599,Renewed,0
+U0092,Free Trial,0,Not Renewed,1
+U0093,Free Trial,0,Not Renewed,1
+U0094,Free Trial,0,Not Renewed,1
+U0095,Free Trial,0,Renewed,0
+U0096,Premium,599,Renewed,0
+U0097,Premium,599,Not Renewed,1
+U0098,Basic,299,Not Renewed,1
+U0099,Free Trial,0,Not Renewed,1
+U0100,Free Trial,0,Not Renewed,1
+U0101,Basic,299,Renewed,0
+U0102,Free Trial,0,Not Renewed,1
+U0103,Free Trial,0,Not Renewed,1
+U0104,Free Trial,0,Renewed,0
+U0105,Premium,599,Renewed,0
+U0106,Basic,299,Renewed,0
+U0107,Free Trial,0,Not Renewed,1
+U0108,Premium,599,Renewed,0
+U0109,Basic,299,Not Renewed,1
+U0110,Premium,599,Renewed,0
+U0111,Basic,299,Not Renewed,1
+U0112,Premium,599,Renewed,0
+U0113,Premium,599,Not Renewed,1
+U0114,Basic,299,Renewed,0
+U0115,Free Trial,0,Renewed,0
+U0116,Basic,299,Renewed,0
+U0117,Free Trial,0,Renewed,0
+U0118,Premium,599,Not Renewed,1
+U0119,Premium,599,Renewed,0
+U0120,Premium,599,Renewed,0
+U0121,Free Trial,0,Not Renewed,1
+U0122,Free Trial,0,Not Renewed,1
+U0123,Basic,299,Renewed,0
+U0124,Premium,599,Renewed,0
+U0125,Free Trial,0,Not Renewed,1
+U0126,Free Trial,0,Not Renewed,1
+U0127,Free Trial,0,Not Renewed,1
+U0128,Free Trial,0,Renewed,0
+U0129,Premium,599,Not Renewed,1
+U0130,Free Trial,0,Renewed,0
+U0131,Premium,599,Renewed,0
+U0132,Premium,599,Renewed,0
+U0133,Premium,599,Renewed,0
+U0134,Premium,599,Renewed,0
+U0135,Basic,299,Renewed,0
+U0136,Basic,299,Not Renewed,1
+U0137,Basic,299,Not Renewed,1
+U0138,Premium,599,Renewed,0
+U0139,Basic,299,Renewed,0
+U0140,Free Trial,0,Not Renewed,1
+U0141,Basic,299,Renewed,0
+U0142,Basic,299,Renewed,0
+U0143,Basic,299,Not Renewed,1
+U0144,Free Trial,0,Not Renewed,1
+U0145,Free Trial,0,Not Renewed,1
+U0146,Basic,299,Not Renewed,1
+U0147,Premium,599,Not Renewed,1
+U0148,Premium,599,Renewed,0
+U0149,Premium,599,Renewed,0
+U0150,Premium,599,Renewed,0
+U0151,Basic,299,Not Renewed,1
+U0152,Basic,299,Renewed,0
+U0153,Free Trial,0,Not Renewed,1
+U0154,Free Trial,0,Not Renewed,1
+U0155,Free Trial,0,Not Renewed,1
+U0156,Premium,599,Renewed,0
+U0157,Free Trial,0,Renewed,0
+U0158,Free Trial,0,Renewed,0
+U0159,Premium,599,Renewed,0
+U0160,Basic,299,Renewed,0
+U0161,Premium,599,Renewed,0
+U0162,Premium,599,Renewed,0
+U0163,Basic,299,Renewed,0
+U0164,Basic,299,Not Renewed,1
+U0165,Free Trial,0,Not Renewed,1
+U0166,Basic,299,Not Renewed,1
+U0167,Basic,299,Renewed,0
+U0168,Basic,299,Not Renewed,1
+U0169,Basic,299,Not Renewed,1
+U0170,Premium,599,Not Renewed,1
+U0171,Basic,299,Renewed,0
+U0172,Premium,599,Not Renewed,1
+U0173,Basic,299,Renewed,0
+U0174,Free Trial,0,Not Renewed,1
+U0175,Basic,299,Renewed,0
+U0176,Free Trial,0,Not Renewed,1
+U0177,Premium,599,Renewed,0
+U0178,Basic,299,Not Renewed,1
+U0179,Free Trial,0,Not Renewed,1
+U0180,Premium,599,Renewed,0
+U0181,Basic,299,Not Renewed,1
+U0182,Basic,299,Not Renewed,1
+U0183,Basic,299,Renewed,0
+U0184,Basic,299,Renewed,0
+U0185,Basic,299,Not Renewed,1
+U0186,Premium,599,Renewed,0
+U0187,Basic,299,Not Renewed,1
+U0188,Basic,299,Renewed,0
+U0189,Basic,299,Renewed,0
+U0190,Premium,599,Renewed,0
+U0191,Basic,299,Renewed,0
+U0192,Basic,299,Not Renewed,1
+U0193,Free Trial,0,Not Renewed,1
+U0194,Free Trial,0,Not Renewed,1
+U0195,Basic,299,Renewed,0
+U0196,Basic,299,Renewed,0
+U0197,Premium,599,Renewed,0
+U0198,Free Trial,0,Renewed,0
+U0199,Free Trial,0,Not Renewed,1
+U0200,Premium,599,Renewed,0
+U0201,Basic,299,Renewed,0
+U0202,Free Trial,0,Not Renewed,1
+U0203,Premium,599,Renewed,0
+U0204,Premium,599,Not Renewed,1
+U0205,Premium,599,Renewed,0
+U0206,Basic,299,Renewed,0
+U0207,Premium,599,Renewed,0
+U0208,Free Trial,0,Not Renewed,1
+U0209,Basic,299,Renewed,0
+U0210,Free Trial,0,Not Renewed,1
+U0211,Premium,599,Renewed,0
+U0212,Premium,599,Renewed,0
+U0213,Free Trial,0,Not Renewed,1
+U0214,Free Trial,0,Not Renewed,1
+U0215,Free Trial,0,Not Renewed,1
+U0216,Premium,599,Renewed,0
+U0217,Basic,299,Not Renewed,1
+U0218,Free Trial,0,Not Renewed,1
+U0219,Premium,599,Renewed,0
+U0220,Basic,299,Renewed,0
+U0221,Free Trial,0,Not Renewed,1
+U0222,Premium,599,Renewed,0
+U0223,Basic,299,Renewed,0
+U0224,Free Trial,0,Renewed,0
+U0225,Premium,599,Renewed,0
+U0226,Free Trial,0,Not Renewed,1
+U0227,Free Trial,0,Not Renewed,1
+U0228,Premium,599,Renewed,0
+U0229,Premium,599,Not Renewed,1
+U0230,Premium,599,Renewed,0
+U0231,Premium,599,Renewed,0
+U0232,Basic,299,Renewed,0
+U0233,Basic,299,Not Renewed,1
+U0234,Free Trial,0,Not Renewed,1
+U0235,Premium,599,Renewed,0
+U0236,Premium,599,Not Renewed,1
+U0237,Basic,299,Renewed,0
+U0238,Basic,299,Renewed,0
+U0239,Free Trial,0,Not Renewed,1
+U0240,Premium,599,Not Renewed,1
+U0241,Premium,599,Not Renewed,1
+U0242,Premium,599,Renewed,0
+U0243,Premium,599,Renewed,0
+U0244,Basic,299,Renewed,0
+U0245,Free Trial,0,Renewed,0
+U0246,Free Trial,0,Not Renewed,1
+U0247,Premium,599,Renewed,0
+U0248,Free Trial,0,Not Renewed,1
+U0249,Premium,599,Renewed,0
+U0250,Basic,299,Renewed,0
+U0251,Premium,599,Renewed,0
+U0252,Free Trial,0,Not Renewed,1
+U0253,Free Trial,0,Renewed,0
+U0254,Premium,599,Renewed,0
+U0255,Premium,599,Not Renewed,1
+U0256,Premium,599,Renewed,0
+U0257,Basic,299,Renewed,0
+U0258,Free Trial,0,Not Renewed,1
+U0259,Premium,599,Not Renewed,1
+U0260,Premium,599,Renewed,0
+U0261,Premium,599,Not Renewed,1
+U0262,Premium,599,Renewed,0
+U0263,Premium,599,Renewed,0
+U0264,Premium,599,Renewed,0
+U0265,Premium,599,Renewed,0
+U0266,Free Trial,0,Not Renewed,1
+U0267,Free Trial,0,Not Renewed,1
+U0268,Free Trial,0,Not Renewed,1
+U0269,Basic,299,Not Renewed,1
+U0270,Basic,299,Renewed,0
+U0271,Premium,599,Renewed,0
+U0272,Premium,599,Renewed,0
+U0273,Premium,599,Renewed,0
+U0274,Free Trial,0,Renewed,0
+U0275,Free Trial,0,Renewed,0
+U0276,Premium,599,Not Renewed,1
+U0277,Basic,299,Not Renewed,1
+U0278,Free Trial,0,Not Renewed,1
+U0279,Basic,299,Renewed,0
+U0280,Free Trial,0,Not Renewed,1
+U0281,Premium,599,Renewed,0
+U0282,Premium,599,Renewed,0
+U0283,Free Trial,0,Not Renewed,1
+U0284,Basic,299,Renewed,0
+U0285,Premium,599,Renewed,0
+U0286,Free Trial,0,Renewed,0
+U0287,Basic,299,Not Renewed,1
+U0288,Basic,299,Not Renewed,1
+U0289,Premium,599,Renewed,0
+U0290,Premium,599,Renewed,0
+U0291,Free Trial,0,Not Renewed,1
+U0292,Basic,299,Not Renewed,1
+U0293,Premium,599,Renewed,0
+U0294,Premium,599,Renewed,0
+U0295,Basic,299,Renewed,0
+U0296,Free Trial,0,Renewed,0
+U0297,Premium,599,Renewed,0
+U0298,Free Trial,0,Not Renewed,1
+U0299,Premium,599,Renewed,0
+U0300,Basic,299,Not Renewed,1
+U0301,Premium,599,Not Renewed,1
+U0302,Basic,299,Renewed,0
+U0303,Basic,299,Renewed,0
+U0304,Basic,299,Renewed,0
+U0305,Basic,299,Renewed,0
+U0306,Basic,299,Renewed,0
+U0307,Free Trial,0,Not Renewed,1
+U0308,Free Trial,0,Renewed,0
+U0309,Premium,599,Not Renewed,1
+U0310,Premium,599,Renewed,0
+U0311,Premium,599,Not Renewed,1
+U0312,Premium,599,Renewed,0
+U0313,Free Trial,0,Not Renewed,1
+U0314,Free Trial,0,Not Renewed,1
+U0315,Premium,599,Renewed,0
+U0316,Basic,299,Not Renewed,1
+U0317,Free Trial,0,Not Renewed,1
+U0318,Premium,599,Renewed,0
+U0319,Free Trial,0,Not Renewed,1
+U0320,Premium,599,Renewed,0
+U0321,Premium,599,Not Renewed,1
+U0322,Basic,299,Renewed,0
+U0323,Free Trial,0,Not Renewed,1
+U0324,Basic,299,Renewed,0
+U0325,Free Trial,0,Not Renewed,1
+U0326,Premium,599,Renewed,0
+U0327,Basic,299,Renewed,0
+U0328,Basic,299,Renewed,0
+U0329,Premium,599,Renewed,0
+U0330,Premium,599,Renewed,0
+U0331,Premium,599,Renewed,0
+U0332,Basic,299,Not Renewed,1
+U0333,Basic,299,Renewed,0
+U0334,Free Trial,0,Not Renewed,1
+U0335,Basic,299,Not Renewed,1
+U0336,Basic,299,Renewed,0
+U0337,Premium,599,Renewed,0
+U0338,Premium,599,Renewed,0
+U0339,Premium,599,Renewed,0
+U0340,Free Trial,0,Not Renewed,1
+U0341,Premium,599,Renewed,0
+U0342,Basic,299,Renewed,0
+U0343,Basic,299,Renewed,0
+U0344,Premium,599,Renewed,0
+U0345,Basic,299,Not Renewed,1
+U0346,Free Trial,0,Renewed,0
+U0347,Premium,599,Renewed,0
+U0348,Basic,299,Renewed,0
+U0349,Premium,599,Renewed,0
+U0350,Free Trial,0,Not Renewed,1
+U0351,Free Trial,0,Not Renewed,1
+U0352,Free Trial,0,Renewed,0
+U0353,Premium,599,Renewed,0
+U0354,Premium,599,Renewed,0
+U0355,Premium,599,Renewed,0
+U0356,Premium,599,Renewed,0
+U0357,Free Trial,0,Not Renewed,1
+U0358,Premium,599,Renewed,0
+U0359,Basic,299,Renewed,0
+U0360,Free Trial,0,Not Renewed,1
+U0361,Basic,299,Renewed,0
+U0362,Free Trial,0,Not Renewed,1
+U0363,Basic,299,Renewed,0
+U0364,Free Trial,0,Not Renewed,1
+U0365,Free Trial,0,Not Renewed,1
+U0366,Free Trial,0,Not Renewed,1
+U0367,Basic,299,Renewed,0
+U0368,Premium,599,Renewed,0
+U0369,Basic,299,Renewed,0
+U0370,Premium,599,Not Renewed,1
+U0371,Free Trial,0,Not Renewed,1
+U0372,Free Trial,0,Renewed,0
+U0373,Free Trial,0,Renewed,0
+U0374,Premium,599,Renewed,0
+U0375,Premium,599,Renewed,0
+U0376,Premium,599,Renewed,0
+U0377,Free Trial,0,Renewed,0
+U0378,Free Trial,0,Renewed,0
+U0379,Premium,599,Renewed,0
+U0380,Basic,299,Not Renewed,1
+U0381,Basic,299,Renewed,0
+U0382,Basic,299,Renewed,0
+U0383,Premium,599,Renewed,0
+U0384,Free Trial,0,Not Renewed,1
+U0385,Premium,599,Renewed,0
+U0386,Premium,599,Renewed,0
+U0387,Basic,299,Not Renewed,1
+U0388,Free Trial,0,Not Renewed,1
+U0389,Free Trial,0,Not Renewed,1
+U0390,Free Trial,0,Not Renewed,1
+U0391,Basic,299,Renewed,0
+U0392,Basic,299,Renewed,0
+U0393,Basic,299,Renewed,0
+U0394,Basic,299,Not Renewed,1
+U0395,Premium,599,Renewed,0
+U0396,Free Trial,0,Not Renewed,1
+U0397,Premium,599,Renewed,0
+U0398,Free Trial,0,Not Renewed,1
+U0399,Premium,599,Renewed,0
+U0400,Free Trial,0,Not Renewed,1
+U0401,Premium,599,Renewed,0
+U0402,Free Trial,0,Not Renewed,1
+U0403,Premium,599,Renewed,0
+U0404,Free Trial,0,Not Renewed,1
+U0405,Basic,299,Not Renewed,1
+U0406,Free Trial,0,Not Renewed,1
+U0407,Premium,599,Renewed,0
+U0408,Basic,299,Renewed,0
+U0409,Free Trial,0,Not Renewed,1
+U0410,Free Trial,0,Not Renewed,1
+U0411,Premium,599,Renewed,0
+U0412,Basic,299,Not Renewed,1
+U0413,Premium,599,Renewed,0
+U0414,Basic,299,Renewed,0
+U0415,Free Trial,0,Not Renewed,1
+U0416,Free Trial,0,Not Renewed,1
+U0417,Premium,599,Renewed,0
+U0418,Basic,299,Not Renewed,1
+U0419,Free Trial,0,Not Renewed,1
+U0420,Basic,299,Not Renewed,1
+U0421,Premium,599,Renewed,0
+U0422,Basic,299,Renewed,0
+U0423,Basic,299,Not Renewed,1
+U0424,Premium,599,Renewed,0
+U0425,Free Trial,0,Not Renewed,1
+U0426,Premium,599,Renewed,0
+U0427,Premium,599,Not Renewed,1
+U0428,Free Trial,0,Renewed,0
+U0429,Free Trial,0,Renewed,0
+U0430,Premium,599,Renewed,0
+U0431,Premium,599,Not Renewed,1
+U0432,Premium,599,Renewed,0
+U0433,Premium,599,Not Renewed,1
+U0434,Basic,299,Renewed,0
+U0435,Premium,599,Not Renewed,1
+U0436,Basic,299,Renewed,0
+U0437,Basic,299,Renewed,0
+U0438,Premium,599,Renewed,0
+U0439,Premium,599,Renewed,0
+U0440,Premium,599,Renewed,0
+U0441,Premium,599,Renewed,0
+U0442,Premium,599,Renewed,0
+U0443,Free Trial,0,Not Renewed,1
+U0444,Premium,599,Renewed,0
+U0445,Free Trial,0,Not Renewed,1
+U0446,Premium,599,Not Renewed,1
+U0447,Premium,599,Renewed,0
+U0448,Basic,299,Not Renewed,1
+U0449,Free Trial,0,Not Renewed,1
+U0450,Free Trial,0,Not Renewed,1
+U0451,Free Trial,0,Not Renewed,1
+U0452,Premium,599,Not Renewed,1
+U0453,Free Trial,0,Not Renewed,1
+U0454,Premium,599,Renewed,0
+U0455,Basic,299,Renewed,0
+U0456,Free Trial,0,Not Renewed,1
+U0457,Free Trial,0,Renewed,0
+U0458,Premium,599,Not Renewed,1
+U0459,Free Trial,0,Renewed,0
+U0460,Premium,599,Renewed,0
+U0461,Free Trial,0,Not Renewed,1
+U0462,Free Trial,0,Renewed,0
+U0463,Premium,599,Renewed,0
+U0464,Basic,299,Renewed,0
+U0465,Basic,299,Renewed,0
+U0466,Free Trial,0,Not Renewed,1
+U0467,Premium,599,Renewed,0
+U0468,Basic,299,Renewed,0
+U0469,Basic,299,Not Renewed,1
+U0470,Free Trial,0,Renewed,0
+U0471,Premium,599,Not Renewed,1
+U0472,Premium,599,Renewed,0
+U0473,Basic,299,Not Renewed,1
+U0474,Basic,299,Renewed,0
+U0475,Basic,299,Not Renewed,1
+U0476,Premium,599,Renewed,0
+U0477,Free Trial,0,Not Renewed,1
+U0478,Free Trial,0,Not Renewed,1
+U0479,Free Trial,0,Not Renewed,1
+U0480,Premium,599,Renewed,0
+U0481,Basic,299,Renewed,0
+U0482,Premium,599,Renewed,0
+U0483,Free Trial,0,Renewed,0
+U0484,Premium,599,Renewed,0
+U0485,Basic,299,Not Renewed,1
+U0486,Basic,299,Not Renewed,1
+U0487,Free Trial,0,Not Renewed,1
+U0488,Premium,599,Renewed,0
+U0489,Free Trial,0,Not Renewed,1
+U0490,Premium,599,Not Renewed,1
+U0491,Premium,599,Renewed,0
+U0492,Basic,299,Renewed,0
+U0493,Premium,599,Not Renewed,1
+U0494,Premium,599,Renewed,0
+U0495,Premium,599,Renewed,0
+U0496,Basic,299,Not Renewed,1
+U0497,Free Trial,0,Not Renewed,1
+U0498,Basic,299,Renewed,0
+U0499,Basic,299,Renewed,0
+U0500,Free Trial,0,Not Renewed,1
+U0501,Premium,599,Renewed,0
+U0502,Premium,599,Not Renewed,1
+U0503,Free Trial,0,Renewed,0
+U0504,Free Trial,0,Renewed,0
+U0505,Free Trial,0,Not Renewed,1
+U0506,Premium,599,Renewed,0
+U0507,Free Trial,0,Renewed,0
+U0508,Basic,299,Not Renewed,1
+U0509,Free Trial,0,Not Renewed,1
+U0510,Premium,599,Renewed,0
+U0511,Free Trial,0,Not Renewed,1
+U0512,Basic,299,Renewed,0
+U0513,Premium,599,Renewed,0
+U0514,Free Trial,0,Not Renewed,1
+U0515,Free Trial,0,Not Renewed,1
+U0516,Free Trial,0,Not Renewed,1
+U0517,Basic,299,Not Renewed,1
+U0518,Basic,299,Renewed,0
+U0519,Premium,599,Not Renewed,1
+U0520,Basic,299,Not Renewed,1
+U0521,Free Trial,0,Not Renewed,1
+U0522,Premium,599,Renewed,0
+U0523,Free Trial,0,Not Renewed,1
+U0524,Premium,599,Renewed,0
+U0525,Free Trial,0,Renewed,0
+U0526,Premium,599,Renewed,0
+U0527,Premium,599,Renewed,0
+U0528,Premium,599,Renewed,0
+U0529,Basic,299,Not Renewed,1
+U0530,Free Trial,0,Not Renewed,1
+U0531,Basic,299,Not Renewed,1
+U0532,Basic,299,Not Renewed,1
+U0533,Basic,299,Renewed,0
+U0534,Free Trial,0,Renewed,0
+U0535,Premium,599,Renewed,0
+U0536,Basic,299,Renewed,0
+U0537,Basic,299,Not Renewed,1
+U0538,Free Trial,0,Not Renewed,1
+U0539,Premium,599,Renewed,0
+U0540,Premium,599,Renewed,0
+U0541,Premium,599,Renewed,0
+U0542,Basic,299,Not Renewed,1
+U0543,Basic,299,Renewed,0
+U0544,Premium,599,Renewed,0
+U0545,Free Trial,0,Renewed,0
+U0546,Premium,599,Renewed,0
+U0547,Free Trial,0,Not Renewed,1
+U0548,Basic,299,Not Renewed,1
+U0549,Free Trial,0,Not Renewed,1
+U0550,Basic,299,Renewed,0
+U0551,Basic,299,Renewed,0
+U0552,Premium,599,Renewed,0
+U0553,Free Trial,0,Not Renewed,1
+U0554,Premium,599,Not Renewed,1
+U0555,Premium,599,Renewed,0
+U0556,Basic,299,Renewed,0
+U0557,Premium,599,Renewed,0
+U0558,Premium,599,Renewed,0
+U0559,Basic,299,Renewed,0
+U0560,Basic,299,Renewed,0
+U0561,Free Trial,0,Not Renewed,1
+U0562,Basic,299,Renewed,0
+U0563,Premium,599,Renewed,0
+U0564,Free Trial,0,Not Renewed,1
+U0565,Premium,599,Renewed,0
+U0566,Basic,299,Not Renewed,1
+U0567,Free Trial,0,Not Renewed,1
+U0568,Premium,599,Renewed,0
+U0569,Free Trial,0,Renewed,0
+U0570,Premium,599,Renewed,0
+U0571,Free Trial,0,Renewed,0
+U0572,Premium,599,Renewed,0
+U0573,Free Trial,0,Not Renewed,1
+U0574,Basic,299,Not Renewed,1
+U0575,Premium,599,Renewed,0
+U0576,Basic,299,Renewed,0
+U0577,Premium,599,Renewed,0
+U0578,Basic,299,Not Renewed,1
+U0579,Premium,599,Renewed,0
+U0580,Premium,599,Renewed,0
+U0581,Premium,599,Renewed,0
+U0582,Free Trial,0,Renewed,0
+U0583,Premium,599,Renewed,0
+U0584,Free Trial,0,Not Renewed,1
+U0585,Basic,299,Not Renewed,1
+U0586,Basic,299,Not Renewed,1
+U0587,Free Trial,0,Not Renewed,1
+U0588,Free Trial,0,Not Renewed,1
+U0589,Free Trial,0,Not Renewed,1
+U0590,Basic,299,Not Renewed,1
+U0591,Premium,599,Not Renewed,1
+U0592,Free Trial,0,Not Renewed,1
+U0593,Free Trial,0,Not Renewed,1
+U0594,Premium,599,Renewed,0
+U0595,Premium,599,Renewed,0
+U0596,Free Trial,0,Renewed,0
+U0597,Basic,299,Renewed,0
+U0598,Basic,299,Not Renewed,1
+U0599,Premium,599,Renewed,0
+U0600,Premium,599,Renewed,0
+U0601,Free Trial,0,Not Renewed,1
+U0602,Free Trial,0,Not Renewed,1
+U0603,Free Trial,0,Not Renewed,1
+U0604,Premium,599,Not Renewed,1
+U0605,Basic,299,Not Renewed,1
+U0606,Premium,599,Renewed,0
+U0607,Premium,599,Renewed,0
+U0608,Premium,599,Renewed,0
+U0609,Basic,299,Not Renewed,1
+U0610,Basic,299,Renewed,0
+U0611,Premium,599,Renewed,0
+U0612,Premium,599,Renewed,0
+U0613,Free Trial,0,Renewed,0
+U0614,Premium,599,Not Renewed,1
+U0615,Free Trial,0,Not Renewed,1
+U0616,Free Trial,0,Not Renewed,1
+U0617,Premium,599,Not Renewed,1
+U0618,Free Trial,0,Not Renewed,1
+U0619,Free Trial,0,Not Renewed,1
+U0620,Premium,599,Renewed,0
+U0621,Free Trial,0,Renewed,0
+U0622,Premium,599,Not Renewed,1
+U0623,Basic,299,Not Renewed,1
+U0624,Basic,299,Not Renewed,1
+U0625,Premium,599,Not Renewed,1
+U0626,Basic,299,Not Renewed,1
+U0627,Premium,599,Not Renewed,1
+U0628,Premium,599,Renewed,0
+U0629,Basic,299,Renewed,0
+U0630,Premium,599,Renewed,0
+U0631,Premium,599,Renewed,0
+U0632,Premium,599,Renewed,0
+U0633,Basic,299,Not Renewed,1
+U0634,Premium,599,Not Renewed,1
+U0635,Free Trial,0,Renewed,0
+U0636,Basic,299,Not Renewed,1
+U0637,Basic,299,Not Renewed,1
+U0638,Basic,299,Renewed,0
+U0639,Free Trial,0,Not Renewed,1
+U0640,Free Trial,0,Not Renewed,1
+U0641,Basic,299,Renewed,0
+U0642,Premium,599,Renewed,0
+U0643,Basic,299,Not Renewed,1
+U0644,Basic,299,Not Renewed,1
+U0645,Premium,599,Renewed,0
+U0646,Premium,599,Renewed,0
+U0647,Basic,299,Renewed,0
+U0648,Premium,599,Not Renewed,1
+U0649,Premium,599,Renewed,0
+U0650,Free Trial,0,Renewed,0
+U0651,Free Trial,0,Not Renewed,1
+U0652,Free Trial,0,Renewed,0
+U0653,Premium,599,Renewed,0
+U0654,Premium,599,Renewed,0
+U0655,Free Trial,0,Not Renewed,1
+U0656,Premium,599,Renewed,0
+U0657,Basic,299,Not Renewed,1
+U0658,Premium,599,Renewed,0
+U0659,Basic,299,Renewed,0
+U0660,Basic,299,Renewed,0
+U0661,Premium,599,Renewed,0
+U0662,Premium,599,Not Renewed,1
+U0663,Free Trial,0,Not Renewed,1
+U0664,Premium,599,Renewed,0
+U0665,Premium,599,Not Renewed,1
+U0666,Basic,299,Renewed,0
+U0667,Free Trial,0,Not Renewed,1
+U0668,Basic,299,Renewed,0
+U0669,Premium,599,Renewed,0
+U0670,Free Trial,0,Not Renewed,1
+U0671,Premium,599,Not Renewed,1
+U0672,Free Trial,0,Not Renewed,1
+U0673,Basic,299,Not Renewed,1
+U0674,Premium,599,Renewed,0
+U0675,Free Trial,0,Not Renewed,1
+U0676,Free Trial,0,Not Renewed,1
+U0677,Free Trial,0,Not Renewed,1
+U0678,Premium,599,Renewed,0
+U0679,Basic,299,Renewed,0
+U0680,Basic,299,Not Renewed,1
+U0681,Premium,599,Renewed,0
+U0682,Free Trial,0,Not Renewed,1
+U0683,Premium,599,Renewed,0
+U0684,Free Trial,0,Not Renewed,1
+U0685,Basic,299,Renewed,0
+U0686,Free Trial,0,Not Renewed,1
+U0687,Basic,299,Renewed,0
+U0688,Free Trial,0,Not Renewed,1
+U0689,Basic,299,Renewed,0
+U0690,Basic,299,Renewed,0
+U0691,Free Trial,0,Not Renewed,1
+U0692,Basic,299,Not Renewed,1
+U0693,Basic,299,Not Renewed,1
+U0694,Free Trial,0,Not Renewed,1
+U0695,Free Trial,0,Not Renewed,1
+U0696,Free Trial,0,Not Renewed,1
+U0697,Basic,299,Not Renewed,1
+U0698,Free Trial,0,Renewed,0
+U0699,Premium,599,Renewed,0
+U0700,Premium,599,Renewed,0
+U0701,Basic,299,Renewed,0
+U0702,Free Trial,0,Renewed,0
+U0703,Premium,599,Renewed,0
+U0704,Free Trial,0,Not Renewed,1
+U0705,Premium,599,Not Renewed,1
+U0706,Premium,599,Renewed,0
+U0707,Premium,599,Renewed,0
+U0708,Free Trial,0,Renewed,0
+U0709,Free Trial,0,Renewed,0
+U0710,Free Trial,0,Not Renewed,1
+U0711,Premium,599,Renewed,0
+U0712,Free Trial,0,Not Renewed,1
+U0713,Premium,599,Renewed,0
+U0714,Basic,299,Renewed,0
+U0715,Basic,299,Renewed,0
+U0716,Basic,299,Not Renewed,1
+U0717,Basic,299,Not Renewed,1
+U0718,Free Trial,0,Not Renewed,1
+U0719,Basic,299,Renewed,0
+U0720,Free Trial,0,Renewed,0
+U0721,Premium,599,Renewed,0
+U0722,Premium,599,Not Renewed,1
+U0723,Basic,299,Not Renewed,1
+U0724,Basic,299,Not Renewed,1
+U0725,Free Trial,0,Not Renewed,1
+U0726,Basic,299,Not Renewed,1
+U0727,Free Trial,0,Renewed,0
+U0728,Basic,299,Renewed,0
+U0729,Basic,299,Not Renewed,1
+U0730,Basic,299,Not Renewed,1
+U0731,Basic,299,Renewed,0
+U0732,Basic,299,Not Renewed,1
+U0733,Basic,299,Not Renewed,1
+U0734,Free Trial,0,Not Renewed,1
+U0735,Premium,599,Not Renewed,1
+U0736,Free Trial,0,Not Renewed,1
+U0737,Free Trial,0,Not Renewed,1
+U0738,Basic,299,Not Renewed,1
+U0739,Free Trial,0,Not Renewed,1
+U0740,Premium,599,Renewed,0
+U0741,Basic,299,Renewed,0
+U0742,Basic,299,Renewed,0
+U0743,Free Trial,0,Not Renewed,1
+U0744,Basic,299,Renewed,0
+U0745,Basic,299,Renewed,0
+U0746,Free Trial,0,Not Renewed,1
+U0747,Premium,599,Renewed,0
+U0748,Premium,599,Renewed,0
+U0749,Free Trial,0,Not Renewed,1
+U0750,Premium,599,Renewed,0
+U0751,Free Trial,0,Renewed,0
+U0752,Free Trial,0,Not Renewed,1
+U0753,Basic,299,Not Renewed,1
+U0754,Premium,599,Renewed,0
+U0755,Free Trial,0,Renewed,0
+U0756,Basic,299,Not Renewed,1
+U0757,Free Trial,0,Not Renewed,1
+U0758,Premium,599,Renewed,0
+U0759,Basic,299,Renewed,0
+U0760,Basic,299,Renewed,0
+U0761,Basic,299,Renewed,0
+U0762,Premium,599,Renewed,0
+U0763,Premium,599,Renewed,0
+U0764,Premium,599,Not Renewed,1
+U0765,Free Trial,0,Not Renewed,1
+U0766,Free Trial,0,Not Renewed,1
+U0767,Basic,299,Renewed,0
+U0768,Free Trial,0,Renewed,0
+U0769,Premium,599,Renewed,0
+U0770,Premium,599,Renewed,0
+U0771,Free Trial,0,Renewed,0
+U0772,Free Trial,0,Not Renewed,1
+U0773,Basic,299,Renewed,0
+U0774,Premium,599,Renewed,0
+U0775,Premium,599,Renewed,0
+U0776,Premium,599,Renewed,0
+U0777,Premium,599,Not Renewed,1
+U0778,Premium,599,Renewed,0
+U0779,Free Trial,0,Renewed,0
+U0780,Premium,599,Renewed,0
+U0781,Basic,299,Not Renewed,1
+U0782,Free Trial,0,Renewed,0
+U0783,Basic,299,Renewed,0
+U0784,Free Trial,0,Renewed,0
+U0785,Basic,299,Not Renewed,1
+U0786,Free Trial,0,Renewed,0
+U0787,Basic,299,Not Renewed,1
+U0788,Premium,599,Renewed,0
+U0789,Premium,599,Renewed,0
+U0790,Basic,299,Renewed,0
+U0791,Basic,299,Renewed,0
+U0792,Free Trial,0,Renewed,0
+U0793,Basic,299,Not Renewed,1
+U0794,Basic,299,Renewed,0
+U0795,Premium,599,Renewed,0
+U0796,Premium,599,Renewed,0
+U0797,Basic,299,Not Renewed,1
+U0798,Premium,599,Renewed,0
+U0799,Free Trial,0,Not Renewed,1
+U0800,Basic,299,Not Renewed,1
+U0801,Free Trial,0,Not Renewed,1
+U0802,Premium,599,Not Renewed,1
+U0803,Free Trial,0,Renewed,0
+U0804,Basic,299,Renewed,0
+U0805,Free Trial,0,Renewed,0
+U0806,Basic,299,Not Renewed,1
+U0807,Premium,599,Renewed,0
+U0808,Basic,299,Not Renewed,1
+U0809,Basic,299,Renewed,0
+U0810,Free Trial,0,Not Renewed,1
+U0811,Premium,599,Renewed,0
+U0812,Premium,599,Renewed,0
+U0813,Premium,599,Renewed,0
+U0814,Free Trial,0,Not Renewed,1
+U0815,Free Trial,0,Not Renewed,1
+U0816,Free Trial,0,Not Renewed,1
+U0817,Free Trial,0,Renewed,0
+U0818,Free Trial,0,Not Renewed,1
+U0819,Basic,299,Renewed,0
+U0820,Basic,299,Not Renewed,1
+U0821,Basic,299,Not Renewed,1
+U0822,Free Trial,0,Not Renewed,1
+U0823,Basic,299,Renewed,0
+U0824,Premium,599,Renewed,0
+U0825,Basic,299,Not Renewed,1
+U0826,Premium,599,Renewed,0
+U0827,Free Trial,0,Renewed,0
+U0828,Basic,299,Renewed,0
+U0829,Free Trial,0,Not Renewed,1
+U0830,Premium,599,Renewed,0
+U0831,Free Trial,0,Not Renewed,1
+U0832,Free Trial,0,Not Renewed,1
+U0833,Premium,599,Renewed,0
+U0834,Premium,599,Renewed,0
+U0835,Premium,599,Renewed,0
+U0836,Free Trial,0,Not Renewed,1
+U0837,Free Trial,0,Not Renewed,1
+U0838,Premium,599,Renewed,0
+U0839,Free Trial,0,Not Renewed,1
+U0840,Premium,599,Not Renewed,1
+U0841,Free Trial,0,Not Renewed,1
+U0842,Free Trial,0,Not Renewed,1
+U0843,Basic,299,Not Renewed,1
+U0844,Free Trial,0,Not Renewed,1
+U0845,Free Trial,0,Not Renewed,1
+U0846,Basic,299,Not Renewed,1
+U0847,Free Trial,0,Not Renewed,1
+U0848,Basic,299,Not Renewed,1
+U0849,Premium,599,Renewed,0
+U0850,Basic,299,Renewed,0
+U0851,Free Trial,0,Not Renewed,1
+U0852,Free Trial,0,Renewed,0
+U0853,Basic,299,Renewed,0
+U0854,Premium,599,Not Renewed,1
+U0855,Free Trial,0,Not Renewed,1
+U0856,Free Trial,0,Not Renewed,1
+U0857,Basic,299,Renewed,0
+U0858,Premium,599,Renewed,0
+U0859,Free Trial,0,Not Renewed,1
+U0860,Basic,299,Not Renewed,1
+U0861,Basic,299,Not Renewed,1
+U0862,Free Trial,0,Renewed,0
+U0863,Free Trial,0,Not Renewed,1
+U0864,Premium,599,Renewed,0
+U0865,Free Trial,0,Not Renewed,1
+U0866,Basic,299,Not Renewed,1
+U0867,Free Trial,0,Not Renewed,1
+U0868,Premium,599,Renewed,0
+U0869,Premium,599,Renewed,0
+U0870,Free Trial,0,Renewed,0
+U0871,Basic,299,Renewed,0
+U0872,Free Trial,0,Not Renewed,1
+U0873,Free Trial,0,Not Renewed,1
+U0874,Free Trial,0,Not Renewed,1
+U0875,Free Trial,0,Not Renewed,1
+U0876,Free Trial,0,Not Renewed,1
+U0877,Basic,299,Not Renewed,1
+U0878,Free Trial,0,Renewed,0
+U0879,Free Trial,0,Not Renewed,1
+U0880,Premium,599,Renewed,0
+U0881,Basic,299,Renewed,0
+U0882,Basic,299,Not Renewed,1
+U0883,Free Trial,0,Renewed,0
+U0884,Premium,599,Not Renewed,1
+U0885,Premium,599,Renewed,0
+U0886,Premium,599,Renewed,0
+U0887,Free Trial,0,Not Renewed,1
+U0888,Premium,599,Renewed,0
+U0889,Basic,299,Renewed,0
+U0890,Free Trial,0,Not Renewed,1
+U0891,Premium,599,Renewed,0
+U0892,Free Trial,0,Not Renewed,1
+U0893,Basic,299,Renewed,0
+U0894,Premium,599,Renewed,0
+U0895,Free Trial,0,Renewed,0
+U0896,Basic,299,Renewed,0
+U0897,Basic,299,Renewed,0
+U0898,Premium,599,Not Renewed,1
+U0899,Free Trial,0,Renewed,0
+U0900,Premium,599,Not Renewed,1
+U0901,Free Trial,0,Renewed,0
+U0902,Free Trial,0,Renewed,0
+U0903,Free Trial,0,Not Renewed,1
+U0904,Premium,599,Renewed,0
+U0905,Basic,299,Renewed,0
+U0906,Free Trial,0,Not Renewed,1
+U0907,Free Trial,0,Not Renewed,1
+U0908,Free Trial,0,Not Renewed,1
+U0909,Free Trial,0,Not Renewed,1
+U0910,Free Trial,0,Not Renewed,1
+U0911,Basic,299,Not Renewed,1
+U0912,Basic,299,Not Renewed,1
+U0913,Free Trial,0,Not Renewed,1
+U0914,Premium,599,Not Renewed,1
+U0915,Premium,599,Renewed,0
+U0916,Free Trial,0,Renewed,0
+U0917,Free Trial,0,Not Renewed,1
+U0918,Premium,599,Renewed,0
+U0919,Basic,299,Not Renewed,1
+U0920,Basic,299,Renewed,0
+U0921,Basic,299,Not Renewed,1
+U0922,Free Trial,0,Not Renewed,1
+U0923,Premium,599,Renewed,0
+U0924,Free Trial,0,Renewed,0
+U0925,Basic,299,Not Renewed,1
+U0926,Free Trial,0,Not Renewed,1
+U0927,Premium,599,Renewed,0
+U0928,Basic,299,Renewed,0
+U0929,Free Trial,0,Not Renewed,1
+U0930,Premium,599,Not Renewed,1
+U0931,Premium,599,Not Renewed,1
+U0932,Basic,299,Renewed,0
+U0933,Free Trial,0,Not Renewed,1
+U0934,Free Trial,0,Not Renewed,1
+U0935,Basic,299,Renewed,0
+U0936,Free Trial,0,Not Renewed,1
+U0937,Free Trial,0,Renewed,0
+U0938,Free Trial,0,Not Renewed,1
+U0939,Basic,299,Renewed,0
+U0940,Premium,599,Renewed,0
+U0941,Free Trial,0,Renewed,0
+U0942,Basic,299,Renewed,0
+U0943,Free Trial,0,Not Renewed,1
+U0944,Basic,299,Renewed,0
+U0945,Free Trial,0,Not Renewed,1
+U0946,Premium,599,Renewed,0
+U0947,Basic,299,Renewed,0
+U0948,Free Trial,0,Renewed,0
+U0949,Premium,599,Not Renewed,1
+U0950,Basic,299,Renewed,0
+U0951,Basic,299,Renewed,0
+U0952,Free Trial,0,Not Renewed,1
+U0953,Premium,599,Not Renewed,1
+U0954,Free Trial,0,Not Renewed,1
+U0955,Premium,599,Renewed,0
+U0956,Free Trial,0,Renewed,0
+U0957,Free Trial,0,Not Renewed,1
+U0958,Basic,299,Renewed,0
+U0959,Premium,599,Renewed,0
+U0960,Premium,599,Renewed,0
+U0961,Premium,599,Renewed,0
+U0962,Premium,599,Renewed,0
+U0963,Free Trial,0,Not Renewed,1
+U0964,Free Trial,0,Not Renewed,1
+U0965,Basic,299,Renewed,0
+U0966,Basic,299,Not Renewed,1
+U0967,Free Trial,0,Not Renewed,1
+U0968,Basic,299,Renewed,0
+U0969,Premium,599,Renewed,0
+U0970,Basic,299,Renewed,0
+U0971,Free Trial,0,Renewed,0
+U0972,Free Trial,0,Renewed,0
+U0973,Free Trial,0,Renewed,0
+U0974,Basic,299,Renewed,0
+U0975,Premium,599,Renewed,0
+U0976,Free Trial,0,Renewed,0
+U0977,Premium,599,Renewed,0
+U0978,Basic,299,Renewed,0
+U0979,Basic,299,Renewed,0
+U0980,Basic,299,Not Renewed,1
+U0981,Basic,299,Renewed,0
+U0982,Premium,599,Not Renewed,1
+U0983,Premium,599,Renewed,0
+U0984,Basic,299,Not Renewed,1
+U0985,Premium,599,Renewed,0
+U0986,Premium,599,Renewed,0
+U0987,Free Trial,0,Renewed,0
+U0988,Premium,599,Renewed,0
+U0989,Free Trial,0,Not Renewed,1
+U0990,Basic,299,Not Renewed,1
+U0991,Free Trial,0,Not Renewed,1
+U0992,Basic,299,Not Renewed,1
+U0993,Basic,299,Not Renewed,1
+U0994,Free Trial,0,Not Renewed,1
+U0995,Premium,599,Renewed,0
+U0996,Free Trial,0,Renewed,0
+U0997,Free Trial,0,Not Renewed,1
+U0998,Free Trial,0,Renewed,0
+U0999,Premium,599,Renewed,0
+U1000,Free Trial,0,Not Renewed,1
+U1001,Premium,599,Renewed,0
+U1002,Basic,299,Not Renewed,1
+U1003,Basic,299,Renewed,0
+U1004,Free Trial,0,Not Renewed,1
+U1005,Premium,599,Renewed,0
+U1006,Free Trial,0,Not Renewed,1
+U1007,Free Trial,0,Renewed,0
+U1008,Premium,599,Renewed,0
+U1009,Premium,599,Not Renewed,1
+U1010,Basic,299,Renewed,0
+U1011,Premium,599,Renewed,0
+U1012,Free Trial,0,Renewed,0
+U1013,Basic,299,Not Renewed,1
+U1014,Basic,299,Not Renewed,1
+U1015,Free Trial,0,Not Renewed,1
+U1016,Basic,299,Renewed,0
+U1017,Premium,599,Not Renewed,1
+U1018,Basic,299,Renewed,0
+U1019,Basic,299,Renewed,0
+U1020,Basic,299,Renewed,0
+U1021,Premium,599,Not Renewed,1
+U1022,Basic,299,Renewed,0
+U1023,Free Trial,0,Renewed,0
+U1024,Premium,599,Renewed,0
+U1025,Basic,299,Renewed,0
+U1026,Premium,599,Renewed,0
+U1027,Free Trial,0,Not Renewed,1
+U1028,Basic,299,Renewed,0
+U1029,Free Trial,0,Renewed,0
+U1030,Basic,299,Renewed,0
+U1031,Basic,299,Not Renewed,1
+U1032,Basic,299,Renewed,0
+U1033,Basic,299,Not Renewed,1
+U1034,Basic,299,Renewed,0
+U1035,Free Trial,0,Not Renewed,1
+U1036,Premium,599,Not Renewed,1
+U1037,Free Trial,0,Not Renewed,1
+U1038,Basic,299,Renewed,0
+U1039,Basic,299,Renewed,0
+U1040,Premium,599,Renewed,0
+U1041,Basic,299,Not Renewed,1
+U1042,Premium,599,Renewed,0
+U1043,Free Trial,0,Renewed,0
+U1044,Basic,299,Renewed,0
+U1045,Premium,599,Renewed,0
+U1046,Basic,299,Renewed,0
+U1047,Premium,599,Renewed,0
+U1048,Premium,599,Renewed,0
+U1049,Free Trial,0,Not Renewed,1
+U1050,Free Trial,0,Not Renewed,1
+U1051,Free Trial,0,Renewed,0
+U1052,Basic,299,Not Renewed,1
+U1053,Basic,299,Renewed,0
+U1054,Basic,299,Renewed,0
+U1055,Free Trial,0,Not Renewed,1
+U1056,Free Trial,0,Not Renewed,1
+U1057,Free Trial,0,Renewed,0
+U1058,Free Trial,0,Not Renewed,1
+U1059,Basic,299,Not Renewed,1
+U1060,Free Trial,0,Not Renewed,1
+U1061,Premium,599,Not Renewed,1
+U1062,Basic,299,Renewed,0
+U1063,Free Trial,0,Renewed,0
+U1064,Basic,299,Not Renewed,1
+U1065,Free Trial,0,Renewed,0
+U1066,Premium,599,Renewed,0
+U1067,Premium,599,Renewed,0
+U1068,Basic,299,Renewed,0
+U1069,Free Trial,0,Not Renewed,1
+U1070,Premium,599,Renewed,0
+U1071,Basic,299,Renewed,0
+U1072,Premium,599,Renewed,0
+U1073,Premium,599,Renewed,0
+U1074,Free Trial,0,Not Renewed,1
+U1075,Premium,599,Renewed,0
+U1076,Premium,599,Renewed,0
+U1077,Basic,299,Not Renewed,1
+U1078,Free Trial,0,Renewed,0
+U1079,Free Trial,0,Renewed,0
+U1080,Free Trial,0,Not Renewed,1
+U1081,Free Trial,0,Renewed,0
+U1082,Free Trial,0,Not Renewed,1
+U1083,Free Trial,0,Renewed,0
+U1084,Basic,299,Renewed,0
+U1085,Basic,299,Renewed,0
+U1086,Free Trial,0,Not Renewed,1
+U1087,Premium,599,Renewed,0
+U1088,Premium,599,Renewed,0
+U1089,Premium,599,Renewed,0
+U1090,Basic,299,Renewed,0
+U1091,Basic,299,Renewed,0
+U1092,Premium,599,Not Renewed,1
+U1093,Basic,299,Renewed,0
+U1094,Free Trial,0,Renewed,0
+U1095,Free Trial,0,Not Renewed,1
+U1096,Free Trial,0,Not Renewed,1
+U1097,Basic,299,Renewed,0
+U1098,Premium,599,Not Renewed,1
+U1099,Basic,299,Renewed,0
+U1100,Basic,299,Not Renewed,1
+U1101,Free Trial,0,Not Renewed,1
+U1102,Basic,299,Renewed,0
+U1103,Free Trial,0,Not Renewed,1
+U1104,Premium,599,Renewed,0
+U1105,Basic,299,Not Renewed,1
+U1106,Free Trial,0,Renewed,0
+U1107,Basic,299,Not Renewed,1
+U1108,Basic,299,Not Renewed,1
+U1109,Basic,299,Not Renewed,1
+U1110,Free Trial,0,Not Renewed,1
+U1111,Basic,299,Not Renewed,1
+U1112,Premium,599,Not Renewed,1
+U1113,Premium,599,Not Renewed,1
+U1114,Free Trial,0,Renewed,0
+U1115,Free Trial,0,Not Renewed,1
+U1116,Free Trial,0,Renewed,0
+U1117,Free Trial,0,Renewed,0
+U1118,Basic,299,Renewed,0
+U1119,Basic,299,Not Renewed,1
+U1120,Premium,599,Renewed,0
+U1121,Premium,599,Renewed,0
+U1122,Basic,299,Renewed,0
+U1123,Premium,599,Renewed,0
+U1124,Basic,299,Renewed,0
+U1125,Basic,299,Renewed,0
+U1126,Free Trial,0,Not Renewed,1
+U1127,Free Trial,0,Renewed,0
+U1128,Free Trial,0,Renewed,0
+U1129,Premium,599,Renewed,0
+U1130,Premium,599,Renewed,0
+U1131,Free Trial,0,Not Renewed,1
+U1132,Basic,299,Renewed,0
+U1133,Premium,599,Renewed,0
+U1134,Premium,599,Renewed,0
+U1135,Basic,299,Renewed,0
+U1136,Free Trial,0,Not Renewed,1
+U1137,Basic,299,Not Renewed,1
+U1138,Basic,299,Renewed,0
+U1139,Free Trial,0,Not Renewed,1
+U1140,Premium,599,Renewed,0
+U1141,Basic,299,Not Renewed,1
+U1142,Free Trial,0,Renewed,0
+U1143,Free Trial,0,Renewed,0
+U1144,Premium,599,Not Renewed,1
+U1145,Premium,599,Renewed,0
+U1146,Free Trial,0,Not Renewed,1
+U1147,Basic,299,Renewed,0
+U1148,Premium,599,Renewed,0
+U1149,Premium,599,Renewed,0
+U1150,Free Trial,0,Not Renewed,1
+U1151,Premium,599,Not Renewed,1
+U1152,Premium,599,Not Renewed,1
+U1153,Premium,599,Renewed,0
+U1154,Basic,299,Renewed,0
+U1155,Premium,599,Renewed,0
+U1156,Premium,599,Not Renewed,1
+U1157,Free Trial,0,Renewed,0
+U1158,Premium,599,Not Renewed,1
+U1159,Free Trial,0,Not Renewed,1
+U1160,Free Trial,0,Not Renewed,1
+U1161,Premium,599,Not Renewed,1
+U1162,Basic,299,Renewed,0
+U1163,Basic,299,Not Renewed,1
+U1164,Free Trial,0,Not Renewed,1
+U1165,Premium,599,Not Renewed,1
+U1166,Free Trial,0,Not Renewed,1
+U1167,Basic,299,Not Renewed,1
+U1168,Basic,299,Not Renewed,1
+U1169,Free Trial,0,Not Renewed,1
+U1170,Premium,599,Renewed,0
+U1171,Premium,599,Renewed,0
+U1172,Free Trial,0,Not Renewed,1
+U1173,Free Trial,0,Not Renewed,1
+U1174,Basic,299,Renewed,0
+U1175,Premium,599,Renewed,0
+U1176,Basic,299,Renewed,0
+U1177,Basic,299,Not Renewed,1
+U1178,Basic,299,Renewed,0
+U1179,Basic,299,Not Renewed,1
+U1180,Free Trial,0,Not Renewed,1
+U1181,Free Trial,0,Not Renewed,1
+U1182,Free Trial,0,Not Renewed,1
+U1183,Free Trial,0,Not Renewed,1
+U1184,Free Trial,0,Renewed,0
+U1185,Basic,299,Renewed,0
+U1186,Basic,299,Renewed,0
+U1187,Premium,599,Renewed,0
+U1188,Basic,299,Not Renewed,1
+U1189,Basic,299,Not Renewed,1
+U1190,Premium,599,Renewed,0
+U1191,Free Trial,0,Renewed,0
+U1192,Premium,599,Renewed,0
+U1193,Basic,299,Renewed,0
+U1194,Premium,599,Renewed,0
+U1195,Premium,599,Renewed,0
+U1196,Free Trial,0,Not Renewed,1
+U1197,Premium,599,Renewed,0
+U1198,Free Trial,0,Renewed,0
+U1199,Premium,599,Not Renewed,1
+U1200,Basic,299,Renewed,0
+U1201,Basic,299,Renewed,0
+U1202,Free Trial,0,Not Renewed,1
+U1203,Free Trial,0,Not Renewed,1
+U1204,Premium,599,Renewed,0
+U1205,Free Trial,0,Not Renewed,1
+U1206,Basic,299,Renewed,0
+U1207,Basic,299,Renewed,0
+U1208,Premium,599,Not Renewed,1
+U1209,Basic,299,Renewed,0
+U1210,Free Trial,0,Not Renewed,1
+U1211,Free Trial,0,Renewed,0
+U1212,Premium,599,Renewed,0
+U1213,Free Trial,0,Not Renewed,1
+U1214,Basic,299,Not Renewed,1
+U1215,Basic,299,Renewed,0
+U1216,Free Trial,0,Renewed,0
+U1217,Basic,299,Renewed,0
+U1218,Free Trial,0,Not Renewed,1
+U1219,Free Trial,0,Renewed,0
+U1220,Free Trial,0,Not Renewed,1
+U1221,Premium,599,Renewed,0
+U1222,Premium,599,Not Renewed,1
+U1223,Free Trial,0,Not Renewed,1
+U1224,Free Trial,0,Not Renewed,1
+U1225,Premium,599,Renewed,0
+U1226,Basic,299,Not Renewed,1
+U1227,Basic,299,Renewed,0
+U1228,Basic,299,Not Renewed,1
+U1229,Premium,599,Not Renewed,1
+U1230,Premium,599,Renewed,0
+U1231,Free Trial,0,Not Renewed,1
+U1232,Basic,299,Not Renewed,1
+U1233,Premium,599,Renewed,0
+U1234,Basic,299,Not Renewed,1
+U1235,Free Trial,0,Not Renewed,1
+U1236,Premium,599,Renewed,0
+U1237,Free Trial,0,Not Renewed,1
+U1238,Basic,299,Renewed,0
+U1239,Basic,299,Renewed,0
+U1240,Premium,599,Renewed,0
+U1241,Free Trial,0,Not Renewed,1
+U1242,Basic,299,Renewed,0
+U1243,Premium,599,Renewed,0
+U1244,Basic,299,Not Renewed,1
+U1245,Free Trial,0,Not Renewed,1
+U1246,Premium,599,Not Renewed,1
+U1247,Free Trial,0,Not Renewed,1
+U1248,Free Trial,0,Renewed,0
+U1249,Free Trial,0,Renewed,0
+U1250,Free Trial,0,Not Renewed,1
+U1251,Premium,599,Renewed,0
+U1252,Basic,299,Not Renewed,1
+U1253,Premium,599,Renewed,0
+U1254,Free Trial,0,Not Renewed,1
+U1255,Basic,299,Renewed,0
+U1256,Basic,299,Renewed,0
+U1257,Premium,599,Renewed,0
+U1258,Basic,299,Not Renewed,1
+U1259,Basic,299,Renewed,0
+U1260,Basic,299,Not Renewed,1
+U1261,Free Trial,0,Not Renewed,1
+U1262,Premium,599,Renewed,0
+U1263,Premium,599,Renewed,0
+U1264,Free Trial,0,Not Renewed,1
+U1265,Free Trial,0,Not Renewed,1
+U1266,Premium,599,Renewed,0
+U1267,Free Trial,0,Renewed,0
+U1268,Free Trial,0,Not Renewed,1
+U1269,Basic,299,Not Renewed,1
+U1270,Premium,599,Renewed,0
+U1271,Basic,299,Renewed,0
+U1272,Basic,299,Renewed,0
+U1273,Free Trial,0,Renewed,0
+U1274,Free Trial,0,Renewed,0
+U1275,Free Trial,0,Not Renewed,1
+U1276,Premium,599,Renewed,0
+U1277,Premium,599,Renewed,0
+U1278,Free Trial,0,Renewed,0
+U1279,Premium,599,Renewed,0
+U1280,Basic,299,Not Renewed,1
+U1281,Basic,299,Not Renewed,1
+U1282,Premium,599,Renewed,0
+U1283,Basic,299,Renewed,0
+U1284,Free Trial,0,Not Renewed,1
+U1285,Basic,299,Renewed,0
+U1286,Premium,599,Renewed,0
+U1287,Free Trial,0,Not Renewed,1
+U1288,Basic,299,Renewed,0
+U1289,Basic,299,Renewed,0
+U1290,Free Trial,0,Not Renewed,1
+U1291,Free Trial,0,Not Renewed,1
+U1292,Premium,599,Renewed,0
+U1293,Basic,299,Not Renewed,1
+U1294,Premium,599,Not Renewed,1
+U1295,Premium,599,Renewed,0
+U1296,Free Trial,0,Not Renewed,1
+U1297,Free Trial,0,Not Renewed,1
+U1298,Free Trial,0,Renewed,0
+U1299,Premium,599,Renewed,0
+U1300,Basic,299,Renewed,0
+U1301,Basic,299,Not Renewed,1
+U1302,Free Trial,0,Renewed,0
+U1303,Basic,299,Renewed,0
+U1304,Free Trial,0,Renewed,0
+U1305,Premium,599,Renewed,0
+U1306,Premium,599,Renewed,0
+U1307,Basic,299,Renewed,0
+U1308,Premium,599,Renewed,0
+U1309,Free Trial,0,Not Renewed,1
+U1310,Premium,599,Renewed,0
+U1311,Free Trial,0,Not Renewed,1
+U1312,Premium,599,Renewed,0
+U1313,Premium,599,Renewed,0
+U1314,Free Trial,0,Renewed,0
+U1315,Free Trial,0,Renewed,0
+U1316,Free Trial,0,Not Renewed,1
+U1317,Basic,299,Renewed,0
+U1318,Free Trial,0,Not Renewed,1
+U1319,Basic,299,Not Renewed,1
+U1320,Basic,299,Not Renewed,1
+U1321,Basic,299,Renewed,0
+U1322,Premium,599,Renewed,0
+U1323,Basic,299,Renewed,0
+U1324,Premium,599,Renewed,0
+U1325,Premium,599,Renewed,0
+U1326,Basic,299,Renewed,0
+U1327,Basic,299,Renewed,0
+U1328,Premium,599,Renewed,0
+U1329,Free Trial,0,Not Renewed,1
+U1330,Premium,599,Not Renewed,1
+U1331,Premium,599,Not Renewed,1
+U1332,Free Trial,0,Not Renewed,1
+U1333,Free Trial,0,Not Renewed,1
+U1334,Basic,299,Not Renewed,1
+U1335,Basic,299,Renewed,0
+U1336,Basic,299,Renewed,0
+U1337,Free Trial,0,Not Renewed,1
+U1338,Premium,599,Renewed,0
+U1339,Premium,599,Renewed,0
+U1340,Basic,299,Renewed,0
+U1341,Premium,599,Renewed,0
+U1342,Free Trial,0,Renewed,0
+U1343,Basic,299,Renewed,0
+U1344,Basic,299,Renewed,0
+U1345,Premium,599,Renewed,0
+U1346,Free Trial,0,Not Renewed,1
+U1347,Premium,599,Not Renewed,1
+U1348,Basic,299,Renewed,0
+U1349,Premium,599,Renewed,0
+U1350,Premium,599,Renewed,0
+U1351,Free Trial,0,Not Renewed,1
+U1352,Free Trial,0,Not Renewed,1
+U1353,Premium,599,Not Renewed,1
+U1354,Premium,599,Renewed,0
+U1355,Free Trial,0,Renewed,0
+U1356,Free Trial,0,Not Renewed,1
+U1357,Free Trial,0,Not Renewed,1
+U1358,Basic,299,Renewed,0
+U1359,Premium,599,Renewed,0
+U1360,Premium,599,Renewed,0
+U1361,Free Trial,0,Not Renewed,1
+U1362,Basic,299,Not Renewed,1
+U1363,Premium,599,Renewed,0
+U1364,Free Trial,0,Not Renewed,1
+U1365,Free Trial,0,Not Renewed,1
+U1366,Free Trial,0,Not Renewed,1
+U1367,Free Trial,0,Not Renewed,1
+U1368,Basic,299,Renewed,0
+U1369,Premium,599,Renewed,0
+U1370,Premium,599,Renewed,0
+U1371,Premium,599,Renewed,0
+U1372,Premium,599,Renewed,0
+U1373,Premium,599,Renewed,0
+U1374,Free Trial,0,Renewed,0
+U1375,Basic,299,Not Renewed,1
+U1376,Free Trial,0,Renewed,0
+U1377,Basic,299,Not Renewed,1
+U1378,Premium,599,Not Renewed,1
+U1379,Premium,599,Renewed,0
+U1380,Basic,299,Renewed,0
+U1381,Free Trial,0,Not Renewed,1
+U1382,Free Trial,0,Not Renewed,1
+U1383,Premium,599,Renewed,0
+U1384,Free Trial,0,Not Renewed,1
+U1385,Premium,599,Renewed,0
+U1386,Premium,599,Renewed,0
+U1387,Free Trial,0,Not Renewed,1
+U1388,Basic,299,Renewed,0
+U1389,Premium,599,Renewed,0
+U1390,Premium,599,Renewed,0
+U1391,Basic,299,Renewed,0
+U1392,Basic,299,Renewed,0
+U1393,Basic,299,Renewed,0
+U1394,Basic,299,Renewed,0
+U1395,Free Trial,0,Not Renewed,1
+U1396,Basic,299,Renewed,0
+U1397,Premium,599,Not Renewed,1
+U1398,Basic,299,Not Renewed,1
+U1399,Premium,599,Renewed,0
+U1400,Free Trial,0,Not Renewed,1
+U1401,Free Trial,0,Not Renewed,1
+U1402,Basic,299,Renewed,0
+U1403,Free Trial,0,Not Renewed,1
+U1404,Basic,299,Renewed,0
+U1405,Free Trial,0,Not Renewed,1
+U1406,Basic,299,Renewed,0
+U1407,Free Trial,0,Not Renewed,1
+U1408,Premium,599,Renewed,0
+U1409,Premium,599,Renewed,0
+U1410,Basic,299,Not Renewed,1
+U1411,Free Trial,0,Not Renewed,1
+U1412,Free Trial,0,Renewed,0
+U1413,Free Trial,0,Not Renewed,1
+U1414,Free Trial,0,Not Renewed,1
+U1415,Basic,299,Not Renewed,1
+U1416,Basic,299,Renewed,0
+U1417,Premium,599,Renewed,0
+U1418,Free Trial,0,Not Renewed,1
+U1419,Basic,299,Renewed,0
+U1420,Free Trial,0,Not Renewed,1
+U1421,Premium,599,Renewed,0
+U1422,Free Trial,0,Not Renewed,1
+U1423,Free Trial,0,Not Renewed,1
+U1424,Free Trial,0,Renewed,0
+U1425,Premium,599,Renewed,0
+U1426,Free Trial,0,Renewed,0
+U1427,Premium,599,Renewed,0
+U1428,Basic,299,Not Renewed,1
+U1429,Premium,599,Renewed,0
+U1430,Free Trial,0,Not Renewed,1
+U1431,Premium,599,Renewed,0
+U1432,Premium,599,Renewed,0
+U1433,Premium,599,Renewed,0
+U1434,Premium,599,Renewed,0
+U1435,Basic,299,Renewed,0
+U1436,Basic,299,Renewed,0
+U1437,Premium,599,Renewed,0
+U1438,Basic,299,Not Renewed,1
+U1439,Basic,299,Not Renewed,1
+U1440,Basic,299,Not Renewed,1
+U1441,Premium,599,Renewed,0
+U1442,Free Trial,0,Not Renewed,1
+U1443,Premium,599,Renewed,0
+U1444,Free Trial,0,Renewed,0
+U1445,Free Trial,0,Renewed,0
+U1446,Free Trial,0,Not Renewed,1
+U1447,Basic,299,Not Renewed,1
+U1448,Free Trial,0,Not Renewed,1
+U1449,Free Trial,0,Renewed,0
+U1450,Basic,299,Renewed,0
+U1451,Basic,299,Not Renewed,1
+U1452,Basic,299,Renewed,0
+U1453,Premium,599,Renewed,0
+U1454,Premium,599,Renewed,0
+U1455,Free Trial,0,Not Renewed,1
+U1456,Premium,599,Renewed,0
+U1457,Basic,299,Renewed,0
+U1458,Free Trial,0,Not Renewed,1
+U1459,Free Trial,0,Renewed,0
+U1460,Free Trial,0,Renewed,0
+U1461,Premium,599,Renewed,0
+U1462,Basic,299,Not Renewed,1
+U1463,Basic,299,Renewed,0
+U1464,Free Trial,0,Not Renewed,1
+U1465,Free Trial,0,Not Renewed,1
+U1466,Premium,599,Not Renewed,1
+U1467,Basic,299,Renewed,0
+U1468,Premium,599,Renewed,0
+U1469,Basic,299,Renewed,0
+U1470,Free Trial,0,Not Renewed,1
+U1471,Free Trial,0,Not Renewed,1
+U1472,Premium,599,Renewed,0
+U1473,Free Trial,0,Renewed,0
+U1474,Basic,299,Renewed,0
+U1475,Basic,299,Renewed,0
+U1476,Premium,599,Renewed,0
+U1477,Free Trial,0,Not Renewed,1
+U1478,Premium,599,Renewed,0
+U1479,Basic,299,Renewed,0
+U1480,Basic,299,Not Renewed,1
+U1481,Free Trial,0,Not Renewed,1
+U1482,Free Trial,0,Not Renewed,1
+U1483,Basic,299,Not Renewed,1
+U1484,Free Trial,0,Not Renewed,1
+U1485,Basic,299,Renewed,0
+U1486,Premium,599,Renewed,0
+U1487,Free Trial,0,Not Renewed,1
+U1488,Premium,599,Not Renewed,1
+U1489,Basic,299,Not Renewed,1
+U1490,Premium,599,Renewed,0
+U1491,Basic,299,Not Renewed,1
+U1492,Premium,599,Renewed,0
+U1493,Free Trial,0,Renewed,0
+U1494,Basic,299,Renewed,0
+U1495,Free Trial,0,Renewed,0
+U1496,Premium,599,Renewed,0
+U1497,Premium,599,Renewed,0
+U1498,Premium,599,Renewed,0
+U1499,Basic,299,Not Renewed,1
+U1500,Premium,599,Not Renewed,1
+U1501,Premium,599,Not Renewed,1
+U1502,Premium,599,Renewed,0
+U1503,Free Trial,0,Renewed,0
+U1504,Free Trial,0,Not Renewed,1
+U1505,Basic,299,Not Renewed,1
+U1506,Premium,599,Renewed,0
+U1507,Premium,599,Renewed,0
+U1508,Free Trial,0,Not Renewed,1
+U1509,Basic,299,Not Renewed,1
+U1510,Premium,599,Not Renewed,1
+U1511,Premium,599,Renewed,0
+U1512,Basic,299,Renewed,0
+U1513,Basic,299,Renewed,0
+U1514,Free Trial,0,Not Renewed,1
+U1515,Basic,299,Renewed,0
+U1516,Basic,299,Not Renewed,1
+U1517,Free Trial,0,Not Renewed,1
+U1518,Free Trial,0,Not Renewed,1
+U1519,Free Trial,0,Renewed,0
+U1520,Basic,299,Renewed,0
+U1521,Premium,599,Renewed,0
+U1522,Basic,299,Not Renewed,1
+U1523,Basic,299,Renewed,0
+U1524,Premium,599,Renewed,0
+U1525,Basic,299,Renewed,0
+U1526,Basic,299,Not Renewed,1
+U1527,Free Trial,0,Not Renewed,1
+U1528,Premium,599,Renewed,0
+U1529,Free Trial,0,Not Renewed,1
+U1530,Premium,599,Renewed,0
+U1531,Basic,299,Renewed,0
+U1532,Free Trial,0,Renewed,0
+U1533,Basic,299,Renewed,0
+U1534,Free Trial,0,Not Renewed,1
+U1535,Basic,299,Renewed,0
+U1536,Premium,599,Renewed,0
+U1537,Free Trial,0,Not Renewed,1
+U1538,Premium,599,Renewed,0
+U1539,Basic,299,Not Renewed,1
+U1540,Basic,299,Renewed,0
+U1541,Free Trial,0,Renewed,0
+U1542,Basic,299,Renewed,0
+U1543,Basic,299,Not Renewed,1
+U1544,Free Trial,0,Not Renewed,1
+U1545,Premium,599,Renewed,0
+U1546,Basic,299,Not Renewed,1
+U1547,Basic,299,Not Renewed,1
+U1548,Premium,599,Renewed,0
+U1549,Free Trial,0,Not Renewed,1
+U1550,Free Trial,0,Renewed,0
+U1551,Basic,299,Not Renewed,1
+U1552,Free Trial,0,Not Renewed,1
+U1553,Premium,599,Not Renewed,1
+U1554,Free Trial,0,Not Renewed,1
+U1555,Basic,299,Not Renewed,1
+U1556,Free Trial,0,Not Renewed,1
+U1557,Free Trial,0,Not Renewed,1
+U1558,Basic,299,Not Renewed,1
+U1559,Basic,299,Renewed,0
+U1560,Basic,299,Not Renewed,1
+U1561,Free Trial,0,Renewed,0
+U1562,Basic,299,Renewed,0
+U1563,Premium,599,Renewed,0
+U1564,Premium,599,Renewed,0
+U1565,Free Trial,0,Renewed,0
+U1566,Free Trial,0,Not Renewed,1
+U1567,Basic,299,Not Renewed,1
+U1568,Free Trial,0,Renewed,0
+U1569,Premium,599,Not Renewed,1
+U1570,Free Trial,0,Not Renewed,1
+U1571,Premium,599,Renewed,0
+U1572,Free Trial,0,Renewed,0
+U1573,Basic,299,Not Renewed,1
+U1574,Basic,299,Not Renewed,1
+U1575,Free Trial,0,Renewed,0
+U1576,Free Trial,0,Not Renewed,1
+U1577,Premium,599,Not Renewed,1
+U1578,Free Trial,0,Not Renewed,1
+U1579,Basic,299,Renewed,0
+U1580,Basic,299,Not Renewed,1
+U1581,Free Trial,0,Not Renewed,1
+U1582,Basic,299,Renewed,0
+U1583,Basic,299,Renewed,0
+U1584,Premium,599,Renewed,0
+U1585,Free Trial,0,Not Renewed,1
+U1586,Free Trial,0,Not Renewed,1
+U1587,Free Trial,0,Renewed,0
+U1588,Free Trial,0,Not Renewed,1
+U1589,Basic,299,Renewed,0
+U1590,Basic,299,Not Renewed,1
+U1591,Premium,599,Renewed,0
+U1592,Free Trial,0,Not Renewed,1
+U1593,Basic,299,Renewed,0
+U1594,Free Trial,0,Not Renewed,1
+U1595,Premium,599,Renewed,0
+U1596,Free Trial,0,Renewed,0
+U1597,Basic,299,Not Renewed,1
+U1598,Free Trial,0,Renewed,0
+U1599,Premium,599,Renewed,0
+U1600,Basic,299,Not Renewed,1
+U1601,Free Trial,0,Not Renewed,1
+U1602,Free Trial,0,Not Renewed,1
+U1603,Free Trial,0,Renewed,0
+U1604,Free Trial,0,Renewed,0
+U1605,Free Trial,0,Not Renewed,1
+U1606,Basic,299,Renewed,0
+U1607,Premium,599,Not Renewed,1
+U1608,Basic,299,Not Renewed,1
+U1609,Free Trial,0,Renewed,0
+U1610,Free Trial,0,Not Renewed,1
+U1611,Premium,599,Renewed,0
+U1612,Basic,299,Not Renewed,1
+U1613,Premium,599,Renewed,0
+U1614,Free Trial,0,Renewed,0
+U1615,Free Trial,0,Not Renewed,1
+U1616,Premium,599,Renewed,0
+U1617,Free Trial,0,Not Renewed,1
+U1618,Free Trial,0,Not Renewed,1
+U1619,Premium,599,Renewed,0
+U1620,Basic,299,Renewed,0
+U1621,Basic,299,Renewed,0
+U1622,Basic,299,Not Renewed,1
+U1623,Free Trial,0,Not Renewed,1
+U1624,Free Trial,0,Not Renewed,1
+U1625,Premium,599,Renewed,0
+U1626,Premium,599,Renewed,0
+U1627,Free Trial,0,Not Renewed,1
+U1628,Premium,599,Not Renewed,1
+U1629,Basic,299,Not Renewed,1
+U1630,Basic,299,Not Renewed,1
+U1631,Basic,299,Renewed,0
+U1632,Premium,599,Renewed,0
+U1633,Free Trial,0,Renewed,0
+U1634,Free Trial,0,Renewed,0
+U1635,Free Trial,0,Renewed,0
+U1636,Free Trial,0,Not Renewed,1
+U1637,Basic,299,Not Renewed,1
+U1638,Premium,599,Not Renewed,1
+U1639,Basic,299,Not Renewed,1
+U1640,Premium,599,Not Renewed,1
+U1641,Basic,299,Not Renewed,1
+U1642,Free Trial,0,Renewed,0
+U1643,Basic,299,Not Renewed,1
+U1644,Basic,299,Renewed,0
+U1645,Basic,299,Renewed,0
+U1646,Free Trial,0,Not Renewed,1
+U1647,Basic,299,Renewed,0
+U1648,Free Trial,0,Renewed,0
+U1649,Basic,299,Renewed,0
+U1650,Free Trial,0,Not Renewed,1
+U1651,Free Trial,0,Not Renewed,1
+U1652,Free Trial,0,Renewed,0
+U1653,Free Trial,0,Not Renewed,1
+U1654,Free Trial,0,Not Renewed,1
+U1655,Basic,299,Renewed,0
+U1656,Basic,299,Renewed,0
+U1657,Free Trial,0,Not Renewed,1
+U1658,Premium,599,Renewed,0
+U1659,Premium,599,Renewed,0
+U1660,Free Trial,0,Renewed,0
+U1661,Premium,599,Renewed,0
+U1662,Free Trial,0,Not Renewed,1
+U1663,Premium,599,Renewed,0
+U1664,Free Trial,0,Not Renewed,1
+U1665,Basic,299,Renewed,0
+U1666,Basic,299,Renewed,0
+U1667,Premium,599,Renewed,0
+U1668,Basic,299,Renewed,0
+U1669,Basic,299,Renewed,0
+U1670,Free Trial,0,Not Renewed,1
+U1671,Free Trial,0,Not Renewed,1
+U1672,Free Trial,0,Renewed,0
+U1673,Premium,599,Renewed,0
+U1674,Free Trial,0,Not Renewed,1
+U1675,Basic,299,Not Renewed,1
+U1676,Premium,599,Renewed,0
+U1677,Premium,599,Renewed,0
+U1678,Basic,299,Renewed,0
+U1679,Basic,299,Renewed,0
+U1680,Free Trial,0,Renewed,0
+U1681,Free Trial,0,Not Renewed,1
+U1682,Free Trial,0,Not Renewed,1
+U1683,Basic,299,Not Renewed,1
+U1684,Basic,299,Not Renewed,1
+U1685,Premium,599,Renewed,0
+U1686,Free Trial,0,Not Renewed,1
+U1687,Premium,599,Renewed,0
+U1688,Basic,299,Renewed,0
+U1689,Free Trial,0,Renewed,0
+U1690,Basic,299,Renewed,0
+U1691,Premium,599,Renewed,0
+U1692,Free Trial,0,Not Renewed,1
+U1693,Free Trial,0,Not Renewed,1
+U1694,Basic,299,Renewed,0
+U1695,Basic,299,Renewed,0
+U1696,Premium,599,Not Renewed,1
+U1697,Premium,599,Renewed,0
+U1698,Free Trial,0,Renewed,0
+U1699,Basic,299,Renewed,0
+U1700,Premium,599,Renewed,0
+U1701,Free Trial,0,Not Renewed,1
+U1702,Premium,599,Not Renewed,1
+U1703,Basic,299,Not Renewed,1
+U1704,Premium,599,Renewed,0
+U1705,Premium,599,Not Renewed,1
+U1706,Basic,299,Renewed,0
+U1707,Basic,299,Renewed,0
+U1708,Premium,599,Renewed,0
+U1709,Premium,599,Renewed,0
+U1710,Free Trial,0,Renewed,0
+U1711,Basic,299,Not Renewed,1
+U1712,Basic,299,Renewed,0
+U1713,Free Trial,0,Not Renewed,1
+U1714,Basic,299,Not Renewed,1
+U1715,Premium,599,Renewed,0
+U1716,Premium,599,Renewed,0
+U1717,Premium,599,Renewed,0
+U1718,Premium,599,Renewed,0
+U1719,Basic,299,Renewed,0
+U1720,Free Trial,0,Renewed,0
+U1721,Premium,599,Renewed,0
+U1722,Basic,299,Not Renewed,1
+U1723,Free Trial,0,Renewed,0
+U1724,Premium,599,Renewed,0
+U1725,Free Trial,0,Not Renewed,1
+U1726,Premium,599,Renewed,0
+U1727,Premium,599,Not Renewed,1
+U1728,Free Trial,0,Not Renewed,1
+U1729,Basic,299,Not Renewed,1
+U1730,Basic,299,Not Renewed,1
+U1731,Premium,599,Renewed,0
+U1732,Premium,599,Not Renewed,1
+U1733,Free Trial,0,Not Renewed,1
+U1734,Basic,299,Renewed,0
+U1735,Premium,599,Renewed,0
+U1736,Free Trial,0,Not Renewed,1
+U1737,Basic,299,Renewed,0
+U1738,Free Trial,0,Not Renewed,1
+U1739,Basic,299,Not Renewed,1
+U1740,Premium,599,Renewed,0
+U1741,Basic,299,Renewed,0
+U1742,Free Trial,0,Not Renewed,1
+U1743,Basic,299,Not Renewed,1
+U1744,Basic,299,Renewed,0
+U1745,Free Trial,0,Renewed,0
+U1746,Basic,299,Renewed,0
+U1747,Free Trial,0,Not Renewed,1
+U1748,Premium,599,Renewed,0
+U1749,Free Trial,0,Not Renewed,1
+U1750,Free Trial,0,Not Renewed,1
+U1751,Free Trial,0,Not Renewed,1
+U1752,Basic,299,Renewed,0
+U1753,Basic,299,Renewed,0
+U1754,Free Trial,0,Not Renewed,1
+U1755,Free Trial,0,Not Renewed,1
+U1756,Free Trial,0,Not Renewed,1
+U1757,Premium,599,Renewed,0
+U1758,Free Trial,0,Not Renewed,1
+U1759,Premium,599,Not Renewed,1
+U1760,Premium,599,Renewed,0
+U1761,Free Trial,0,Not Renewed,1
+U1762,Free Trial,0,Not Renewed,1
+U1763,Premium,599,Renewed,0
+U1764,Premium,599,Renewed,0
+U1765,Free Trial,0,Renewed,0
+U1766,Free Trial,0,Renewed,0
+U1767,Free Trial,0,Not Renewed,1
+U1768,Free Trial,0,Renewed,0
+U1769,Premium,599,Renewed,0
+U1770,Premium,599,Renewed,0
+U1771,Premium,599,Renewed,0
+U1772,Free Trial,0,Renewed,0
+U1773,Premium,599,Renewed,0
+U1774,Basic,299,Not Renewed,1
+U1775,Basic,299,Not Renewed,1
+U1776,Free Trial,0,Not Renewed,1
+U1777,Basic,299,Renewed,0
+U1778,Basic,299,Renewed,0
+U1779,Premium,599,Renewed,0
+U1780,Basic,299,Not Renewed,1
+U1781,Free Trial,0,Not Renewed,1
+U1782,Basic,299,Not Renewed,1
+U1783,Basic,299,Renewed,0
+U1784,Basic,299,Renewed,0
+U1785,Premium,599,Renewed,0
+U1786,Free Trial,0,Not Renewed,1
+U1787,Premium,599,Renewed,0
+U1788,Basic,299,Not Renewed,1
+U1789,Basic,299,Renewed,0
+U1790,Basic,299,Renewed,0
+U1791,Free Trial,0,Not Renewed,1
+U1792,Premium,599,Renewed,0
+U1793,Premium,599,Not Renewed,1
+U1794,Free Trial,0,Renewed,0
+U1795,Premium,599,Renewed,0
+U1796,Basic,299,Renewed,0
+U1797,Free Trial,0,Not Renewed,1
+U1798,Free Trial,0,Not Renewed,1
+U1799,Basic,299,Renewed,0
+U1800,Free Trial,0,Not Renewed,1
+U1801,Premium,599,Renewed,0
+U1802,Premium,599,Renewed,0
+U1803,Free Trial,0,Not Renewed,1
+U1804,Basic,299,Not Renewed,1
+U1805,Premium,599,Renewed,0
+U1806,Basic,299,Renewed,0
+U1807,Free Trial,0,Not Renewed,1
+U1808,Premium,599,Renewed,0
+U1809,Premium,599,Renewed,0
+U1810,Basic,299,Not Renewed,1
+U1811,Premium,599,Renewed,0
+U1812,Free Trial,0,Renewed,0
+U1813,Premium,599,Not Renewed,1
+U1814,Premium,599,Renewed,0
+U1815,Basic,299,Renewed,0
+U1816,Basic,299,Renewed,0
+U1817,Premium,599,Renewed,0
+U1818,Premium,599,Renewed,0
+U1819,Free Trial,0,Not Renewed,1
+U1820,Free Trial,0,Not Renewed,1
+U1821,Free Trial,0,Renewed,0
+U1822,Premium,599,Renewed,0
+U1823,Basic,299,Renewed,0
+U1824,Basic,299,Renewed,0
+U1825,Premium,599,Not Renewed,1
+U1826,Basic,299,Renewed,0
+U1827,Premium,599,Renewed,0
+U1828,Basic,299,Not Renewed,1
+U1829,Premium,599,Renewed,0
+U1830,Basic,299,Renewed,0
+U1831,Basic,299,Renewed,0
+U1832,Basic,299,Renewed,0
+U1833,Basic,299,Not Renewed,1
+U1834,Premium,599,Not Renewed,1
+U1835,Basic,299,Renewed,0
+U1836,Basic,299,Not Renewed,1
+U1837,Premium,599,Renewed,0
+U1838,Free Trial,0,Not Renewed,1
+U1839,Free Trial,0,Renewed,0
+U1840,Premium,599,Renewed,0
+U1841,Basic,299,Renewed,0
+U1842,Basic,299,Renewed,0
+U1843,Basic,299,Renewed,0
+U1844,Basic,299,Not Renewed,1
+U1845,Free Trial,0,Not Renewed,1
+U1846,Free Trial,0,Not Renewed,1
+U1847,Free Trial,0,Renewed,0
+U1848,Free Trial,0,Renewed,0
+U1849,Basic,299,Renewed,0
+U1850,Basic,299,Not Renewed,1
+U1851,Free Trial,0,Not Renewed,1
+U1852,Basic,299,Renewed,0
+U1853,Basic,299,Renewed,0
+U1854,Basic,299,Renewed,0
+U1855,Free Trial,0,Not Renewed,1
+U1856,Premium,599,Renewed,0
+U1857,Premium,599,Renewed,0
+U1858,Premium,599,Not Renewed,1
+U1859,Basic,299,Renewed,0
+U1860,Premium,599,Renewed,0
+U1861,Premium,599,Not Renewed,1
+U1862,Basic,299,Not Renewed,1
+U1863,Basic,299,Not Renewed,1
+U1864,Basic,299,Not Renewed,1
+U1865,Free Trial,0,Renewed,0
+U1866,Premium,599,Renewed,0
+U1867,Basic,299,Renewed,0
+U1868,Basic,299,Renewed,0
+U1869,Premium,599,Renewed,0
+U1870,Premium,599,Renewed,0
+U1871,Basic,299,Not Renewed,1
+U1872,Free Trial,0,Not Renewed,1
+U1873,Basic,299,Renewed,0
+U1874,Premium,599,Renewed,0
+U1875,Free Trial,0,Not Renewed,1
+U1876,Free Trial,0,Not Renewed,1
+U1877,Basic,299,Not Renewed,1
+U1878,Premium,599,Renewed,0
+U1879,Premium,599,Renewed,0
+U1880,Basic,299,Renewed,0
+U1881,Basic,299,Renewed,0
+U1882,Premium,599,Renewed,0
+U1883,Premium,599,Renewed,0
+U1884,Free Trial,0,Not Renewed,1
+U1885,Premium,599,Renewed,0
+U1886,Premium,599,Renewed,0
+U1887,Premium,599,Renewed,0
+U1888,Premium,599,Renewed,0
+U1889,Premium,599,Renewed,0
+U1890,Premium,599,Renewed,0
+U1891,Free Trial,0,Not Renewed,1
+U1892,Premium,599,Renewed,0
+U1893,Basic,299,Renewed,0
+U1894,Free Trial,0,Not Renewed,1
+U1895,Free Trial,0,Not Renewed,1
+U1896,Free Trial,0,Renewed,0
+U1897,Basic,299,Not Renewed,1
+U1898,Basic,299,Renewed,0
+U1899,Premium,599,Renewed,0
+U1900,Basic,299,Renewed,0
+U1901,Basic,299,Not Renewed,1
+U1902,Premium,599,Not Renewed,1
+U1903,Basic,299,Not Renewed,1
+U1904,Free Trial,0,Renewed,0
+U1905,Free Trial,0,Not Renewed,1
+U1906,Basic,299,Not Renewed,1
+U1907,Free Trial,0,Not Renewed,1
+U1908,Premium,599,Renewed,0
+U1909,Basic,299,Renewed,0
+U1910,Basic,299,Renewed,0
+U1911,Basic,299,Renewed,0
+U1912,Free Trial,0,Not Renewed,1
+U1913,Premium,599,Not Renewed,1
+U1914,Free Trial,0,Not Renewed,1
+U1915,Basic,299,Not Renewed,1
+U1916,Free Trial,0,Renewed,0
+U1917,Free Trial,0,Not Renewed,1
+U1918,Basic,299,Not Renewed,1
+U1919,Free Trial,0,Not Renewed,1
+U1920,Basic,299,Renewed,0
+U1921,Premium,599,Renewed,0
+U1922,Basic,299,Renewed,0
+U1923,Free Trial,0,Renewed,0
+U1924,Basic,299,Not Renewed,1
+U1925,Premium,599,Renewed,0
+U1926,Premium,599,Not Renewed,1
+U1927,Premium,599,Renewed,0
+U1928,Free Trial,0,Not Renewed,1
+U1929,Free Trial,0,Not Renewed,1
+U1930,Premium,599,Renewed,0
+U1931,Basic,299,Not Renewed,1
+U1932,Basic,299,Renewed,0
+U1933,Premium,599,Renewed,0
+U1934,Free Trial,0,Not Renewed,1
+U1935,Basic,299,Renewed,0
+U1936,Basic,299,Not Renewed,1
+U1937,Premium,599,Renewed,0
+U1938,Free Trial,0,Not Renewed,1
+U1939,Basic,299,Renewed,0
+U1940,Basic,299,Not Renewed,1
+U1941,Free Trial,0,Not Renewed,1
+U1942,Free Trial,0,Not Renewed,1
+U1943,Basic,299,Not Renewed,1
+U1944,Basic,299,Not Renewed,1
+U1945,Premium,599,Renewed,0
+U1946,Premium,599,Renewed,0
+U1947,Free Trial,0,Renewed,0
+U1948,Premium,599,Renewed,0
+U1949,Basic,299,Renewed,0
+U1950,Basic,299,Renewed,0
+U1951,Basic,299,Not Renewed,1
+U1952,Basic,299,Not Renewed,1
+U1953,Premium,599,Renewed,0
+U1954,Free Trial,0,Renewed,0
+U1955,Premium,599,Renewed,0
+U1956,Premium,599,Renewed,0
+U1957,Premium,599,Renewed,0
+U1958,Basic,299,Not Renewed,1
+U1959,Basic,299,Renewed,0
+U1960,Free Trial,0,Not Renewed,1
+U1961,Basic,299,Renewed,0
+U1962,Basic,299,Not Renewed,1
+U1963,Basic,299,Not Renewed,1
+U1964,Premium,599,Renewed,0
+U1965,Basic,299,Renewed,0
+U1966,Premium,599,Renewed,0
+U1967,Basic,299,Renewed,0
+U1968,Basic,299,Renewed,0
+U1969,Premium,599,Renewed,0
+U1970,Premium,599,Not Renewed,1
+U1971,Free Trial,0,Not Renewed,1
+U1972,Basic,299,Renewed,0
+U1973,Free Trial,0,Not Renewed,1
+U1974,Free Trial,0,Not Renewed,1
+U1975,Basic,299,Renewed,0
+U1976,Basic,299,Not Renewed,1
+U1977,Premium,599,Renewed,0
+U1978,Premium,599,Renewed,0
+U1979,Free Trial,0,Not Renewed,1
+U1980,Premium,599,Renewed,0
+U1981,Basic,299,Not Renewed,1
+U1982,Free Trial,0,Not Renewed,1
+U1983,Premium,599,Renewed,0
+U1984,Basic,299,Renewed,0
+U1985,Basic,299,Not Renewed,1
+U1986,Free Trial,0,Not Renewed,1
+U1987,Premium,599,Renewed,0
+U1988,Basic,299,Renewed,0
+U1989,Basic,299,Not Renewed,1
+U1990,Basic,299,Not Renewed,1
+U1991,Basic,299,Not Renewed,1
+U1992,Basic,299,Renewed,0
+U1993,Premium,599,Renewed,0
+U1994,Basic,299,Renewed,0
+U1995,Premium,599,Renewed,0
+U1996,Free Trial,0,Not Renewed,1
+U1997,Free Trial,0,Not Renewed,1
+U1998,Free Trial,0,Renewed,0
+U1999,Premium,599,Renewed,0
+U2000,Basic,299,Not Renewed,1
